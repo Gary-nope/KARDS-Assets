@@ -22,7 +22,7 @@
 ```text
 kards-assets/
 ├── ui/                 # 基础 UI 图标（阵营图标、金币、稀有度标志等）
-├── CardBacks_Resized/         # 官方卡背图片 (.png / .webp)
+├── CardBacks_Resized/  # 官方卡背图片 (.png / .webp)
 ├── medals/             # 游戏内勋章及成就图标
 ├── audio/              # 游戏内音频资源
 │   └── sfx/            # 1~3秒的短音效（卡牌部署、攻击、消灭音效等）
@@ -69,7 +69,7 @@ To ensure clean management, all assets are organized under the following standar
 ```text
 kards-assets/
 ├── ui/                 # General UI icons (factions, currency, rarities, etc.)
-├── CardBacks_Resized/         # Official card back images (.png / .webp)
+├── CardBacks_Resized/  # Official card back images (.png / .webp)
 ├── medals/             # In-game medals and achievement badges
 ├── audio/              # In-game audio clips
 │   └── sfx/            # Short sound effects (deploy, attack, destroy, etc.)
