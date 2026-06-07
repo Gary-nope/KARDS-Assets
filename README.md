@@ -25,7 +25,8 @@ kards-assets/
 ├── CardBacks_Resized/  # 官方卡背图片 (.png / .webp)
 ├── medals/             # 游戏内勋章及成就图标
 ├── audio/              # 游戏内音频资源
-│   └── sfx/            # 1~3秒的短音效（卡牌部署、攻击、消灭音效等）
+│   ├── sfx/            # 1~3秒的短音效（卡牌部署、攻击、消灭音效等）
+│   └── bgmusic/        # 游戏中的背景音乐
 └── data/               # 官方固定的静态 .json 数据集
 
 ```
@@ -64,7 +65,7 @@ This repository serves as the official static asset hosting registry for `KARDS-
 
 ### 📂 Directory Structure
 
-To ensure clean management, all assets are organized under the following standard:
+To ensure clean management, all assets are organized under the following standards:
 
 ```text
 kards-assets/
@@ -72,7 +73,8 @@ kards-assets/
 ├── CardBacks_Resized/  # Official card back images (.png / .webp)
 ├── medals/             # In-game medals and achievement badges
 ├── audio/              # In-game audio clips
-│   └── sfx/            # Short sound effects (deploy, attack, destroy, etc.)
+│   ├── sfx/            # Short sound effects (deploy, attack, destroy, etc.)
+│   └── bgmusic/        # Background music that is being used throughout the game
 └── data/               # Fixed static .json datasets
 
 ```
