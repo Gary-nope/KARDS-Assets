@@ -2526,6 +2526,136 @@
       "size": 404685
     },
     {
+      "path": "HQ2_unknown-id_Resized/Alam_Halfa.png",
+      "type": "blob",
+      "size": 476787
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Alexandria.png",
+      "type": "blob",
+      "size": 582668
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Arnhem.png",
+      "type": "blob",
+      "size": 656640
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Arracourt.png",
+      "type": "blob",
+      "size": 633717
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Baguio.png",
+      "type": "blob",
+      "size": 534902
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bastogne.png",
+      "type": "blob",
+      "size": 609169
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bryansk.png",
+      "type": "blob",
+      "size": 730795
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker1.png",
+      "type": "blob",
+      "size": 538401
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Cherbourg.png",
+      "type": "blob",
+      "size": 652659
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Danzig.png",
+      "type": "blob",
+      "size": 697051
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress1.png",
+      "type": "blob",
+      "size": 554504
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/El_Alamein.png",
+      "type": "blob",
+      "size": 626197
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet1.png",
+      "type": "blob",
+      "size": 505329
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Guadalcanal.png",
+      "type": "blob",
+      "size": 625480
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Kursk.png",
+      "type": "blob",
+      "size": 465006
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/London.png",
+      "type": "blob",
+      "size": 693471
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Manila.png",
+      "type": "blob",
+      "size": 635083
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Moscow.png",
+      "type": "blob",
+      "size": 626828
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Rangoon.png",
+      "type": "blob",
+      "size": 360780
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Stalingrad.png",
+      "type": "blob",
+      "size": 652708
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Supply_Train.png",
+      "type": "blob",
+      "size": 605549
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Truk.png",
+      "type": "blob",
+      "size": 496725
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Tunis.png",
+      "type": "blob",
+      "size": 713540
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Villers_Bocage.png",
+      "type": "blob",
+      "size": 485776
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Washington.png",
+      "type": "blob",
+      "size": 642469
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/hq_names.json",
+      "type": "blob",
+      "size": 726
+    },
+    {
       "path": "README.md",
       "type": "blob",
       "size": 5303
