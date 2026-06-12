@@ -861,16 +861,6 @@
       "size": 570446
     },
     {
-      "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_-_Finals_3.png",
-      "type": "blob",
-      "size": 416044
-    },
-    {
-      "path": "CardBacks_Resized/Kards_Set_-_Championship_2019__finals_2.png",
-      "type": "blob",
-      "size": 518094
-    },
-    {
       "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_a2.png",
       "type": "blob",
       "size": 400082
@@ -881,7 +871,7 @@
       "size": 405612
     },
     {
-      "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_c2_png.png",
+      "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_c2.png",
       "type": "blob",
       "size": 406323
     },
@@ -889,6 +879,11 @@
       "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_finals_1.png",
       "type": "blob",
       "size": 504743
+    },
+    {
+      "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_finals_2.png",
+      "type": "blob",
+      "size": 518094
     },
     {
       "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_finals_3.png",
@@ -904,6 +899,11 @@
       "path": "CardBacks_Resized/Kards_Set_-_Championship_2020_-_Finals_2.png",
       "type": "blob",
       "size": 427034
+    },
+    {
+      "path": "CardBacks_Resized/Kards_Set_-_Championship_2020_-_Finals_3.png",
+      "type": "blob",
+      "size": 416044
     },
     {
       "path": "CardBacks_Resized/Kards_Set_-_Championship_2020_a.png",
