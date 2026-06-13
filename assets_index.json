@@ -861,16 +861,6 @@
       "size": 570446
     },
     {
-      "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_-_Finals_3.png",
-      "type": "blob",
-      "size": 416044
-    },
-    {
-      "path": "CardBacks_Resized/Kards_Set_-_Championship_2019__finals_2.png",
-      "type": "blob",
-      "size": 518094
-    },
-    {
       "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_a2.png",
       "type": "blob",
       "size": 400082
@@ -881,7 +871,7 @@
       "size": 405612
     },
     {
-      "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_c2_png.png",
+      "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_c2.png",
       "type": "blob",
       "size": 406323
     },
@@ -889,6 +879,11 @@
       "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_finals_1.png",
       "type": "blob",
       "size": 504743
+    },
+    {
+      "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_finals_2.png",
+      "type": "blob",
+      "size": 518094
     },
     {
       "path": "CardBacks_Resized/Kards_Set_-_Championship_2019_finals_3.png",
@@ -904,6 +899,11 @@
       "path": "CardBacks_Resized/Kards_Set_-_Championship_2020_-_Finals_2.png",
       "type": "blob",
       "size": 427034
+    },
+    {
+      "path": "CardBacks_Resized/Kards_Set_-_Championship_2020_-_Finals_3.png",
+      "type": "blob",
+      "size": 416044
     },
     {
       "path": "CardBacks_Resized/Kards_Set_-_Championship_2020_a.png",
@@ -2528,132 +2528,237 @@
     {
       "path": "HQ2_unknown-id_Resized/Alam_Halfa.png",
       "type": "blob",
-      "size": 476787
+      "size": 464304
     },
     {
       "path": "HQ2_unknown-id_Resized/Alexandria.png",
       "type": "blob",
-      "size": 582668
+      "size": 568597
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Ardennes.png",
+      "type": "blob",
+      "size": 593181
     },
     {
       "path": "HQ2_unknown-id_Resized/Arnhem.png",
       "type": "blob",
-      "size": 656640
+      "size": 640135
     },
     {
       "path": "HQ2_unknown-id_Resized/Arracourt.png",
       "type": "blob",
-      "size": 633717
+      "size": 623103
     },
     {
       "path": "HQ2_unknown-id_Resized/Baguio.png",
       "type": "blob",
-      "size": 534902
+      "size": 522775
     },
     {
       "path": "HQ2_unknown-id_Resized/Bastogne.png",
       "type": "blob",
-      "size": 609169
+      "size": 595758
     },
     {
       "path": "HQ2_unknown-id_Resized/Bryansk.png",
       "type": "blob",
-      "size": 730795
+      "size": 722883
     },
     {
-      "path": "HQ2_unknown-id_Resized/Bunker1.png",
+      "path": "HQ2_unknown-id_Resized/Bunker_Blank.png",
       "type": "blob",
-      "size": 538401
+      "size": 529221
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_Britain.png",
+      "type": "blob",
+      "size": 532259
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_Germany.png",
+      "type": "blob",
+      "size": 537647
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_Japan.png",
+      "type": "blob",
+      "size": 530286
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_Soviet.png",
+      "type": "blob",
+      "size": 535570
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_USA.png",
+      "type": "blob",
+      "size": 545399
     },
     {
       "path": "HQ2_unknown-id_Resized/Cherbourg.png",
       "type": "blob",
-      "size": 652659
+      "size": 643112
     },
     {
       "path": "HQ2_unknown-id_Resized/Danzig.png",
       "type": "blob",
-      "size": 697051
+      "size": 687306
     },
     {
-      "path": "HQ2_unknown-id_Resized/Darwin_Fortress1.png",
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Blank.png",
       "type": "blob",
-      "size": 554504
+      "size": 541846
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Britain.png",
+      "type": "blob",
+      "size": 547224
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Germany.png",
+      "type": "blob",
+      "size": 549265
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Japan.png",
+      "type": "blob",
+      "size": 543664
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Soviet.png",
+      "type": "blob",
+      "size": 549209
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_USA.png",
+      "type": "blob",
+      "size": 559199
     },
     {
       "path": "HQ2_unknown-id_Resized/El_Alamein.png",
       "type": "blob",
-      "size": 626197
+      "size": 615592
     },
     {
-      "path": "HQ2_unknown-id_Resized/Fleet1.png",
+      "path": "HQ2_unknown-id_Resized/Fleet_Blank.png",
       "type": "blob",
-      "size": 505329
+      "size": 496877
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_Britain.png",
+      "type": "blob",
+      "size": 496310
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_Germany.png",
+      "type": "blob",
+      "size": 499892
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_Japan.png",
+      "type": "blob",
+      "size": 494161
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_Soviet.png",
+      "type": "blob",
+      "size": 499585
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_USA.png",
+      "type": "blob",
+      "size": 517795
     },
     {
       "path": "HQ2_unknown-id_Resized/Guadalcanal.png",
       "type": "blob",
-      "size": 625480
+      "size": 614356
     },
     {
       "path": "HQ2_unknown-id_Resized/Kursk.png",
       "type": "blob",
-      "size": 465006
+      "size": 452877
     },
     {
       "path": "HQ2_unknown-id_Resized/London.png",
       "type": "blob",
-      "size": 693471
+      "size": 685579
     },
     {
       "path": "HQ2_unknown-id_Resized/Manila.png",
       "type": "blob",
-      "size": 635083
+      "size": 625696
     },
     {
       "path": "HQ2_unknown-id_Resized/Moscow.png",
       "type": "blob",
-      "size": 626828
+      "size": 617468
     },
     {
       "path": "HQ2_unknown-id_Resized/Rangoon.png",
       "type": "blob",
-      "size": 360780
+      "size": 344711
     },
     {
       "path": "HQ2_unknown-id_Resized/Stalingrad.png",
       "type": "blob",
-      "size": 652708
+      "size": 640461
     },
     {
-      "path": "HQ2_unknown-id_Resized/Supply_Train.png",
+      "path": "HQ2_unknown-id_Resized/Supply_Train_Blank.png",
       "type": "blob",
-      "size": 605549
+      "size": 593231
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Supply_Train_Britain.png",
+      "type": "blob",
+      "size": 573496
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Supply_Train_Germany.png",
+      "type": "blob",
+      "size": 579146
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Supply_Train_Japan.png",
+      "type": "blob",
+      "size": 572642
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Supply_Train_Soviet.png",
+      "type": "blob",
+      "size": 578094
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Supply_Train_USA.png",
+      "type": "blob",
+      "size": 589127
     },
     {
       "path": "HQ2_unknown-id_Resized/Truk.png",
       "type": "blob",
-      "size": 496725
+      "size": 484212
     },
     {
       "path": "HQ2_unknown-id_Resized/Tunis.png",
       "type": "blob",
-      "size": 713540
+      "size": 702133
     },
     {
       "path": "HQ2_unknown-id_Resized/Villers_Bocage.png",
       "type": "blob",
-      "size": 485776
+      "size": 471499
     },
     {
       "path": "HQ2_unknown-id_Resized/Washington.png",
       "type": "blob",
-      "size": 642469
+      "size": 632803
     },
     {
       "path": "HQ2_unknown-id_Resized/hq_names.json",
       "type": "blob",
-      "size": 726
+      "size": 1781
     },
     {
       "path": "README.md",
