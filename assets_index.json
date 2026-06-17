@@ -2761,6 +2761,106 @@
       "size": 1781
     },
     {
+      "path": "KD_Main_Poster/Britain/RL_monty.png",
+      "type": "blob",
+      "size": 2855899
+    },
+    {
+      "path": "KD_Main_Poster/Germany/RL_136_gebirgsjger.jpg",
+      "type": "blob",
+      "size": 338572
+    },
+    {
+      "path": "KD_Main_Poster/Germany/RL_139_gebirgsjger.jpg",
+      "type": "blob",
+      "size": 301746
+    },
+    {
+      "path": "KD_Main_Poster/Germany/RL_40_panzergrenadier.jpg",
+      "type": "blob",
+      "size": 152935
+    },
+    {
+      "path": "KD_Main_Poster/Germany/RL_43_infantry_regiment.jpg",
+      "type": "blob",
+      "size": 580796
+    },
+    {
+      "path": "KD_Main_Poster/Germany/RL_96_infantry_regiment.png",
+      "type": "blob",
+      "size": 3177864
+    },
+    {
+      "path": "KD_Main_Poster/Germany/RL_blitz_doctrine.png",
+      "type": "blob",
+      "size": 2988433
+    },
+    {
+      "path": "KD_Main_Poster/Germany/RL_blitzkrieg.jpg",
+      "type": "blob",
+      "size": 1064926
+    },
+    {
+      "path": "KD_Main_Poster/Germany/RL_fast_heinz.jpg",
+      "type": "blob",
+      "size": 157722
+    },
+    {
+      "path": "KD_Main_Poster/Italy/RL_la_decima.png",
+      "type": "blob",
+      "size": 3064623
+    },
+    {
+      "path": "KD_Main_Poster/Italy/RL_the_dagger_strikes.png",
+      "type": "blob",
+      "size": 2479765
+    },
+    {
+      "path": "KD_Main_Poster/Japan/RL_admiral_yamamoto.png",
+      "type": "blob",
+      "size": 2472545
+    },
+    {
+      "path": "KD_Main_Poster/Neutral/RL_routed_troops.png",
+      "type": "blob",
+      "size": 1394343
+    },
+    {
+      "path": "KD_Main_Poster/Soviet/RL_4th_guards_rifles.png",
+      "type": "blob",
+      "size": 1267730
+    },
+    {
+      "path": "KD_Main_Poster/Soviet/RL_rush.png",
+      "type": "blob",
+      "size": 2750650
+    },
+    {
+      "path": "KD_Main_Poster/USA/RL_593rd_jasco.jpg",
+      "type": "blob",
+      "size": 686083
+    },
+    {
+      "path": "KD_Main_Poster/USA/RL_cyclone_division.png",
+      "type": "blob",
+      "size": 2748318
+    },
+    {
+      "path": "KD_Main_Poster/USA/RL_in_hour_of_need.jpg",
+      "type": "blob",
+      "size": 1086538
+    },
+    {
+      "path": "KD_Main_Poster/USA/RL_yank.png",
+      "type": "blob",
+      "size": 2370858
+    },
+    {
+      "path": "KD_Main_Poster/authors.json",
+      "type": "blob",
+      "size": 1742
+    },
+    {
       "path": "README.md",
       "type": "blob",
       "size": 5303
