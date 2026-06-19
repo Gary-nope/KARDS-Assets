@@ -381,14 +381,14 @@
       "size": 412162
     },
     {
-      "path": "CardBacks_Resized/Breakthrougb_color_po2.png",
-      "type": "blob",
-      "size": 509460
-    },
-    {
       "path": "CardBacks_Resized/Breakthrough_a_color_po2.png",
       "type": "blob",
       "size": 471399
+    },
+    {
+      "path": "CardBacks_Resized/Breakthrough_b_color_po2.png",
+      "type": "blob",
+      "size": 509460
     },
     {
       "path": "CardBacks_Resized/Breakthrough_c_color_po2.png",
