@@ -2939,11 +2939,6 @@
       "path": "generate.ps1",
       "type": "blob",
       "size": 549
-    },
-    {
-      "path": "vercel.json",
-      "type": "blob",
-      "size": 282
     }
   ]
 }
