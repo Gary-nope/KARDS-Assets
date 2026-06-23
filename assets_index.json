@@ -2766,6 +2766,11 @@
       "size": 2487469
     },
     {
+      "path": "KD_Main_Poster/Britain/RL_forward_observers.jpg",
+      "type": "blob",
+      "size": 1069655
+    },
+    {
       "path": "KD_Main_Poster/Britain/RL_his_majestys_chosen.png",
       "type": "blob",
       "size": 2953385
@@ -2776,9 +2781,29 @@
       "size": 2855899
     },
     {
+      "path": "KD_Main_Poster/Britain/RL_slashers.jpg",
+      "type": "blob",
+      "size": 1335117
+    },
+    {
+      "path": "KD_Main_Poster/Finland/RL_sisu.jpg",
+      "type": "blob",
+      "size": 944653
+    },
+    {
+      "path": "KD_Main_Poster/Finland/RL_the_white_death.jpg",
+      "type": "blob",
+      "size": 1285020
+    },
+    {
       "path": "KD_Main_Poster/France/RL_2e_brigade.png",
       "type": "blob",
       "size": 3531086
+    },
+    {
+      "path": "KD_Main_Poster/France/RL_phoney_war.jpg",
+      "type": "blob",
+      "size": 1293100
     },
     {
       "path": "KD_Main_Poster/Germany/RL_136_gebirgsjger.jpg",
@@ -2861,6 +2886,11 @@
       "size": 2577709
     },
     {
+      "path": "KD_Main_Poster/Poland/RL_16th_tarnow_regiment.jpg",
+      "type": "blob",
+      "size": 1217422
+    },
+    {
       "path": "KD_Main_Poster/Soviet/RL_4th_guards_rifles.png",
       "type": "blob",
       "size": 1267730
@@ -2898,7 +2928,7 @@
     {
       "path": "KD_Main_Poster/authors.json",
       "type": "blob",
-      "size": 2505
+      "size": 3063
     },
     {
       "path": "README.md",
