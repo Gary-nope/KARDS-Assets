@@ -1,11 +1,6 @@
 {
   "tree": [
     {
-      "path": "KD_Main_Poster/Soviet/15th_motor_rifles.jpg",
-      "type": "blob",
-      "size": 505512
-    },
-    {
       "path": "CardBacks_Resized/11_infantry_division_a_512.png",
       "type": "blob",
       "size": 579066
@@ -2811,6 +2806,11 @@
       "size": 1293100
     },
     {
+      "path": "KD_Main_Poster/Germany/RL_119_grenadier.png",
+      "type": "blob",
+      "size": 3671637
+    },
+    {
       "path": "KD_Main_Poster/Germany/RL_136_gebirgsjger.jpg",
       "type": "blob",
       "size": 338572
@@ -2836,11 +2836,6 @@
       "size": 3177864
     },
     {
-      "path": "KD_Main_Poster/Germany/RL_989_infantry_regiment.png",
-      "type": "blob",
-      "size": 2760685
-    },
-    {
       "path": "KD_Main_Poster/Germany/RL_blitz_doctrine.png",
       "type": "blob",
       "size": 2988433
@@ -2851,19 +2846,29 @@
       "size": 1064926
     },
     {
-      "path": "KD_Main_Poster/Germany/RL_capitulation.png",
-      "type": "blob",
-      "size": 3127034
-    },
-    {
       "path": "KD_Main_Poster/Germany/RL_fast_heinz.jpg",
       "type": "blob",
       "size": 157722
     },
     {
+      "path": "KD_Main_Poster/Germany/RL_km_bismarck.png",
+      "type": "blob",
+      "size": 4173129
+    },
+    {
       "path": "KD_Main_Poster/Germany/germany_reserved/RL_43_infantry_regiment.jpg",
       "type": "blob",
       "size": 580796
+    },
+    {
+      "path": "KD_Main_Poster/Germany/germany_reserved/RL_989_infantry_regiment.png",
+      "type": "blob",
+      "size": 2760685
+    },
+    {
+      "path": "KD_Main_Poster/Germany/germany_reserved/RL_capitulation.png",
+      "type": "blob",
+      "size": 3127034
     },
     {
       "path": "KD_Main_Poster/Italy/RL_la_decima.png",
@@ -2881,6 +2886,11 @@
       "size": 2472545
     },
     {
+      "path": "KD_Main_Poster/Japan/RL_ki61itei.png",
+      "type": "blob",
+      "size": 3342482
+    },
+    {
       "path": "KD_Main_Poster/Neutral/RL_routed_troops.png",
       "type": "blob",
       "size": 1394343
@@ -2896,6 +2906,16 @@
       "size": 1217422
     },
     {
+      "path": "KD_Main_Poster/Poland/RL_zaza_division.png",
+      "type": "blob",
+      "size": 3764819
+    },
+    {
+      "path": "KD_Main_Poster/Soviet/15th_motor_rifles.jpg",
+      "type": "blob",
+      "size": 505512
+    },
+    {
       "path": "KD_Main_Poster/Soviet/RL_4th_guards_rifles.png",
       "type": "blob",
       "size": 1267730
@@ -2904,6 +2924,11 @@
       "path": "KD_Main_Poster/Soviet/RL_rush.png",
       "type": "blob",
       "size": 2750650
+    },
+    {
+      "path": "KD_Main_Poster/Soviet/RL_strategic_focus.png",
+      "type": "blob",
+      "size": 3411616
     },
     {
       "path": "KD_Main_Poster/USA/RL_327th_pathfinders.png",
@@ -2933,12 +2958,17 @@
     {
       "path": "KD_Main_Poster/authors.json",
       "type": "blob",
-      "size": 3063
+      "size": 3621
     },
     {
       "path": "README.md",
       "type": "blob",
       "size": 5303
+    },
+    {
+      "path": "generate.js",
+      "type": "blob",
+      "size": 828
     },
     {
       "path": "generate.ps1",
