@@ -6,6 +6,7 @@
   "USA/RL_593rd_jasco.jpg": { "author": "啥子眼珠", "focus": "center 25%" },
   "Soviet/RL_rush.png": { "author": "传奇师长-汤圆", "focus": "center 30%" },
   "Soviet/RL_4th_guards_rifles.png": { "author": "严肃哥-拉伸", "focus": "center 35%" },
+  "Soviet/15th_motor_rifles.jpg": { "author": "开宝马的15侦查营", "focus": "center 5%" },
   "Neutral/RL_routed_troops.png": { "author": "T-28-1932", "focus": "center 50%" },
   "Japan/RL_admiral_yamamoto.png": { "author": "传奇师长-汤圆", "focus": "center 40%" },
   "Italy/RL_the_dagger_strikes.png": { "author": "传奇师长-汤圆", "focus": "center 25%" },
@@ -31,5 +32,10 @@
   "Finland/RL_sisu.jpg": { "author": "传奇师长-汤圆", "focus": "center 18%" },
   "Finland/RL_the_white_death.jpg": { "author": "传奇师长-汤圆", "focus": "center 25%" },
   "France/RL_phoney_war.jpg": { "author": "传奇师长-汤圆", "focus": "center 15%" },
-  "Poland/RL_16th_tarnow_regiment.jpg": { "author": "传奇师长-汤圆", "focus": "center 28%" }
+  "Poland/RL_16th_tarnow_regiment.jpg": { "author": "传奇师长-汤圆", "focus": "center 28%" },
+  "Soviet/RL_strategic_focus.png": { "author": "传奇师长-汤圆", "focus": "center 20%" },
+  "Poland/RL_zaza_division.png": { "author": "传奇师长-汤圆", "focus": "center 40%" },
+  "Japan/RL_ki61itei.png": { "author": "传奇师长-汤圆", "focus": "center 40%" },
+  "Germany/RL_119_grenadier.png": { "author": "传奇师长-汤圆", "focus": "center 25%" },
+  "Germany/RL_km_bismarck.png": { "author": "传奇师长-汤圆", "focus": "center 50%" }
 }
