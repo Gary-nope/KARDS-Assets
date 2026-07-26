@@ -1,41 +1,190 @@
 {
-  "Britain/RL_monty.png": { "author": "传奇师长-汤圆", "focus": "center 25%" },
-  "USA/RL_cyclone_division.png": { "author": "传奇师长-汤圆", "focus": "center 55%" },
-  "USA/RL_yank.png": { "author": "一个正常的优香厨", "focus": "center 40%" },
-  "USA/RL_in_hour_of_need.jpg": { "author": "一个正常的优香厨", "focus": "center 25%" },
-  "USA/RL_593rd_jasco.jpg": { "author": "啥子眼珠", "focus": "center 25%" },
-  "Soviet/RL_rush.png": { "author": "传奇师长-汤圆", "focus": "center 30%" },
-  "Soviet/RL_4th_guards_rifles.png": { "author": "严肃哥-拉伸", "focus": "center 35%" },
-  "Soviet/15th_motor_rifles.jpg": { "author": "开宝马的15侦查营", "focus": "center 5%" },
-  "Neutral/RL_routed_troops.png": { "author": "T-28-1932", "focus": "center 50%" },
-  "Japan/RL_admiral_yamamoto.png": { "author": "传奇师长-汤圆", "focus": "center 40%" },
-  "Italy/RL_the_dagger_strikes.png": { "author": "传奇师长-汤圆", "focus": "center 25%" },
-  "Italy/RL_la_decima.png": { "author": "传奇师长-汤圆", "focus": "center 10%" },
-  "Germany/RL_blitz_doctrine.png": { "author": "传奇师长-汤圆", "focus": "center 20%" },
-  "Germany/RL_96_infantry_regiment.png": { "author": "传奇师长-汤圆", "focus": "center 30%" },
-  "Germany/RL_136_gebirgsjger.jpg": { "author": "德意志牢山", "focus": "center 20%" },
-  "Germany/RL_139_gebirgsjger.jpg": { "author": "德意志牢山", "focus": "center 20%" },
-  "Germany/RL_43_infantry_regiment.jpg": { "author": "啥子眼珠", "focus": "center 30%" },
-  "Germany/RL_blitzkrieg.jpg": { "author": "不要哭泣了bro", "focus": "center 35%" },
-  "Germany/RL_40_panzergrenadier.jpg": { "author": "传奇师长-汤圆", "focus": "center 25%" },
-  "Germany/RL_fast_heinz.jpg": { "author": "传奇师长-汤圆", "focus": "center 45%" },
-  "Poland/RL_15th_wolves_regiment.png": { "author": "传奇师长-汤圆", "focus": "center 47%" },
-  "Germany/RL_27_fsiliers.png": { "author": "传奇师长-汤圆", "focus": "center 30%" },
-  "France/RL_2e_brigade.png": { "author": "传奇师长-汤圆", "focus": "center 50%" },
-  "USA/RL_327th_pathfinders.png": { "author": "传奇师长-汤圆", "focus": "center 20%" },
-  "Germany/RL_989_infantry_regiment.png": { "author": "传奇师长-汤圆", "focus": "center 10%" },
-  "Germany/RL_capitulation.png": { "author": "传奇师长-汤圆", "focus": "center 16%" },
-  "Britain/RL_finest_hour.png": { "author": "传奇师长-汤圆", "focus": "center 15%" },
-  "Britain/RL_his_majestys_chosen.png": { "author": "传奇师长-汤圆", "focus": "center 18%" },
-  "Britain/RL_forward_observers.jpg": { "author": "传奇师长-汤圆", "focus": "center 25%" },
-  "Britain/RL_slashers.jpg": { "author": "传奇师长-汤圆", "focus": "center 12%" },
-  "Finland/RL_sisu.jpg": { "author": "传奇师长-汤圆", "focus": "center 18%" },
-  "Finland/RL_the_white_death.jpg": { "author": "传奇师长-汤圆", "focus": "center 25%" },
-  "France/RL_phoney_war.jpg": { "author": "传奇师长-汤圆", "focus": "center 15%" },
-  "Poland/RL_16th_tarnow_regiment.jpg": { "author": "传奇师长-汤圆", "focus": "center 28%" },
-  "Soviet/RL_strategic_focus.png": { "author": "传奇师长-汤圆", "focus": "center 20%" },
-  "Poland/RL_zaza_division.png": { "author": "传奇师长-汤圆", "focus": "center 40%" },
-  "Japan/RL_ki61itei.png": { "author": "传奇师长-汤圆", "focus": "center 40%" },
-  "Germany/RL_119_grenadier.png": { "author": "传奇师长-汤圆", "focus": "center 25%" },
-  "Germany/RL_km_bismarck.png": { "author": "传奇师长-汤圆", "focus": "center 50%" }
+  "Britain/RL_monty.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 25%"
+  },
+  "USA/RL_cyclone_division.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 55%"
+  },
+  "USA/RL_yank.png": {
+    "author": "一个正常的优香厨",
+    "focus": "center 40%"
+  },
+  "USA/RL_in_hour_of_need.jpg": {
+    "author": "一个正常的优香厨",
+    "focus": "center 25%"
+  },
+  "USA/RL_593rd_jasco.jpg": {
+    "author": "啥子眼珠",
+    "focus": "center 25%"
+  },
+  "Soviet/RL_rush.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 30%"
+  },
+  "Soviet/RL_4th_guards_rifles.png": {
+    "author": "严肃哥-拉伸",
+    "focus": "center 35%"
+  },
+  "Soviet/15th_motor_rifles.jpg": {
+    "author": "开宝马的15侦查营",
+    "focus": "center 5%"
+  },
+  "Neutral/RL_routed_troops.png": {
+    "author": "T-28-1932",
+    "focus": "center 50%"
+  },
+  "Japan/RL_admiral_yamamoto.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 40%"
+  },
+  "Italy/RL_the_dagger_strikes.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 25%"
+  },
+  "Italy/RL_la_decima.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 10%"
+  },
+  "Germany/RL_blitz_doctrine.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 20%"
+  },
+  "Germany/RL_96_infantry_regiment.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 30%"
+  },
+  "Germany/RL_136_gebirgsjger.jpg": {
+    "author": "德意志牢山",
+    "focus": "center 20%"
+  },
+  "Germany/RL_139_gebirgsjger.jpg": {
+    "author": "德意志牢山",
+    "focus": "center 20%"
+  },
+  "Germany/RL_43_infantry_regiment.jpg": {
+    "author": "啥子眼珠",
+    "focus": "center 30%"
+  },
+  "Germany/RL_blitzkrieg.jpg": {
+    "author": "不要哭泣了bro",
+    "focus": "center 35%"
+  },
+  "Germany/RL_40_panzergrenadier.jpg": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 25%"
+  },
+  "Germany/RL_fast_heinz.jpg": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 45%"
+  },
+  "Poland/RL_15th_wolves_regiment.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 47%"
+  },
+  "Germany/RL_27_fsiliers.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 30%"
+  },
+  "France/RL_2e_brigade.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 50%"
+  },
+  "USA/RL_327th_pathfinders.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 20%"
+  },
+  "Germany/RL_989_infantry_regiment.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 10%"
+  },
+  "Germany/RL_capitulation.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 16%"
+  },
+  "Britain/RL_finest_hour.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 15%"
+  },
+  "Britain/RL_his_majestys_chosen.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 18%"
+  },
+  "Britain/RL_forward_observers.jpg": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 25%"
+  },
+  "Britain/RL_slashers.jpg": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 12%"
+  },
+  "Finland/RL_sisu.jpg": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 18%"
+  },
+  "Finland/RL_the_white_death.jpg": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 25%"
+  },
+  "France/RL_phoney_war.jpg": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 15%"
+  },
+  "Poland/RL_16th_tarnow_regiment.jpg": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 28%"
+  },
+  "Soviet/RL_strategic_focus.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 20%"
+  },
+  "Poland/RL_zaza_division.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 40%"
+  },
+  "Japan/RL_ki61itei.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 40%"
+  },
+  "Germany/RL_119_grenadier.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 25%"
+  },
+  "Germany/RL_km_bismarck.png": {
+    "author": "传奇师长-汤圆",
+    "focus": "center 50%"
+  },
+  "France/BR_110e_rgiment_motoris.jpg": {
+    "author": "善良的蚯蚓111",
+    "focus": "center 20%"
+  },
+  "USA/BR_133rd_ironman.png": {
+    "author": "善良的蚯蚓111",
+    "focus": "center 30%"
+  },
+  "Soviet/BR_220th_rifles.png": {
+    "author": "善良的蚯蚓111",
+    "focus": "center 30%"
+  },
+  "Anzac/BR_6th_brigade_nz.png": {
+    "author": "善良的蚯蚓111",
+    "focus": "center 30%"
+  },
+  "France/BR_expeditionary_corps.jpg": {
+    "author": "善良的蚯蚓111",
+    "focus": "center 20%"
+  },
+  "Japan/BR_kumamoto_regiment.png": {
+    "author": "善良的蚯蚓111",
+    "focus": "center 50%"
+  },
+  "Japan/BR_n1kj_shiden.jpg": {
+    "author": "善良的蚯蚓111",
+    "focus": "center 50%"
+  },
+  "Italy/BR_trento_division.png": {
+    "author": "善良的蚯蚓111",
+    "focus": "center 30%"
+  }
 }
