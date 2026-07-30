@@ -3014,6 +3014,646 @@
       "path": "generate.ps1",
       "type": "blob",
       "size": 549
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/README.txt",
+      "type": "blob",
+      "size": 1076
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/avatar-catalog.csv",
+      "type": "blob",
+      "size": 18702
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/avatar-catalog.json",
+      "type": "blob",
+      "size": 34124
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Elite_Tex.png",
+      "type": "blob",
+      "size": 212685
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Special_Pound.png",
+      "type": "blob",
+      "size": 309052
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Special_Salamander.png",
+      "type": "blob",
+      "size": 251641
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Standard_Flight-to-oblivion.png",
+      "type": "blob",
+      "size": 234216
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Standard_Glide-bombing.png",
+      "type": "blob",
+      "size": 228160
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Standard_Tech.png",
+      "type": "blob",
+      "size": 145762
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Early-War/T_Portrait_Special_55th-rifles.png",
+      "type": "blob",
+      "size": 224482
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Early-War/T_Portrait_Special_Stars-and-Stripes.png",
+      "type": "blob",
+      "size": 220607
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Early-War/T_Portrait_Standard_Way-of-subjects.png",
+      "type": "blob",
+      "size": 141504
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Elite_Uncle-Sam.png",
+      "type": "blob",
+      "size": 273227
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Special_845th-Rifles.png",
+      "type": "blob",
+      "size": 172810
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Special_Penicillin.png",
+      "type": "blob",
+      "size": 253156
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Standard_Bletchley.png",
+      "type": "blob",
+      "size": 200085
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Standard_Field-Hospital.png",
+      "type": "blob",
+      "size": 251453
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Standard_land-girls.png",
+      "type": "blob",
+      "size": 200539
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Standard_red-bull.png",
+      "type": "blob",
+      "size": 241877
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Standard_volunteer.png",
+      "type": "blob",
+      "size": 215522
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_Portrait_Special_Paratrooper.png",
+      "type": "blob",
+      "size": 235106
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_Portrait_Special_frontier-force.png",
+      "type": "blob",
+      "size": 191414
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_elite_samurai.png",
+      "type": "blob",
+      "size": 303457
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_elite_seabees.png",
+      "type": "blob",
+      "size": 215212
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_special_joe_.png",
+      "type": "blob",
+      "size": 237743
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_special_spars.png",
+      "type": "blob",
+      "size": 234758
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_airman.png",
+      "type": "blob",
+      "size": 285212
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_grey-wolf.png",
+      "type": "blob",
+      "size": 168005
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_happy-comrade.png",
+      "type": "blob",
+      "size": 244656
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_hunter.png",
+      "type": "blob",
+      "size": 169434
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_iron-comrade.png",
+      "type": "blob",
+      "size": 224723
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_shellmaker.png",
+      "type": "blob",
+      "size": 217671
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Oceania-Storm/T_Portrait_Elite_kiwi.png",
+      "type": "blob",
+      "size": 281026
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Oceania-Storm/T_Portrait_Standard_6th-infantry-brigade.png",
+      "type": "blob",
+      "size": 158156
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Oceania-Storm/T_Portrait_Standard_Roger.png",
+      "type": "blob",
+      "size": 249502
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Oceania-Storm/T_Portrait_Standard_digger.png",
+      "type": "blob",
+      "size": 193345
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Oceania-Storm/t_Portrait_Standard_NZANS.png",
+      "type": "blob",
+      "size": 239545
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_119-Grenadier.png",
+      "type": "blob",
+      "size": 217411
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_2e-brigade.png",
+      "type": "blob",
+      "size": 263625
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_Folgore.png",
+      "type": "blob",
+      "size": 261308
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_In-The-Navy.png",
+      "type": "blob",
+      "size": 179854
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_Monty.png",
+      "type": "blob",
+      "size": 257233
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_Uprising.png",
+      "type": "blob",
+      "size": 241720
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_White-Death.png",
+      "type": "blob",
+      "size": 254169
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_Worker.png",
+      "type": "blob",
+      "size": 252847
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_48e-Regiment.png",
+      "type": "blob",
+      "size": 221312
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_97th-Rifles.png",
+      "type": "blob",
+      "size": 237692
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Black-Beret.png",
+      "type": "blob",
+      "size": 243929
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Blitzfunker.png",
+      "type": "blob",
+      "size": 189965
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Cadet-Nurse-corps.png",
+      "type": "blob",
+      "size": 209285
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Commander.png",
+      "type": "blob",
+      "size": 212936
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_For-Prosperity.png",
+      "type": "blob",
+      "size": 189892
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Regia-Marina.png",
+      "type": "blob",
+      "size": 212259
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Sailor.png",
+      "type": "blob",
+      "size": 140662
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Suomi.png",
+      "type": "blob",
+      "size": 192438
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_To-Arms.png",
+      "type": "blob",
+      "size": 209185
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Ultra.png",
+      "type": "blob",
+      "size": 160270
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_57th-Rifles.png",
+      "type": "blob",
+      "size": 213109
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_91st-Astrakhan.png",
+      "type": "blob",
+      "size": 220146
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_ATS.png",
+      "type": "blob",
+      "size": 218528
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Baker-Street.png",
+      "type": "blob",
+      "size": 228991
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Blitzkrieg.png",
+      "type": "blob",
+      "size": 219310
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Blitzmädel.png",
+      "type": "blob",
+      "size": 173230
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Deadly-Duty.png",
+      "type": "blob",
+      "size": 214989
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Feldgrau.png",
+      "type": "blob",
+      "size": 165027
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Flyboys.png",
+      "type": "blob",
+      "size": 186219
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Glamour-Boys.png",
+      "type": "blob",
+      "size": 194181
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Imperial-Strength.png",
+      "type": "blob",
+      "size": 170070
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Kurmark.png",
+      "type": "blob",
+      "size": 187392
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_NFS.png",
+      "type": "blob",
+      "size": 227227
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_No-Surrender.png",
+      "type": "blob",
+      "size": 217332
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Rosie-the-Riveter.png",
+      "type": "blob",
+      "size": 181274
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Shadow.png",
+      "type": "blob",
+      "size": 120537
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Sturm-Brigade.png",
+      "type": "blob",
+      "size": 196134
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Unity-is-Strength.png",
+      "type": "blob",
+      "size": 226817
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_War-Machine.png",
+      "type": "blob",
+      "size": 181413
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Warrior-of-the-Sky.png",
+      "type": "blob",
+      "size": 195903
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Wingman.png",
+      "type": "blob",
+      "size": 238631
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/headquarters-catalog.csv",
+      "type": "blob",
+      "size": 33022
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/headquarters-catalog.json",
+      "type": "blob",
+      "size": 38198
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_Concrete_bunker_square-2048.png",
+      "type": "blob",
+      "size": 1200012
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_Fortress_Darwin_square-2048.png",
+      "type": "blob",
+      "size": 1365819
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_Supply_Train_square-2048.png",
+      "type": "blob",
+      "size": 1131465
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_submarine_square.png",
+      "type": "blob",
+      "size": 1279580
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_tank_square_US.png",
+      "type": "blob",
+      "size": 1444873
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_tank_square_british.png",
+      "type": "blob",
+      "size": 1018248
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_tank_square_german.png",
+      "type": "blob",
+      "size": 787066
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_tank_square_japan.png",
+      "type": "blob",
+      "size": 767750
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_tank_square_soviet.png",
+      "type": "blob",
+      "size": 1089269
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-ardennes-2048.png",
+      "type": "blob",
+      "size": 1139829
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-bryansk-2048.png",
+      "type": "blob",
+      "size": 1500177
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-elalamein-2048.png",
+      "type": "blob",
+      "size": 1115555
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-guadalcanal-2048.png",
+      "type": "blob",
+      "size": 1253372
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-london-2048.png",
+      "type": "blob",
+      "size": 1293693
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-manila-2048.png",
+      "type": "blob",
+      "size": 1198192
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-moscow-2048.png",
+      "type": "blob",
+      "size": 1264467
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-rangoon-2048.png",
+      "type": "blob",
+      "size": 1145363
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-tunis-2048.png",
+      "type": "blob",
+      "size": 1198432
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-washington-2048.png",
+      "type": "blob",
+      "size": 1061738
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/ardennes.png",
+      "type": "blob",
+      "size": 8153293
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/blueprint.png",
+      "type": "blob",
+      "size": 3776038
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/bryansk.png",
+      "type": "blob",
+      "size": 6686998
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/colonial.png",
+      "type": "blob",
+      "size": 7303374
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/concrete_bunker.png",
+      "type": "blob",
+      "size": 19596970
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/default.png",
+      "type": "blob",
+      "size": 6171752
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/desert.png",
+      "type": "blob",
+      "size": 5425905
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/desert2.png",
+      "type": "blob",
+      "size": 6387995
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/fabric.png",
+      "type": "blob",
+      "size": 7480981
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/fabricDark.png",
+      "type": "blob",
+      "size": 7480981
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/fortress_darwin.png",
+      "type": "blob",
+      "size": 32014079
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/london.png",
+      "type": "blob",
+      "size": 4581160
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/metal.png",
+      "type": "blob",
+      "size": 4102345
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/metal2.png",
+      "type": "blob",
+      "size": 6400696
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/moscow.png",
+      "type": "blob",
+      "size": 7661414
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/poland.png",
+      "type": "blob",
+      "size": 7763191
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/reset.png",
+      "type": "blob",
+      "size": 6171752
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/submarine.png",
+      "type": "blob",
+      "size": 14327237
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/supply_train.png",
+      "type": "blob",
+      "size": 29516721
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_britain.png",
+      "type": "blob",
+      "size": 26454187
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_germany.png",
+      "type": "blob",
+      "size": 19532970
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_japan.png",
+      "type": "blob",
+      "size": 14512565
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_soviet.png",
+      "type": "blob",
+      "size": 28716588
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_us.png",
+      "type": "blob",
+      "size": 29090249
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tropical.png",
+      "type": "blob",
+      "size": 6723951
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tropical2.png",
+      "type": "blob",
+      "size": 6341093
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/washington.png",
+      "type": "blob",
+      "size": 5191480
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/tablecloths-catalog.csv",
+      "type": "blob",
+      "size": 6958
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/tablecloths-catalog.json",
+      "type": "blob",
+      "size": 13980
     }
   ]
 }
