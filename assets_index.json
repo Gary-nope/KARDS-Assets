@@ -6193,7 +6193,7 @@
     {
       "path": "KD_Main_Poster/authors.json",
       "type": "blob",
-      "size": 5354
+      "size": 5443
     },
     {
       "path": "KD_Main_Poster/Britain/RL_finest_hour.png",
@@ -6409,6 +6409,11 @@
       "path": "KD_Main_Poster/USA/BR_133rd_ironman.png",
       "type": "blob",
       "size": 2044627
+    },
+    {
+      "path": "KD_Main_Poster/USA/IL_uss_yorktown.jpg",
+      "type": "blob",
+      "size": 3711815
     },
     {
       "path": "KD_Main_Poster/USA/RL_327th_pathfinders.png",
