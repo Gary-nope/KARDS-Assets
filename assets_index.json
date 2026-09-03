@@ -6196,6 +6196,11 @@
       "size": 238631
     },
     {
+      "path": "kards-profile-cosmetics-zh-Hans/hall-of-fame/hall-of-fame-catalog.json",
+      "type": "blob",
+      "size": 54446
+    },
+    {
       "path": "kards-profile-cosmetics-zh-Hans/headquarters/headquarters-catalog.csv",
       "type": "blob",
       "size": 33022
