@@ -5751,6 +5751,11 @@
       "size": 2044627
     },
     {
+      "path": "KD_Main_Poster/USA/IL_uss_yorktown.jpg",
+      "type": "blob",
+      "size": 3711815
+    },
+    {
       "path": "KD_Main_Poster/USA/RL_327th_pathfinders.png",
       "type": "blob",
       "size": 3556761
@@ -5778,12 +5783,12 @@
     {
       "path": "KD_Main_Poster/authors.json",
       "type": "blob",
-      "size": 5354
+      "size": 5443
     },
     {
       "path": "KD_Main_Poster/style_notes.txt",
       "type": "blob",
-      "size": 45
+      "size": 63
     },
     {
       "path": "README.md",
@@ -6438,287 +6443,7 @@
     {
       "path": "kards-profile-cosmetics-zh-Hans/tablecloths/tablecloths-catalog.json",
       "type": "blob",
-      "size": 14306
-    },
-    {
-      "path": "KD_Main_Poster/Anzac/BR_17th_infantry_brigade.jpg",
-      "type": "blob",
-      "size": 306509
-    },
-    {
-      "path": "KD_Main_Poster/Anzac/BR_6th_brigade_nz.png",
-      "type": "blob",
-      "size": 2408949
-    },
-    {
-      "path": "KD_Main_Poster/Anzac/BR_dingo.jpg",
-      "type": "blob",
-      "size": 266584
-    },
-    {
-      "path": "KD_Main_Poster/Anzac/BR_the_silent_seventh.jpg",
-      "type": "blob",
-      "size": 167796
-    },
-    {
-      "path": "KD_Main_Poster/Anzac/BR_z_special_unit.jpg",
-      "type": "blob",
-      "size": 217344
-    },
-    {
-      "path": "KD_Main_Poster/authors.json",
-      "type": "blob",
-      "size": 5443
-    },
-    {
-      "path": "KD_Main_Poster/Britain/RL_finest_hour.png",
-      "type": "blob",
-      "size": 2487469
-    },
-    {
-      "path": "KD_Main_Poster/Britain/RL_forward_observers.jpg",
-      "type": "blob",
-      "size": 1069655
-    },
-    {
-      "path": "KD_Main_Poster/Britain/RL_his_majestys_chosen.png",
-      "type": "blob",
-      "size": 2953385
-    },
-    {
-      "path": "KD_Main_Poster/Britain/RL_monty.png",
-      "type": "blob",
-      "size": 2855899
-    },
-    {
-      "path": "KD_Main_Poster/Britain/RL_slashers.jpg",
-      "type": "blob",
-      "size": 1335117
-    },
-    {
-      "path": "KD_Main_Poster/Finland/RL_sisu.jpg",
-      "type": "blob",
-      "size": 944653
-    },
-    {
-      "path": "KD_Main_Poster/Finland/RL_the_white_death.jpg",
-      "type": "blob",
-      "size": 1285020
-    },
-    {
-      "path": "KD_Main_Poster/France/BR_110e_rgiment_motoris.jpg",
-      "type": "blob",
-      "size": 198938
-    },
-    {
-      "path": "KD_Main_Poster/France/BR_expeditionary_corps.jpg",
-      "type": "blob",
-      "size": 176928
-    },
-    {
-      "path": "KD_Main_Poster/France/RL_2e_brigade.png",
-      "type": "blob",
-      "size": 3531086
-    },
-    {
-      "path": "KD_Main_Poster/France/RL_phoney_war.jpg",
-      "type": "blob",
-      "size": 1293100
-    },
-    {
-      "path": "KD_Main_Poster/Germany/germany_reserved/RL_43_infantry_regiment.jpg",
-      "type": "blob",
-      "size": 580796
-    },
-    {
-      "path": "KD_Main_Poster/Germany/germany_reserved/RL_989_infantry_regiment.png",
-      "type": "blob",
-      "size": 2760685
-    },
-    {
-      "path": "KD_Main_Poster/Germany/germany_reserved/RL_blitz_doctrine.png",
-      "type": "blob",
-      "size": 2988433
-    },
-    {
-      "path": "KD_Main_Poster/Germany/germany_reserved/RL_capitulation.png",
-      "type": "blob",
-      "size": 3127034
-    },
-    {
-      "path": "KD_Main_Poster/Germany/RL_119_grenadier.png",
-      "type": "blob",
-      "size": 3671637
-    },
-    {
-      "path": "KD_Main_Poster/Germany/RL_136_gebirgsjger.jpg",
-      "type": "blob",
-      "size": 338572
-    },
-    {
-      "path": "KD_Main_Poster/Germany/RL_139_gebirgsjger.jpg",
-      "type": "blob",
-      "size": 301746
-    },
-    {
-      "path": "KD_Main_Poster/Germany/RL_27_fsiliers.png",
-      "type": "blob",
-      "size": 2853351
-    },
-    {
-      "path": "KD_Main_Poster/Germany/RL_40_panzergrenadier.jpg",
-      "type": "blob",
-      "size": 152935
-    },
-    {
-      "path": "KD_Main_Poster/Germany/RL_96_infantry_regiment.png",
-      "type": "blob",
-      "size": 3177864
-    },
-    {
-      "path": "KD_Main_Poster/Germany/RL_blitzkrieg.jpg",
-      "type": "blob",
-      "size": 1064926
-    },
-    {
-      "path": "KD_Main_Poster/Germany/RL_fast_heinz.jpg",
-      "type": "blob",
-      "size": 157722
-    },
-    {
-      "path": "KD_Main_Poster/Germany/RL_km_bismarck.png",
-      "type": "blob",
-      "size": 4173129
-    },
-    {
-      "path": "KD_Main_Poster/Germany/SLE_combined_arms_alt.jpg",
-      "type": "blob",
-      "size": 330161
-    },
-    {
-      "path": "KD_Main_Poster/Italy/BR_trento_division.png",
-      "type": "blob",
-      "size": 2801247
-    },
-    {
-      "path": "KD_Main_Poster/Italy/RL_la_decima.png",
-      "type": "blob",
-      "size": 3064623
-    },
-    {
-      "path": "KD_Main_Poster/Italy/RL_the_dagger_strikes.png",
-      "type": "blob",
-      "size": 2479765
-    },
-    {
-      "path": "KD_Main_Poster/Japan/BR_kumamoto_regiment.png",
-      "type": "blob",
-      "size": 2249443
-    },
-    {
-      "path": "KD_Main_Poster/Japan/BR_n1kj_shiden.jpg",
-      "type": "blob",
-      "size": 132101
-    },
-    {
-      "path": "KD_Main_Poster/Japan/RL_admiral_yamamoto.png",
-      "type": "blob",
-      "size": 2472545
-    },
-    {
-      "path": "KD_Main_Poster/Japan/RL_ki61itei.png",
-      "type": "blob",
-      "size": 3342482
-    },
-    {
-      "path": "KD_Main_Poster/Neutral/RL_routed_troops.png",
-      "type": "blob",
-      "size": 1394343
-    },
-    {
-      "path": "KD_Main_Poster/Poland/RL_15th_wolves_regiment.png",
-      "type": "blob",
-      "size": 2577709
-    },
-    {
-      "path": "KD_Main_Poster/Poland/RL_16th_tarnow_regiment.jpg",
-      "type": "blob",
-      "size": 1217422
-    },
-    {
-      "path": "KD_Main_Poster/Poland/RL_zaza_division.png",
-      "type": "blob",
-      "size": 3764819
-    },
-    {
-      "path": "KD_Main_Poster/Soviet/15th_motor_rifles.jpg",
-      "type": "blob",
-      "size": 505512
-    },
-    {
-      "path": "KD_Main_Poster/Soviet/BR_220th_rifles.png",
-      "type": "blob",
-      "size": 2155950
-    },
-    {
-      "path": "KD_Main_Poster/Soviet/RL_4th_guards_rifles.png",
-      "type": "blob",
-      "size": 1267730
-    },
-    {
-      "path": "KD_Main_Poster/Soviet/RL_rush.png",
-      "type": "blob",
-      "size": 2750650
-    },
-    {
-      "path": "KD_Main_Poster/Soviet/RL_strategic_focus.png",
-      "type": "blob",
-      "size": 3411616
-    },
-    {
-      "path": "KD_Main_Poster/style_notes.txt",
-      "type": "blob",
-      "size": 47
-    },
-    {
-      "path": "KD_Main_Poster/USA/BR_133rd_ironman.png",
-      "type": "blob",
-      "size": 2044627
-    },
-    {
-      "path": "KD_Main_Poster/USA/IL_uss_yorktown.jpg",
-      "type": "blob",
-      "size": 3711815
-    },
-    {
-      "path": "KD_Main_Poster/USA/RL_327th_pathfinders.png",
-      "type": "blob",
-      "size": 3556761
-    },
-    {
-      "path": "KD_Main_Poster/USA/RL_593rd_jasco.jpg",
-      "type": "blob",
-      "size": 686083
-    },
-    {
-      "path": "KD_Main_Poster/USA/RL_cyclone_division.png",
-      "type": "blob",
-      "size": 2748318
-    },
-    {
-      "path": "KD_Main_Poster/USA/RL_in_hour_of_need.jpg",
-      "type": "blob",
-      "size": 1086538
-    },
-    {
-      "path": "KD_Main_Poster/USA/RL_yank.png",
-      "type": "blob",
-      "size": 2370858
-    },
-    {
-      "path": "README.md",
-      "type": "blob",
-      "size": 5408
+      "size": 13980
     }
   ]
 }
