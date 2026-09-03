@@ -1,0 +1,1420 @@
+{
+  "honor_bars": [
+    {
+      "id": "3rd-officer",
+      "name_zh_hans": "三阶军官",
+      "name_en": "T_Achievement_Ribbon_3rd-Officer",
+      "image": "ribbons/T_Achievement_Ribbon_3rd-Officer.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "三阶军官功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "allegiance",
+      "name_zh_hans": "效忠",
+      "name_en": "T_Achievement_Ribbon_Allegiance",
+      "image": "ribbons/T_Achievement_Ribbon_Allegiance.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "效忠功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "anti-aircraft",
+      "name_zh_hans": "防空",
+      "name_en": "T_Achievement_Ribbon_Anti-Aircraft",
+      "image": "ribbons/T_Achievement_Ribbon_Anti-Aircraft.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "防空功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "barracks",
+      "name_zh_hans": "兵营",
+      "name_en": "T_Achievement_Ribbon_Barracks",
+      "image": "ribbons/T_Achievement_Ribbon_Barracks.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "兵营功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "boomerang",
+      "name_zh_hans": "回旋镖",
+      "name_en": "T_Achievement_Ribbon_Boomerang",
+      "image": "ribbons/T_Achievement_Ribbon_Boomerang.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "回旋镖功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "breakthrough",
+      "name_zh_hans": "突破",
+      "name_en": "T_Achievement_Ribbon_Breakthrough",
+      "image": "ribbons/T_Achievement_Ribbon_Breakthrough.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "突破功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "bronze-rank",
+      "name_zh_hans": "青铜段位",
+      "name_en": "T_Achievement_Ribbon_Bronze-Rank",
+      "image": "ribbons/T_Achievement_Ribbon_Bronze-Rank.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "青铜段位功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "brothers-in-arms",
+      "name_zh_hans": "战友",
+      "name_en": "T_Achievement_Ribbon_Brothers-in-Arms",
+      "image": "ribbons/T_Achievement_Ribbon_Brothers-in-Arms.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "战友功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "commander-in-chief",
+      "name_zh_hans": "总司令",
+      "name_en": "T_Achievement_Ribbon_Commander-in-chief",
+      "image": "ribbons/T_Achievement_Ribbon_Commander-in-chief.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "总司令功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "complete-draft-with-no-loss-1",
+      "name_zh_hans": "Complete Draft with no loss 1",
+      "name_en": "T_Achievement_Ribbon_Complete-Draft-with-no-loss-1",
+      "image": "ribbons/T_Achievement_Ribbon_Complete-Draft-with-no-loss-1.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Complete Draft with no loss 1功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "complete-draft-with-no-loss-2",
+      "name_zh_hans": "Complete Draft with no loss 2",
+      "name_en": "T_Achievement_Ribbon_Complete-Draft-with-no-loss-2",
+      "image": "ribbons/T_Achievement_Ribbon_Complete-Draft-with-no-loss-2.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Complete Draft with no loss 2功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "complete-draft-with-no-loss",
+      "name_zh_hans": "完美征募",
+      "name_en": "T_Achievement_Ribbon_Complete-Draft-with-no-loss",
+      "image": "ribbons/T_Achievement_Ribbon_Complete-Draft-with-no-loss.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "完美征募功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "complete-full-draft",
+      "name_zh_hans": "征募完成",
+      "name_en": "T_Achievement_Ribbon_Complete-full-Draft",
+      "image": "ribbons/T_Achievement_Ribbon_Complete-full-Draft.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "征募完成功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "covert",
+      "name_zh_hans": "秘密行动",
+      "name_en": "T_Achievement_Ribbon_Covert",
+      "image": "ribbons/T_Achievement_Ribbon_Covert.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "秘密行动功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "davith-and-goliath",
+      "name_zh_hans": "以弱胜强",
+      "name_en": "T_Achievement_Ribbon_Davith-and-goliath",
+      "image": "ribbons/T_Achievement_Ribbon_Davith-and-goliath.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "以弱胜强功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "destroy-hq-only-deal-1",
+      "name_zh_hans": "直捣黄龙",
+      "name_en": "T_Achievement_Ribbon_Destroy-HQ-Only-Deal-1",
+      "image": "ribbons/T_Achievement_Ribbon_Destroy-HQ-Only-Deal-1.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "直捣黄龙功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "destroyer-1",
+      "name_zh_hans": "Destroyer 1",
+      "name_en": "T_Achievement_Ribbon_Destroyer-1",
+      "image": "ribbons/T_Achievement_Ribbon_Destroyer-1.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Destroyer 1功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "destroyer",
+      "name_zh_hans": "Destroyer",
+      "name_en": "T_Achievement_Ribbon_Destroyer",
+      "image": "ribbons/T_Achievement_Ribbon_Destroyer.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Destroyer功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "dogfighter",
+      "name_zh_hans": "空中缠斗",
+      "name_en": "T_Achievement_Ribbon_Dogfighter",
+      "image": "ribbons/T_Achievement_Ribbon_Dogfighter.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "空中缠斗功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "duty",
+      "name_zh_hans": "职责",
+      "name_en": "T_Achievement_Ribbon_Duty",
+      "image": "ribbons/T_Achievement_Ribbon_Duty.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "职责功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "field-marshal",
+      "name_zh_hans": "陆军元帅",
+      "name_en": "T_Achievement_Ribbon_Field-Marshal",
+      "image": "ribbons/T_Achievement_Ribbon_Field-Marshal.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "陆军元帅功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "gold-rank",
+      "name_zh_hans": "黄金段位",
+      "name_en": "T_Achievement_Ribbon_Gold-Rank",
+      "image": "ribbons/T_Achievement_Ribbon_Gold-Rank.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "黄金段位功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "grinder",
+      "name_zh_hans": "磨砺者",
+      "name_en": "T_Achievement_Ribbon_Grinder",
+      "image": "ribbons/T_Achievement_Ribbon_Grinder.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "磨砺者功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "hallucinations",
+      "name_zh_hans": "幻觉",
+      "name_en": "T_Achievement_Ribbon_Hallucinations",
+      "image": "ribbons/T_Achievement_Ribbon_Hallucinations.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "幻觉功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "hero-of-the-soviet-union",
+      "name_zh_hans": "苏联英雄",
+      "name_en": "T_Achievement_Ribbon_Hero-of-the-soviet-union",
+      "image": "ribbons/T_Achievement_Ribbon_Hero-of-the-soviet-union.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "苏联英雄功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "i-dropped-my-grenade",
+      "name_zh_hans": "我掉了手雷",
+      "name_en": "T_Achievement_Ribbon_I-dropped-my-grenade",
+      "image": "ribbons/T_Achievement_Ribbon_I-dropped-my-grenade.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "我掉了手雷功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "iron-cross",
+      "name_zh_hans": "铁十字",
+      "name_en": "T_Achievement_Ribbon_Iron-Cross",
+      "image": "ribbons/T_Achievement_Ribbon_Iron-Cross.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "铁十字功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "iron-rank",
+      "name_zh_hans": "黑铁段位",
+      "name_en": "T_Achievement_Ribbon_Iron-Rank",
+      "image": "ribbons/T_Achievement_Ribbon_Iron-Rank.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "黑铁段位功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "last-man-standing-1",
+      "name_zh_hans": "Last man standing 1",
+      "name_en": "T_Achievement_Ribbon_Last-man-standing-1",
+      "image": "ribbons/T_Achievement_Ribbon_Last-man-standing-1.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Last man standing 1功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "last-man-standing",
+      "name_zh_hans": "最后的幸存者",
+      "name_en": "T_Achievement_Ribbon_Last-man-standing",
+      "image": "ribbons/T_Achievement_Ribbon_Last-man-standing.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "最后的幸存者功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "legions",
+      "name_zh_hans": "军团",
+      "name_en": "T_Achievement_Ribbon_Legions",
+      "image": "ribbons/T_Achievement_Ribbon_Legions.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "军团功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "level-150-all-nations",
+      "name_zh_hans": "全国家150级",
+      "name_en": "T_Achievement_Ribbon_Level-150-all-nations",
+      "image": "ribbons/T_Achievement_Ribbon_Level-150-all-nations.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "全国家150级功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "makeshif-army",
+      "name_zh_hans": "Makeshif Army",
+      "name_en": "T_Achievement_Ribbon_Makeshif-Army",
+      "image": "ribbons/T_Achievement_Ribbon_Makeshif-Army.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Makeshif Army功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "mass-destruction",
+      "name_zh_hans": "Mass Destruction",
+      "name_en": "T_Achievement_Ribbon_Mass-Destruction",
+      "image": "ribbons/T_Achievement_Ribbon_Mass-Destruction.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Mass Destruction功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "medal-of-honor",
+      "name_zh_hans": "Medal of honor",
+      "name_en": "T_Achievement_Ribbon_Medal-of-honor",
+      "image": "ribbons/T_Achievement_Ribbon_Medal-of-honor.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Medal of honor功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "mobilization",
+      "name_zh_hans": "Mobilization",
+      "name_en": "T_Achievement_Ribbon_Mobilization",
+      "image": "ribbons/T_Achievement_Ribbon_Mobilization.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Mobilization功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "naval-engagement",
+      "name_zh_hans": "Naval Engagement",
+      "name_en": "T_Achievement_Ribbon_Naval-Engagement",
+      "image": "ribbons/T_Achievement_Ribbon_Naval-Engagement.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Naval Engagement功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "officer-club",
+      "name_zh_hans": "军官俱乐部",
+      "name_en": "T_Achievement_Ribbon_Officer-club",
+      "image": "ribbons/T_Achievement_Ribbon_Officer-club.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "军官俱乐部功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "preparation",
+      "name_zh_hans": "Preparation",
+      "name_en": "T_Achievement_Ribbon_Preparation",
+      "image": "ribbons/T_Achievement_Ribbon_Preparation.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Preparation功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "purple-heart",
+      "name_zh_hans": "Purple Heart",
+      "name_en": "T_Achievement_Ribbon_Purple-Heart",
+      "image": "ribbons/T_Achievement_Ribbon_Purple-Heart.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Purple Heart功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "rookie",
+      "name_zh_hans": "新手",
+      "name_en": "T_Achievement_Ribbon_Rookie",
+      "image": "ribbons/T_Achievement_Ribbon_Rookie.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "新手功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "silver-rank",
+      "name_zh_hans": "白银段位",
+      "name_en": "T_Achievement_Ribbon_Silver-Rank",
+      "image": "ribbons/T_Achievement_Ribbon_Silver-Rank.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "白银段位功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "the-coward",
+      "name_zh_hans": "The Coward",
+      "name_en": "T_Achievement_Ribbon_The-Coward",
+      "image": "ribbons/T_Achievement_Ribbon_The-Coward.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "The Coward功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "total-annihilation",
+      "name_zh_hans": "Total Annihilation",
+      "name_en": "T_Achievement_Ribbon_Total-Annihilation",
+      "image": "ribbons/T_Achievement_Ribbon_Total-Annihilation.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Total Annihilation功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "victorian-cross",
+      "name_zh_hans": "Victorian Cross",
+      "name_en": "T_Achievement_Ribbon_Victorian-Cross",
+      "image": "ribbons/T_Achievement_Ribbon_Victorian-Cross.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Victorian Cross功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-10-tournaments",
+      "name_zh_hans": "Win 10 Tournaments",
+      "name_en": "T_Achievement_Ribbon_Win-10-Tournaments",
+      "image": "ribbons/T_Achievement_Ribbon_Win-10-Tournaments.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 10 Tournaments功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-100-tournaments",
+      "name_zh_hans": "Win 100 Tournaments",
+      "name_en": "T_Achievement_Ribbon_Win-100-Tournaments",
+      "image": "ribbons/T_Achievement_Ribbon_Win-100-Tournaments.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 100 Tournaments功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-5-draft",
+      "name_zh_hans": "Win 5 Draft",
+      "name_en": "T_Achievement_Ribbon_Win-5-Draft",
+      "image": "ribbons/T_Achievement_Ribbon_Win-5-Draft.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 5 Draft功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-5-pvp",
+      "name_zh_hans": "Win 5 PVP",
+      "name_en": "T_Achievement_Ribbon_Win-5-PVP",
+      "image": "ribbons/T_Achievement_Ribbon_Win-5-PVP.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 5 PVP功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-50-draft",
+      "name_zh_hans": "Win 50 Draft",
+      "name_en": "T_Achievement_Ribbon_Win-50-Draft",
+      "image": "ribbons/T_Achievement_Ribbon_Win-50-Draft.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 50 Draft功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-50-pvp",
+      "name_zh_hans": "Win 50 PVP",
+      "name_en": "T_Achievement_Ribbon_Win-50-PVP",
+      "image": "ribbons/T_Achievement_Ribbon_Win-50-PVP.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 50 PVP功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-500-draft",
+      "name_zh_hans": "Win 500 Draft",
+      "name_en": "T_Achievement_Ribbon_Win-500-Draft",
+      "image": "ribbons/T_Achievement_Ribbon_Win-500-Draft.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 500 Draft功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-500-pvp",
+      "name_zh_hans": "Win 500 PVP",
+      "name_en": "T_Achievement_Ribbon_Win-500-PVP",
+      "image": "ribbons/T_Achievement_Ribbon_Win-500-PVP.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 500 PVP功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-a-tournament",
+      "name_zh_hans": "Win a Tournament",
+      "name_en": "T_Achievement_Ribbon_Win-a-Tournament",
+      "image": "ribbons/T_Achievement_Ribbon_Win-a-Tournament.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win a Tournament功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "winter-war",
+      "name_zh_hans": "Winter War",
+      "name_en": "T_Achievement_Ribbon_Winter-War",
+      "image": "ribbons/T_Achievement_Ribbon_Winter-War.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Winter War功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "base",
+      "name_zh_hans": "base",
+      "name_en": "T_Achievement_Ribbon_base",
+      "image": "ribbons/T_Achievement_Ribbon_base.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "base功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "blood-and-iron",
+      "name_zh_hans": "blood and iron",
+      "name_en": "T_Achievement_Ribbon_blood-and-iron",
+      "image": "ribbons/T_Achievement_Ribbon_blood-and-iron.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "blood and iron功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "homefront",
+      "name_zh_hans": "homefront",
+      "name_en": "T_Achievement_Ribbon_homefront",
+      "image": "ribbons/T_Achievement_Ribbon_homefront.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "homefront功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "naval-warfare",
+      "name_zh_hans": "naval warfare",
+      "name_en": "T_Achievement_Ribbon_naval-warfare",
+      "image": "ribbons/T_Achievement_Ribbon_naval-warfare.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "naval warfare功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "oceania-storm",
+      "name_zh_hans": "oceania storm",
+      "name_en": "T_Achievement_Ribbon_oceania-storm",
+      "image": "ribbons/T_Achievement_Ribbon_oceania-storm.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "oceania storm功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "supersoldier",
+      "name_zh_hans": "supersoldier",
+      "name_en": "T_Achievement_Ribbon_supersoldier",
+      "image": "ribbons/T_Achievement_Ribbon_supersoldier.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "supersoldier功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "the-fortress",
+      "name_zh_hans": "the Fortress",
+      "name_en": "T_Achievement_Ribbon_the-Fortress",
+      "image": "ribbons/T_Achievement_Ribbon_the-Fortress.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "the Fortress功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "the-immortal",
+      "name_zh_hans": "the immortal",
+      "name_en": "T_Achievement_Ribbon_the-immortal",
+      "image": "ribbons/T_Achievement_Ribbon_the-immortal.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "the immortal功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "you-should-see-the-other-guy",
+      "name_zh_hans": "you should see the other guy",
+      "name_en": "T_Achievement_Ribbon_you-should-see-the-other-guy",
+      "image": "ribbons/T_Achievement_Ribbon_you-should-see-the-other-guy.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "you should see the other guy功勋条，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    }
+  ],
+  "medals": [
+    {
+      "id": "t_achievement_hero-of-the-soviet-union",
+      "name_zh_hans": "T_Achievement_Hero of the soviet union",
+      "name_en": "T_Achievement_Hero-of-the-soviet-union",
+      "image": "medals/T_Achievement_Hero-of-the-soviet-union.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "T_Achievement_Hero of the soviet union勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "t_achievement_medal-rookie",
+      "name_zh_hans": "T_Achievement_Medal Rookie",
+      "name_en": "T_Achievement_Medal-Rookie",
+      "image": "medals/T_Achievement_Medal-Rookie.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "T_Achievement_Medal Rookie勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "3rd-officer",
+      "name_zh_hans": "三阶军官",
+      "name_en": "T_Achievement_Medal_3rd-Officer",
+      "image": "medals/T_Achievement_Medal_3rd-Officer.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "三阶军官勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "allegiance",
+      "name_zh_hans": "效忠",
+      "name_en": "T_Achievement_Medal_Allegiance",
+      "image": "medals/T_Achievement_Medal_Allegiance.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "效忠勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "anti-aircraft",
+      "name_zh_hans": "防空",
+      "name_en": "T_Achievement_Medal_Anti-Aircraft",
+      "image": "medals/T_Achievement_Medal_Anti-Aircraft.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "防空勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "barracks",
+      "name_zh_hans": "兵营",
+      "name_en": "T_Achievement_Medal_Barracks",
+      "image": "medals/T_Achievement_Medal_Barracks.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "兵营勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "boomerang",
+      "name_zh_hans": "回旋镖",
+      "name_en": "T_Achievement_Medal_Boomerang",
+      "image": "medals/T_Achievement_Medal_Boomerang.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "回旋镖勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "breakthrough",
+      "name_zh_hans": "突破",
+      "name_en": "T_Achievement_Medal_Breakthrough",
+      "image": "medals/T_Achievement_Medal_Breakthrough.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "突破勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "bronze-rank",
+      "name_zh_hans": "青铜段位",
+      "name_en": "T_Achievement_Medal_Bronze-Rank",
+      "image": "medals/T_Achievement_Medal_Bronze-Rank.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "青铜段位勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "brothers-in-arms",
+      "name_zh_hans": "战友",
+      "name_en": "T_Achievement_Medal_Brothers-in-Arms",
+      "image": "medals/T_Achievement_Medal_Brothers-in-Arms.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "战友勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "classic-blunder",
+      "name_zh_hans": "经典失误",
+      "name_en": "T_Achievement_Medal_Classic-blunder",
+      "image": "medals/T_Achievement_Medal_Classic-blunder.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "经典失误勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "commander-in-chief",
+      "name_zh_hans": "总司令",
+      "name_en": "T_Achievement_Medal_Commander-in-chief",
+      "image": "medals/T_Achievement_Medal_Commander-in-chief.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "总司令勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "complete-draft-with-no-loss",
+      "name_zh_hans": "完美征募",
+      "name_en": "T_Achievement_Medal_Complete-Draft-with-no-loss",
+      "image": "medals/T_Achievement_Medal_Complete-Draft-with-no-loss.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "完美征募勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "complete-full-draft",
+      "name_zh_hans": "征募完成",
+      "name_en": "T_Achievement_Medal_Complete-full-Draft",
+      "image": "medals/T_Achievement_Medal_Complete-full-Draft.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "征募完成勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "covert",
+      "name_zh_hans": "秘密行动",
+      "name_en": "T_Achievement_Medal_Covert",
+      "image": "medals/T_Achievement_Medal_Covert.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "秘密行动勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "davith-and-goliath",
+      "name_zh_hans": "以弱胜强",
+      "name_en": "T_Achievement_Medal_Davith-and-goliath",
+      "image": "medals/T_Achievement_Medal_Davith-and-goliath.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "以弱胜强勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "destroy-hq-only-deal-1",
+      "name_zh_hans": "直捣黄龙",
+      "name_en": "T_Achievement_Medal_Destroy-HQ-Only-Deal-1",
+      "image": "medals/T_Achievement_Medal_Destroy-HQ-Only-Deal-1.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "直捣黄龙勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "dogfighter",
+      "name_zh_hans": "空中缠斗",
+      "name_en": "T_Achievement_Medal_Dogfighter",
+      "image": "medals/T_Achievement_Medal_Dogfighter.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "空中缠斗勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "duty",
+      "name_zh_hans": "职责",
+      "name_en": "T_Achievement_Medal_Duty",
+      "image": "medals/T_Achievement_Medal_Duty.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "职责勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "field-marshal",
+      "name_zh_hans": "陆军元帅",
+      "name_en": "T_Achievement_Medal_Field-Marshal",
+      "image": "medals/T_Achievement_Medal_Field-Marshal.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "陆军元帅勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "gold-rank",
+      "name_zh_hans": "黄金段位",
+      "name_en": "T_Achievement_Medal_Gold-Rank",
+      "image": "medals/T_Achievement_Medal_Gold-Rank.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "黄金段位勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "grinder",
+      "name_zh_hans": "磨砺者",
+      "name_en": "T_Achievement_Medal_Grinder",
+      "image": "medals/T_Achievement_Medal_Grinder.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "磨砺者勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "hallucinations",
+      "name_zh_hans": "幻觉",
+      "name_en": "T_Achievement_Medal_Hallucinations",
+      "image": "medals/T_Achievement_Medal_Hallucinations.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "幻觉勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "i-dropped-my-grenade",
+      "name_zh_hans": "我掉了手雷",
+      "name_en": "T_Achievement_Medal_I-dropped-my-grenade",
+      "image": "medals/T_Achievement_Medal_I-dropped-my-grenade.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "我掉了手雷勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "iron-cross",
+      "name_zh_hans": "铁十字",
+      "name_en": "T_Achievement_Medal_Iron-Cross",
+      "image": "medals/T_Achievement_Medal_Iron-Cross.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "铁十字勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "iron-rank",
+      "name_zh_hans": "黑铁段位",
+      "name_en": "T_Achievement_Medal_Iron-Rank",
+      "image": "medals/T_Achievement_Medal_Iron-Rank.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "黑铁段位勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "last-man-standing",
+      "name_zh_hans": "最后的幸存者",
+      "name_en": "T_Achievement_Medal_Last-man-standing",
+      "image": "medals/T_Achievement_Medal_Last-man-standing.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "最后的幸存者勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "legions",
+      "name_zh_hans": "军团",
+      "name_en": "T_Achievement_Medal_Legions",
+      "image": "medals/T_Achievement_Medal_Legions.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "军团勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "level-150-all-nations",
+      "name_zh_hans": "全国家150级",
+      "name_en": "T_Achievement_Medal_Level-150-all-nations",
+      "image": "medals/T_Achievement_Medal_Level-150-all-nations.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "全国家150级勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "level-50-all-nations",
+      "name_zh_hans": "全国家50级",
+      "name_en": "T_Achievement_Medal_Level-50-all-nations",
+      "image": "medals/T_Achievement_Medal_Level-50-all-nations.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "全国家50级勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "level-50-one-nation",
+      "name_zh_hans": "单国家50级",
+      "name_en": "T_Achievement_Medal_Level-50-one-nation",
+      "image": "medals/T_Achievement_Medal_Level-50-one-nation.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "单国家50级勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "makeshif-army",
+      "name_zh_hans": "Makeshif Army",
+      "name_en": "T_Achievement_Medal_Makeshif-Army",
+      "image": "medals/T_Achievement_Medal_Makeshif-Army.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Makeshif Army勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "mass-destruction",
+      "name_zh_hans": "Mass Destruction",
+      "name_en": "T_Achievement_Medal_Mass-Destruction",
+      "image": "medals/T_Achievement_Medal_Mass-Destruction.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Mass Destruction勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "medal-of-honor",
+      "name_zh_hans": "Medal of honor",
+      "name_en": "T_Achievement_Medal_Medal-of-honor",
+      "image": "medals/T_Achievement_Medal_Medal-of-honor.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Medal of honor勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "mobilization",
+      "name_zh_hans": "Mobilization",
+      "name_en": "T_Achievement_Medal_Mobilization",
+      "image": "medals/T_Achievement_Medal_Mobilization.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Mobilization勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "naval-engagement",
+      "name_zh_hans": "Naval Engagement",
+      "name_en": "T_Achievement_Medal_Naval-Engagement",
+      "image": "medals/T_Achievement_Medal_Naval-Engagement.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Naval Engagement勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "officer-club",
+      "name_zh_hans": "军官俱乐部",
+      "name_en": "T_Achievement_Medal_Officer-club",
+      "image": "medals/T_Achievement_Medal_Officer-club.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "军官俱乐部勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "preemptive-strike",
+      "name_zh_hans": "Preemptive Strike",
+      "name_en": "T_Achievement_Medal_Preemptive-Strike",
+      "image": "medals/T_Achievement_Medal_Preemptive-Strike.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Preemptive Strike勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "preparation",
+      "name_zh_hans": "Preparation",
+      "name_en": "T_Achievement_Medal_Preparation",
+      "image": "medals/T_Achievement_Medal_Preparation.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Preparation勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "purple-heart",
+      "name_zh_hans": "Purple Heart",
+      "name_en": "T_Achievement_Medal_Purple-Heart",
+      "image": "medals/T_Achievement_Medal_Purple-Heart.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Purple Heart勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "silver-rank",
+      "name_zh_hans": "白银段位",
+      "name_en": "T_Achievement_Medal_Silver-Rank",
+      "image": "medals/T_Achievement_Medal_Silver-Rank.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "白银段位勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "tank-destroyer",
+      "name_zh_hans": "Tank Destroyer",
+      "name_en": "T_Achievement_Medal_Tank-Destroyer",
+      "image": "medals/T_Achievement_Medal_Tank-Destroyer.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Tank Destroyer勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "the-coward",
+      "name_zh_hans": "The Coward",
+      "name_en": "T_Achievement_Medal_The-Coward",
+      "image": "medals/T_Achievement_Medal_The-Coward.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "The Coward勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "total-annihilation",
+      "name_zh_hans": "Total Annihilation",
+      "name_en": "T_Achievement_Medal_Total-Annihilation",
+      "image": "medals/T_Achievement_Medal_Total-Annihilation.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Total Annihilation勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "victoria-cross",
+      "name_zh_hans": "Victoria Cross",
+      "name_en": "T_Achievement_Medal_Victoria-Cross",
+      "image": "medals/T_Achievement_Medal_Victoria-Cross.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Victoria Cross勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-10-tournaments",
+      "name_zh_hans": "Win 10 Tournaments",
+      "name_en": "T_Achievement_Medal_Win-10-Tournaments",
+      "image": "medals/T_Achievement_Medal_Win-10-Tournaments.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 10 Tournaments勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-100-tournaments",
+      "name_zh_hans": "Win 100 Tournaments",
+      "name_en": "T_Achievement_Medal_Win-100-Tournaments",
+      "image": "medals/T_Achievement_Medal_Win-100-Tournaments.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 100 Tournaments勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-5-draft",
+      "name_zh_hans": "Win 5 Draft",
+      "name_en": "T_Achievement_Medal_Win-5-Draft",
+      "image": "medals/T_Achievement_Medal_Win-5-Draft.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 5 Draft勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-5-pvp",
+      "name_zh_hans": "Win 5 PVP",
+      "name_en": "T_Achievement_Medal_Win-5-PVP",
+      "image": "medals/T_Achievement_Medal_Win-5-PVP.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 5 PVP勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-50-draft",
+      "name_zh_hans": "Win 50 Draft",
+      "name_en": "T_Achievement_Medal_Win-50-Draft",
+      "image": "medals/T_Achievement_Medal_Win-50-Draft.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 50 Draft勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-50-pvp",
+      "name_zh_hans": "Win 50 PVP",
+      "name_en": "T_Achievement_Medal_Win-50-PVP",
+      "image": "medals/T_Achievement_Medal_Win-50-PVP.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 50 PVP勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-500-dreft",
+      "name_zh_hans": "Win 500 Dreft",
+      "name_en": "T_Achievement_Medal_Win-500-Dreft",
+      "image": "medals/T_Achievement_Medal_Win-500-Dreft.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 500 Dreft勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-500-pvp",
+      "name_zh_hans": "Win 500 PVP",
+      "name_en": "T_Achievement_Medal_Win-500-PVP",
+      "image": "medals/T_Achievement_Medal_Win-500-PVP.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win 500 PVP勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "win-a-tournament",
+      "name_zh_hans": "Win a Tournament",
+      "name_en": "T_Achievement_Medal_Win-a-Tournament",
+      "image": "medals/T_Achievement_Medal_Win-a-Tournament.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Win a Tournament勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "winter-war",
+      "name_zh_hans": "Winter War",
+      "name_en": "T_Achievement_Medal_Winter-War",
+      "image": "medals/T_Achievement_Medal_Winter-War.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "Winter War勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "base",
+      "name_zh_hans": "base",
+      "name_en": "T_Achievement_Medal_base",
+      "image": "medals/T_Achievement_Medal_base.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "base勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "blood-and-iron",
+      "name_zh_hans": "blood and iron",
+      "name_en": "T_Achievement_Medal_blood-and-iron",
+      "image": "medals/T_Achievement_Medal_blood-and-iron.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "blood and iron勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "homefront",
+      "name_zh_hans": "homefront",
+      "name_en": "T_Achievement_Medal_homefront",
+      "image": "medals/T_Achievement_Medal_homefront.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "homefront勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "naval-warfare",
+      "name_zh_hans": "naval warfare",
+      "name_en": "T_Achievement_Medal_naval-warfare",
+      "image": "medals/T_Achievement_Medal_naval-warfare.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "naval warfare勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "oceania-storm",
+      "name_zh_hans": "oceania storm",
+      "name_en": "T_Achievement_Medal_oceania-storm",
+      "image": "medals/T_Achievement_Medal_oceania-storm.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "oceania storm勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "supersoldier",
+      "name_zh_hans": "supersoldier",
+      "name_en": "T_Achievement_Medal_supersoldier",
+      "image": "medals/T_Achievement_Medal_supersoldier.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "supersoldier勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "the-fortress",
+      "name_zh_hans": "the Fortress",
+      "name_en": "T_Achievement_Medal_the-Fortress",
+      "image": "medals/T_Achievement_Medal_the-Fortress.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "the Fortress勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "the-immortal",
+      "name_zh_hans": "the immortal",
+      "name_en": "T_Achievement_Medal_the-immortal",
+      "image": "medals/T_Achievement_Medal_the-immortal.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "the immortal勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    },
+    {
+      "id": "you-should-see-the-other-guy",
+      "name_zh_hans": "you should see the other guy",
+      "name_en": "T_Achievement_Medal_you-should-see-the-other-guy",
+      "image": "medals/T_Achievement_Medal_you-should-see-the-other-guy.png",
+      "unlock_zh_hans": "在游戏中达成对应成就后解锁",
+      "description": "you should see the other guy勋章，佩戴于个人资料页展示成就。",
+      "rarity": "精英"
+    }
+  ],
+  "nation_rewards": [
+    {
+      "id": "nation_1",
+      "nation_zh_hans": "德国",
+      "description": "德国等级提升后获得的专属奖励",
+      "levels": [
+        {
+          "level": 1,
+          "rewards": [
+            {
+              "name": "解锁该国家基础卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "rewards": [
+            {
+              "name": "解锁该国家扩展卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "rewards": [
+            {
+              "name": "解锁该国家特殊卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "rewards": [
+            {
+              "name": "解锁该国家精英头像",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 100,
+          "rewards": [
+            {
+              "name": "解锁该国家专属总部",
+              "reward_type": "unlock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nation_2",
+      "nation_zh_hans": "英国",
+      "description": "英国等级提升后获得的专属奖励",
+      "levels": [
+        {
+          "level": 1,
+          "rewards": [
+            {
+              "name": "解锁该国家基础卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "rewards": [
+            {
+              "name": "解锁该国家扩展卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "rewards": [
+            {
+              "name": "解锁该国家特殊卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "rewards": [
+            {
+              "name": "解锁该国家精英头像",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 100,
+          "rewards": [
+            {
+              "name": "解锁该国家专属总部",
+              "reward_type": "unlock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nation_3",
+      "nation_zh_hans": "日本",
+      "description": "日本等级提升后获得的专属奖励",
+      "levels": [
+        {
+          "level": 1,
+          "rewards": [
+            {
+              "name": "解锁该国家基础卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "rewards": [
+            {
+              "name": "解锁该国家扩展卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "rewards": [
+            {
+              "name": "解锁该国家特殊卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "rewards": [
+            {
+              "name": "解锁该国家精英头像",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 100,
+          "rewards": [
+            {
+              "name": "解锁该国家专属总部",
+              "reward_type": "unlock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nation_4",
+      "nation_zh_hans": "苏联",
+      "description": "苏联等级提升后获得的专属奖励",
+      "levels": [
+        {
+          "level": 1,
+          "rewards": [
+            {
+              "name": "解锁该国家基础卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "rewards": [
+            {
+              "name": "解锁该国家扩展卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "rewards": [
+            {
+              "name": "解锁该国家特殊卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "rewards": [
+            {
+              "name": "解锁该国家精英头像",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 100,
+          "rewards": [
+            {
+              "name": "解锁该国家专属总部",
+              "reward_type": "unlock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nation_5",
+      "nation_zh_hans": "美国",
+      "description": "美国等级提升后获得的专属奖励",
+      "levels": [
+        {
+          "level": 1,
+          "rewards": [
+            {
+              "name": "解锁该国家基础卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "rewards": [
+            {
+              "name": "解锁该国家扩展卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "rewards": [
+            {
+              "name": "解锁该国家特殊卡背",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "rewards": [
+            {
+              "name": "解锁该国家精英头像",
+              "reward_type": "unlock"
+            }
+          ]
+        },
+        {
+          "level": 100,
+          "rewards": [
+            {
+              "name": "解锁该国家专属总部",
+              "reward_type": "unlock"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
