@@ -322,5 +322,29 @@
     "image": "images/fortress_darwin.png",
     "associated_headquarters_id": "card_location_fortress_darwin_neutral",
     "associated_headquarters_name_zh_hans": "达尔文要塞"
+  },
+  {
+    "id": "iwo_jima",
+    "name_zh_hans": null,
+    "name_en": null,
+    "description": null,
+    "localization_status": "客户端 boardMats 数据表无显示名和介绍字段",
+    "material_asset": "/Game/Assets/Materials/BoardsInsts/2026/IwoJima/board_top_IwoJima",
+    "preview_texture_asset": "/Game/Assets/Materials/BoardsInsts/2026/IwoJima/T_IwoJima_Albedo",
+    "image": "images/iwo_jima.png",
+    "associated_headquarters_id": "card_location_iwo_jima_neutral",
+    "associated_headquarters_name_zh_hans": "硫磺岛"
+  },
+  {
+    "id": "starter",
+    "name_zh_hans": null,
+    "name_en": null,
+    "description": null,
+    "localization_status": "初始总部默认战场桌布",
+    "material_asset": "/Game/Assets/Materials/BoardsInsts/board_top_Starter_Inst",
+    "preview_texture_asset": "/Game/Assets/Textures/Table/RVXWood/T_Table_wood_starter",
+    "image": "images/starter.jpg",
+    "associated_headquarters_id": "card_location_danzig",
+    "associated_headquarters_name_zh_hans": "初始总部"
   }
 ]

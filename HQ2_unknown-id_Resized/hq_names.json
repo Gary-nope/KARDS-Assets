@@ -1,4 +1,4 @@
-﻿{
+{
     "Fleet_Germany":  "舰队_德国",
     "Arnhem":  "阿纳姆",
     "Baguio":  "碧瑶",
@@ -44,5 +44,12 @@
     "Darwin_Fortress_USA":  "达尔文要塞_美国",
     "El_Alamein":  "阿莱曼",
     "Moscow":  "莫斯科",
-    "Fleet_Soviet":  "舰队_苏联"
+    "Fleet_Soviet":  "舰队_苏联",
+    "Iwo_Jima":  "硫磺岛",
+    "Iwo_Jima_Blank":  "硫磺岛_空",
+    "Iwo_Jima_Britain":  "硫磺岛_英国",
+    "Iwo_Jima_Germany":  "硫磺岛_德国",
+    "Iwo_Jima_Japan":  "硫磺岛_日本",
+    "Iwo_Jima_Soviet":  "硫磺岛_苏联",
+    "Iwo_Jima_USA":  "硫磺岛_美国"
 }

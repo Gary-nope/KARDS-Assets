@@ -1,4 +1,4 @@
-﻿"id","name_zh_hans","name_en","description","localization_status","material_asset","preview_texture_asset","image","associated_headquarters_id","associated_headquarters_name_zh_hans"
+"id","name_zh_hans","name_en","description","localization_status","material_asset","preview_texture_asset","image","associated_headquarters_id","associated_headquarters_name_zh_hans"
 "default",,,,"客户端 boardMats 数据表无显示名和介绍字段","/Game/Assets/Materials/BoardsInsts/board_top_Wood_Inst","/Game/Assets/Textures/Table/RVXWood/T_Table_wood_basecolor","images/default.png",,
 "fabric",,,,"客户端 boardMats 数据表无显示名和介绍字段","/Game/Assets/Materials/BoardsInsts/board_top_Fabric_Inst","/Game/Assets/Textures/Table/RVXFabric/v4/T_Table_Fabric_BC","images/fabric.png",,
 "metal",,,,"客户端 boardMats 数据表无显示名和介绍字段","/Game/Assets/Materials/BoardsInsts/board_top_Metal2_Inst","/Game/Assets/Textures/Table/RVXMetal/GreenMetal","images/metal.png",,
@@ -26,3 +26,5 @@
 "supply_train",,,,"客户端 boardMats 数据表无显示名和介绍字段","/Game/Assets/Materials/BoardsInsts/2025/Homefront/board_top_Homefront","/Game/Assets/Materials/BoardsInsts/2025/Homefront/Homefront_03_Applebox_Diffuse","images/supply_train.png","card_location_supply_train_neutral","补给列车"
 "concrete_bunker",,,,"客户端 boardMats 数据表无显示名和介绍字段","/Game/Assets/Materials/BoardsInsts/2026/ConcreteBunker/board_top_ConcreteBunker","/Game/Assets/Materials/BoardsInsts/2026/ConcreteBunker/T_concrete_bunker_01_Albedo","images/concrete_bunker.png","card_location_concrete_bunker_neutral","地堡"
 "fortress_darwin",,,,"客户端 boardMats 数据表无显示名和介绍字段","/Game/Assets/Materials/BoardsInsts/2026/AusBarraks/board_top_AusBarraks","/Game/Assets/Materials/BoardsInsts/2026/AusBarraks/T_AusBarraks_Albedo","images/fortress_darwin.png","card_location_fortress_darwin_neutral","达尔文要塞"
+"iwo_jima",,,,"客户端 boardMats 数据表无显示名和介绍字段","/Game/Assets/Materials/BoardsInsts/2026/IwoJima/board_top_IwoJima","/Game/Assets/Materials/BoardsInsts/2026/IwoJima/T_IwoJima_Albedo","images/iwo_jima.png","card_location_iwo_jima_neutral","硫磺岛"
+"starter",,,,"初始总部默认战场桌布","/Game/Assets/Materials/BoardsInsts/board_top_Starter_Inst","/Game/Assets/Textures/Table/RVXWood/T_Table_wood_starter","images/starter.jpg","card_location_danzig","初始总部"
