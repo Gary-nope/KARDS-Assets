@@ -256,19 +256,19 @@
       "size": 559530
     },
     {
-      "path": "CardBacks_Resized/artillery_soviet_final_A_green_x512__1_.png",
+      "path": "CardBacks_Resized/BRITAIN_skirmish.png",
       "type": "blob",
-      "size": 522725
+      "size": 604373
     },
     {
-      "path": "CardBacks_Resized/artillery_soviet_final_B_green_x512__1_.png",
+      "path": "CardBacks_Resized/BRITAIN_skirmish2.png",
       "type": "blob",
-      "size": 524962
+      "size": 600036
     },
     {
-      "path": "CardBacks_Resized/artillery_soviet_final_C_green_x512__1_.png",
+      "path": "CardBacks_Resized/BRITAIN_skirmish3.png",
       "type": "blob",
-      "size": 500149
+      "size": 600881
     },
     {
       "path": "CardBacks_Resized/Base_set_card_back_a.png",
@@ -381,21 +381,6 @@
       "size": 412162
     },
     {
-      "path": "CardBacks_Resized/blue_and_gray_a_512.png",
-      "type": "blob",
-      "size": 488246
-    },
-    {
-      "path": "CardBacks_Resized/blue_and_gray_b_512.png",
-      "type": "blob",
-      "size": 551253
-    },
-    {
-      "path": "CardBacks_Resized/blue_and_gray_c_512.png",
-      "type": "blob",
-      "size": 499527
-    },
-    {
       "path": "CardBacks_Resized/Breakthrough_a_color_po2.png",
       "type": "blob",
       "size": 471399
@@ -409,36 +394,6 @@
       "path": "CardBacks_Resized/Breakthrough_c_color_po2.png",
       "type": "blob",
       "size": 495026
-    },
-    {
-      "path": "CardBacks_Resized/britain_final_Ax512.png",
-      "type": "blob",
-      "size": 628948
-    },
-    {
-      "path": "CardBacks_Resized/britain_final_Bx512.png",
-      "type": "blob",
-      "size": 719945
-    },
-    {
-      "path": "CardBacks_Resized/britain_final_Cx512.png",
-      "type": "blob",
-      "size": 622035
-    },
-    {
-      "path": "CardBacks_Resized/BRITAIN_skirmish.png",
-      "type": "blob",
-      "size": 604373
-    },
-    {
-      "path": "CardBacks_Resized/BRITAIN_skirmish2.png",
-      "type": "blob",
-      "size": 600036
-    },
-    {
-      "path": "CardBacks_Resized/BRITAIN_skirmish3.png",
-      "type": "blob",
-      "size": 600881
     },
     {
       "path": "CardBacks_Resized/BritBasicExtraA.png",
@@ -496,94 +451,9 @@
       "size": 229904
     },
     {
-      "path": "CardBacks_Resized/cardback_42nd_divisionA.png",
+      "path": "CardBacks_Resized/Catalys_b_po2.png",
       "type": "blob",
-      "size": 475601
-    },
-    {
-      "path": "CardBacks_Resized/cardback_42nd_divisionB.png",
-      "type": "blob",
-      "size": 460957
-    },
-    {
-      "path": "CardBacks_Resized/cardback_42nd_divisionC.png",
-      "type": "blob",
-      "size": 577705
-    },
-    {
-      "path": "CardBacks_Resized/cardback_britain_airA.png",
-      "type": "blob",
-      "size": 578200
-    },
-    {
-      "path": "CardBacks_Resized/cardback_britain_airB.png",
-      "type": "blob",
-      "size": 575380
-    },
-    {
-      "path": "CardBacks_Resized/cardback_britain_airC.png",
-      "type": "blob",
-      "size": 576889
-    },
-    {
-      "path": "CardBacks_Resized/cardback_german_airA.png",
-      "type": "blob",
-      "size": 529778
-    },
-    {
-      "path": "CardBacks_Resized/cardback_german_airB.png",
-      "type": "blob",
-      "size": 528411
-    },
-    {
-      "path": "CardBacks_Resized/cardback_german_airC.png",
-      "type": "blob",
-      "size": 523967
-    },
-    {
-      "path": "CardBacks_Resized/cardback_jap_airA.png",
-      "type": "blob",
-      "size": 515344
-    },
-    {
-      "path": "CardBacks_Resized/cardback_jap_airB.png",
-      "type": "blob",
-      "size": 526400
-    },
-    {
-      "path": "CardBacks_Resized/cardback_jap_airC.png",
-      "type": "blob",
-      "size": 529157
-    },
-    {
-      "path": "CardBacks_Resized/cardback_soviet_airA.png",
-      "type": "blob",
-      "size": 547542
-    },
-    {
-      "path": "CardBacks_Resized/cardback_soviet_airB.png",
-      "type": "blob",
-      "size": 548698
-    },
-    {
-      "path": "CardBacks_Resized/cardback_soviet_airC.png",
-      "type": "blob",
-      "size": 545967
-    },
-    {
-      "path": "CardBacks_Resized/cardback_us_airA.png",
-      "type": "blob",
-      "size": 536631
-    },
-    {
-      "path": "CardBacks_Resized/cardback_us_airB.png",
-      "type": "blob",
-      "size": 539805
-    },
-    {
-      "path": "CardBacks_Resized/cardback_us_airC.png",
-      "type": "blob",
-      "size": 538435
+      "size": 456240
     },
     {
       "path": "CardBacks_Resized/Catalyst_a_po2.png",
@@ -594,41 +464,6 @@
       "path": "CardBacks_Resized/Catalyst_c_po2.png",
       "type": "blob",
       "size": 429521
-    },
-    {
-      "path": "CardBacks_Resized/Catalys_b_po2.png",
-      "type": "blob",
-      "size": 456240
-    },
-    {
-      "path": "CardBacks_Resized/championship_2021_a_po2.png",
-      "type": "blob",
-      "size": 415625
-    },
-    {
-      "path": "CardBacks_Resized/championship_2021_b_po2.png",
-      "type": "blob",
-      "size": 423292
-    },
-    {
-      "path": "CardBacks_Resized/championship_2021_c_po2.png",
-      "type": "blob",
-      "size": 425344
-    },
-    {
-      "path": "CardBacks_Resized/chinese_new_year_2025_a_po2.png",
-      "type": "blob",
-      "size": 584797
-    },
-    {
-      "path": "CardBacks_Resized/chinese_new_year_2025_b_po2.png",
-      "type": "blob",
-      "size": 566311
-    },
-    {
-      "path": "CardBacks_Resized/chinese_new_year_2025_c_po2.png",
-      "type": "blob",
-      "size": 598504
     },
     {
       "path": "CardBacks_Resized/Covert_cardback_A_512x512.png",
@@ -661,64 +496,19 @@
       "size": 568130
     },
     {
-      "path": "CardBacks_Resized/ddayA.png",
+      "path": "CardBacks_Resized/GERMANY_skirmish.png",
       "type": "blob",
-      "size": 536793
+      "size": 671197
     },
     {
-      "path": "CardBacks_Resized/ddayB.png",
+      "path": "CardBacks_Resized/GERMANY_skirmish2.png",
       "type": "blob",
-      "size": 505875
+      "size": 671231
     },
     {
-      "path": "CardBacks_Resized/ddayC.png",
+      "path": "CardBacks_Resized/GERMANY_skirmish3.png",
       "type": "blob",
-      "size": 470713
-    },
-    {
-      "path": "CardBacks_Resized/desert_rats_desert_camo_a.png",
-      "type": "blob",
-      "size": 532438
-    },
-    {
-      "path": "CardBacks_Resized/desert_rats_desert_camo_b.png",
-      "type": "blob",
-      "size": 525551
-    },
-    {
-      "path": "CardBacks_Resized/desert_rats_desert_camo_c.png",
-      "type": "blob",
-      "size": 487724
-    },
-    {
-      "path": "CardBacks_Resized/finland_a.png",
-      "type": "blob",
-      "size": 530754
-    },
-    {
-      "path": "CardBacks_Resized/finland_b.png",
-      "type": "blob",
-      "size": 546045
-    },
-    {
-      "path": "CardBacks_Resized/finland_c.png",
-      "type": "blob",
-      "size": 530754
-    },
-    {
-      "path": "CardBacks_Resized/france_a.png",
-      "type": "blob",
-      "size": 569050
-    },
-    {
-      "path": "CardBacks_Resized/france_b.png",
-      "type": "blob",
-      "size": 587274
-    },
-    {
-      "path": "CardBacks_Resized/france_c.png",
-      "type": "blob",
-      "size": 550845
+      "size": 672294
     },
     {
       "path": "CardBacks_Resized/Gefreiter_Ax5122.png",
@@ -736,21 +526,6 @@
       "size": 561492
     },
     {
-      "path": "CardBacks_Resized/general_stars_a_po2.png",
-      "type": "blob",
-      "size": 549326
-    },
-    {
-      "path": "CardBacks_Resized/general_stars_b_po2.png",
-      "type": "blob",
-      "size": 543597
-    },
-    {
-      "path": "CardBacks_Resized/general_stars_c_po2.png",
-      "type": "blob",
-      "size": 526943
-    },
-    {
       "path": "CardBacks_Resized/GerBasicExtraA.png",
       "type": "blob",
       "size": 588552
@@ -764,36 +539,6 @@
       "path": "CardBacks_Resized/GerBasicExtraC.png",
       "type": "blob",
       "size": 591661
-    },
-    {
-      "path": "CardBacks_Resized/germany_final_Ax512.png",
-      "type": "blob",
-      "size": 520374
-    },
-    {
-      "path": "CardBacks_Resized/germany_final_Bx512.png",
-      "type": "blob",
-      "size": 501773
-    },
-    {
-      "path": "CardBacks_Resized/germany_final_Cx512.png",
-      "type": "blob",
-      "size": 512540
-    },
-    {
-      "path": "CardBacks_Resized/GERMANY_skirmish.png",
-      "type": "blob",
-      "size": 671197
-    },
-    {
-      "path": "CardBacks_Resized/GERMANY_skirmish2.png",
-      "type": "blob",
-      "size": 671231
-    },
-    {
-      "path": "CardBacks_Resized/GERMANY_skirmish3.png",
-      "type": "blob",
-      "size": 672294
     },
     {
       "path": "CardBacks_Resized/Holidays_cardback_-_flake_1.png",
@@ -811,21 +556,6 @@
       "size": 613119
     },
     {
-      "path": "CardBacks_Resized/holiday_cardback_22_A512.png",
-      "type": "blob",
-      "size": 583273
-    },
-    {
-      "path": "CardBacks_Resized/holiday_cardback_22_B512.png",
-      "type": "blob",
-      "size": 633212
-    },
-    {
-      "path": "CardBacks_Resized/holiday_cardback_22_C512.png",
-      "type": "blob",
-      "size": 592535
-    },
-    {
       "path": "CardBacks_Resized/Infantry_Emblem_Ax512.png",
       "type": "blob",
       "size": 819491
@@ -839,51 +569,6 @@
       "path": "CardBacks_Resized/Infantry_Emblem_Cx512.png",
       "type": "blob",
       "size": 814022
-    },
-    {
-      "path": "CardBacks_Resized/italy_a.png",
-      "type": "blob",
-      "size": 517284
-    },
-    {
-      "path": "CardBacks_Resized/italy_b.png",
-      "type": "blob",
-      "size": 512938
-    },
-    {
-      "path": "CardBacks_Resized/italy_c.png",
-      "type": "blob",
-      "size": 533346
-    },
-    {
-      "path": "CardBacks_Resized/JapanBasicA.png",
-      "type": "blob",
-      "size": 444269
-    },
-    {
-      "path": "CardBacks_Resized/JapanBasicB.png",
-      "type": "blob",
-      "size": 487723
-    },
-    {
-      "path": "CardBacks_Resized/JapanBasicC.png",
-      "type": "blob",
-      "size": 453009
-    },
-    {
-      "path": "CardBacks_Resized/japan_final_Ax512.png",
-      "type": "blob",
-      "size": 575260
-    },
-    {
-      "path": "CardBacks_Resized/japan_final_Bx512.png",
-      "type": "blob",
-      "size": 477157
-    },
-    {
-      "path": "CardBacks_Resized/japan_final_Cx512.png",
-      "type": "blob",
-      "size": 639784
     },
     {
       "path": "CardBacks_Resized/JAPAN_skirmish.png",
@@ -901,21 +586,6 @@
       "size": 749044
     },
     {
-      "path": "CardBacks_Resized/japan_tank_company_a.png",
-      "type": "blob",
-      "size": 433120
-    },
-    {
-      "path": "CardBacks_Resized/japan_tank_company_b.png",
-      "type": "blob",
-      "size": 478510
-    },
-    {
-      "path": "CardBacks_Resized/japan_tank_company_c.png",
-      "type": "blob",
-      "size": 459270
-    },
-    {
       "path": "CardBacks_Resized/JapBasicExtraA.png",
       "type": "blob",
       "size": 572687
@@ -931,19 +601,19 @@
       "size": 570866
     },
     {
-      "path": "CardBacks_Resized/jg_27_a.png",
+      "path": "CardBacks_Resized/JapanBasicA.png",
       "type": "blob",
-      "size": 519766
+      "size": 444269
     },
     {
-      "path": "CardBacks_Resized/jg_27_b.png",
+      "path": "CardBacks_Resized/JapanBasicB.png",
       "type": "blob",
-      "size": 489603
+      "size": 487723
     },
     {
-      "path": "CardBacks_Resized/jg_27_c.png",
+      "path": "CardBacks_Resized/JapanBasicC.png",
       "type": "blob",
-      "size": 497927
+      "size": 453009
     },
     {
       "path": "CardBacks_Resized/Kards-Set-1-GBR-A.png",
@@ -1296,36 +966,6 @@
       "size": 523167
     },
     {
-      "path": "CardBacks_Resized/kriegsmarine_germany_final_Ax512.png",
-      "type": "blob",
-      "size": 422870
-    },
-    {
-      "path": "CardBacks_Resized/kriegsmarine_germany_final_Bx512.png",
-      "type": "blob",
-      "size": 392770
-    },
-    {
-      "path": "CardBacks_Resized/kriegsmarine_germany_final_Cx512.png",
-      "type": "blob",
-      "size": 554324
-    },
-    {
-      "path": "CardBacks_Resized/kriegsmarine_pass_a_po2.png",
-      "type": "blob",
-      "size": 485458
-    },
-    {
-      "path": "CardBacks_Resized/kriegsmarine_pass_b_po2.png",
-      "type": "blob",
-      "size": 464883
-    },
-    {
-      "path": "CardBacks_Resized/kriegsmarine_pass_c_po2.png",
-      "type": "blob",
-      "size": 509457
-    },
-    {
       "path": "CardBacks_Resized/Legions_a_po2.png",
       "type": "blob",
       "size": 460829
@@ -1356,21 +996,6 @@
       "size": 614745
     },
     {
-      "path": "CardBacks_Resized/Oberstabsfeldwebel_Ax512.png",
-      "type": "blob",
-      "size": 627172
-    },
-    {
-      "path": "CardBacks_Resized/Oberstabsfeldwebel_Bx512.png",
-      "type": "blob",
-      "size": 533917
-    },
-    {
-      "path": "CardBacks_Resized/Oberstabsfeldwebel_Cx512.png",
-      "type": "blob",
-      "size": 557722
-    },
-    {
       "path": "CardBacks_Resized/OCC_gold_a.png",
       "type": "blob",
       "size": 413183
@@ -1384,6 +1009,21 @@
       "path": "CardBacks_Resized/OCC_gold_c.png",
       "type": "blob",
       "size": 405621
+    },
+    {
+      "path": "CardBacks_Resized/Oberstabsfeldwebel_Ax512.png",
+      "type": "blob",
+      "size": 627172
+    },
+    {
+      "path": "CardBacks_Resized/Oberstabsfeldwebel_Bx512.png",
+      "type": "blob",
+      "size": 533917
+    },
+    {
+      "path": "CardBacks_Resized/Oberstabsfeldwebel_Cx512.png",
+      "type": "blob",
+      "size": 557722
     },
     {
       "path": "CardBacks_Resized/PanzerDivisionA.png",
@@ -1401,21 +1041,6 @@
       "size": 600761
     },
     {
-      "path": "CardBacks_Resized/poland_a.png",
-      "type": "blob",
-      "size": 437467
-    },
-    {
-      "path": "CardBacks_Resized/poland_b.png",
-      "type": "blob",
-      "size": 505338
-    },
-    {
-      "path": "CardBacks_Resized/poland_c.png",
-      "type": "blob",
-      "size": 498894
-    },
-    {
       "path": "CardBacks_Resized/RAF_a.png",
       "type": "blob",
       "size": 568978
@@ -1429,51 +1054,6 @@
       "path": "CardBacks_Resized/RAF_c.png",
       "type": "blob",
       "size": 581034
-    },
-    {
-      "path": "CardBacks_Resized/redesign_A.png",
-      "type": "blob",
-      "size": 544825
-    },
-    {
-      "path": "CardBacks_Resized/redesign_B.png",
-      "type": "blob",
-      "size": 619364
-    },
-    {
-      "path": "CardBacks_Resized/redesign_C.png",
-      "type": "blob",
-      "size": 578834
-    },
-    {
-      "path": "CardBacks_Resized/redesign_finalA.png",
-      "type": "blob",
-      "size": 628176
-    },
-    {
-      "path": "CardBacks_Resized/redesign_final_B.png",
-      "type": "blob",
-      "size": 619796
-    },
-    {
-      "path": "CardBacks_Resized/redesign_final_C.png",
-      "type": "blob",
-      "size": 605062
-    },
-    {
-      "path": "CardBacks_Resized/screaming_eagles_a_po2.png",
-      "type": "blob",
-      "size": 548248
-    },
-    {
-      "path": "CardBacks_Resized/screaming_eagles_c_po2.png",
-      "type": "blob",
-      "size": 564465
-    },
-    {
-      "path": "CardBacks_Resized/screaming_eagles_po2.png",
-      "type": "blob",
-      "size": 569525
     },
     {
       "path": "CardBacks_Resized/SovietBasicA.png",
@@ -1506,51 +1086,6 @@
       "size": 588617
     },
     {
-      "path": "CardBacks_Resized/soviet_final_Ax512.png",
-      "type": "blob",
-      "size": 577133
-    },
-    {
-      "path": "CardBacks_Resized/soviet_final_Bx512.png",
-      "type": "blob",
-      "size": 570252
-    },
-    {
-      "path": "CardBacks_Resized/soviet_final_Cx512.png",
-      "type": "blob",
-      "size": 553404
-    },
-    {
-      "path": "CardBacks_Resized/soviet_general_a_512.png",
-      "type": "blob",
-      "size": 567282
-    },
-    {
-      "path": "CardBacks_Resized/soviet_general_b_512.png",
-      "type": "blob",
-      "size": 576554
-    },
-    {
-      "path": "CardBacks_Resized/soviet_general_c_512.png",
-      "type": "blob",
-      "size": 536241
-    },
-    {
-      "path": "CardBacks_Resized/soviet_premium_winter_camouflagex512.png",
-      "type": "blob",
-      "size": 813508
-    },
-    {
-      "path": "CardBacks_Resized/soviet_premium_winter_camouflage_2x512.png",
-      "type": "blob",
-      "size": 786613
-    },
-    {
-      "path": "CardBacks_Resized/soviet_premium_winter_camouflage_3x512.png",
-      "type": "blob",
-      "size": 766576
-    },
-    {
       "path": "CardBacks_Resized/SteamBackA.png",
       "type": "blob",
       "size": 681035
@@ -1564,6 +1099,326 @@
       "path": "CardBacks_Resized/SteamBackC.png",
       "type": "blob",
       "size": 662804
+    },
+    {
+      "path": "CardBacks_Resized/T_18th-infantry-division_britain_a_512.png",
+      "type": "blob",
+      "size": 491732
+    },
+    {
+      "path": "CardBacks_Resized/T_18th-infantry-division_britain_b_512.png",
+      "type": "blob",
+      "size": 468896
+    },
+    {
+      "path": "CardBacks_Resized/T_18th-infantry-division_britain_c_512.png",
+      "type": "blob",
+      "size": 550152
+    },
+    {
+      "path": "CardBacks_Resized/T_306_infantry_division_german_a.png",
+      "type": "blob",
+      "size": 588993
+    },
+    {
+      "path": "CardBacks_Resized/T_306_infantry_division_german_b.png",
+      "type": "blob",
+      "size": 576910
+    },
+    {
+      "path": "CardBacks_Resized/T_306_infantry_division_german_c.png",
+      "type": "blob",
+      "size": 563952
+    },
+    {
+      "path": "CardBacks_Resized/T_95th_infantry_usa_a.png",
+      "type": "blob",
+      "size": 614171
+    },
+    {
+      "path": "CardBacks_Resized/T_95th_infantry_usa_b.png",
+      "type": "blob",
+      "size": 610021
+    },
+    {
+      "path": "CardBacks_Resized/T_95th_infantry_usa_c.png",
+      "type": "blob",
+      "size": 677860
+    },
+    {
+      "path": "CardBacks_Resized/T_Americal-Division_usa_a_512.png",
+      "type": "blob",
+      "size": 634914
+    },
+    {
+      "path": "CardBacks_Resized/T_Americal-Division_usa_b_512.png",
+      "type": "blob",
+      "size": 600615
+    },
+    {
+      "path": "CardBacks_Resized/T_Americal-Division_usa_c_512.png",
+      "type": "blob",
+      "size": 614281
+    },
+    {
+      "path": "CardBacks_Resized/T_MetalicBack.png",
+      "type": "blob",
+      "size": 553315
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_3rd_tank_corps_a.png",
+      "type": "blob",
+      "size": 552377
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_3rd_tank_corps_b.png",
+      "type": "blob",
+      "size": 582221
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_3rd_tank_corps_c.png",
+      "type": "blob",
+      "size": 574160
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_6th-Wing_A_512.png",
+      "type": "blob",
+      "size": 424844
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_6th-Wing_B_512.png",
+      "type": "blob",
+      "size": 426125
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_6th-Wing_C_512.png",
+      "type": "blob",
+      "size": 423944
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_6th_infantry_division_a.png",
+      "type": "blob",
+      "size": 597856
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_6th_infantry_division_b.png",
+      "type": "blob",
+      "size": 593818
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_6th_infantry_division_c.png",
+      "type": "blob",
+      "size": 586469
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Ger_25th_Infanterie-Division_A.png",
+      "type": "blob",
+      "size": 515270
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Ger_25th_Infanterie-Division_B.png",
+      "type": "blob",
+      "size": 514071
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Ger_25th_Infanterie-Division_C.png",
+      "type": "blob",
+      "size": 524018
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Ghost-Army_A_512.png",
+      "type": "blob",
+      "size": 287938
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Ghost-Army_B_512.png",
+      "type": "blob",
+      "size": 306543
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Ghost-Army_C_512.png",
+      "type": "blob",
+      "size": 304523
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_JAP_25th-DC-Sqdn_A.png",
+      "type": "blob",
+      "size": 627892
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_JAP_25th-DC-Sqdn_B.png",
+      "type": "blob",
+      "size": 573745
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_JAP_25th-DC-Sqdn_C.png",
+      "type": "blob",
+      "size": 635364
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_JG20_A_512.png",
+      "type": "blob",
+      "size": 291497
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_JG20_B_512.png",
+      "type": "blob",
+      "size": 273836
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_JG20_C_512.png",
+      "type": "blob",
+      "size": 280120
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_1_A_512.png",
+      "type": "blob",
+      "size": 479365
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_1_B_512.png",
+      "type": "blob",
+      "size": 464037
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_1_C_512.png",
+      "type": "blob",
+      "size": 469973
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_2_A_512.png",
+      "type": "blob",
+      "size": 546679
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_2_B_512.png",
+      "type": "blob",
+      "size": 473132
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_2_C_512.png",
+      "type": "blob",
+      "size": 483302
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Soviet_Communication_A.png",
+      "type": "blob",
+      "size": 527643
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Soviet_Communication_B.png",
+      "type": "blob",
+      "size": 501585
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_Soviet_Communication_C.png",
+      "type": "blob",
+      "size": 472662
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_USA_44th-div_A.png",
+      "type": "blob",
+      "size": 556234
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_USA_44th-div_B.png",
+      "type": "blob",
+      "size": 557848
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_USA_44th-div_C.png",
+      "type": "blob",
+      "size": 565045
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback__air_service_b.png",
+      "type": "blob",
+      "size": 584576
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_air_service_a.png",
+      "type": "blob",
+      "size": 607369
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_air_service_c.png",
+      "type": "blob",
+      "size": 565070
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_mid-autumn-festival_a.png",
+      "type": "blob",
+      "size": 609025
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_mid-autumn-festival_b.png",
+      "type": "blob",
+      "size": 596402
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_mid-autumn-festival_c.png",
+      "type": "blob",
+      "size": 625317
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_mobilebeta_a.png",
+      "type": "blob",
+      "size": 599308
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_mobilebeta_b.png",
+      "type": "blob",
+      "size": 576163
+    },
+    {
+      "path": "CardBacks_Resized/T_cardback_mobilebeta_c.png",
+      "type": "blob",
+      "size": 597257
+    },
+    {
+      "path": "CardBacks_Resized/T_commander_major_soviet_a.png",
+      "type": "blob",
+      "size": 557733
+    },
+    {
+      "path": "CardBacks_Resized/T_commander_major_soviet_b.png",
+      "type": "blob",
+      "size": 585202
+    },
+    {
+      "path": "CardBacks_Resized/T_commander_major_soviet_c.png",
+      "type": "blob",
+      "size": 623412
+    },
+    {
+      "path": "CardBacks_Resized/T_guards_armored_british_a.png",
+      "type": "blob",
+      "size": 521963
+    },
+    {
+      "path": "CardBacks_Resized/T_guards_armored_british_b.png",
+      "type": "blob",
+      "size": 521193
+    },
+    {
+      "path": "CardBacks_Resized/T_guards_armored_british_c.png",
+      "type": "blob",
+      "size": 568910
+    },
+    {
+      "path": "CardBacks_Resized/T_japanese_navy_a_512.png",
+      "type": "blob",
+      "size": 642516
+    },
+    {
+      "path": "CardBacks_Resized/T_japanese_navy_b_512.png",
+      "type": "blob",
+      "size": 569029
+    },
+    {
+      "path": "CardBacks_Resized/T_japanese_navy_c_512.png",
+      "type": "blob",
+      "size": 560573
     },
     {
       "path": "CardBacks_Resized/ToW_set_card_back_-_British_a.png",
@@ -1656,474 +1511,39 @@
       "size": 546284
     },
     {
-      "path": "CardBacks_Resized/T_18th-infantry-division_britain_a_512.png",
+      "path": "CardBacks_Resized/USA_skirmish.png",
       "type": "blob",
-      "size": 491732
+      "size": 632835
     },
     {
-      "path": "CardBacks_Resized/T_18th-infantry-division_britain_b_512.png",
+      "path": "CardBacks_Resized/USA_skirmish2.png",
       "type": "blob",
-      "size": 468896
+      "size": 631322
     },
     {
-      "path": "CardBacks_Resized/T_18th-infantry-division_britain_c_512.png",
+      "path": "CardBacks_Resized/USA_skirmish3.png",
       "type": "blob",
-      "size": 550152
+      "size": 634484
     },
     {
-      "path": "CardBacks_Resized/T_306_infantry_division_german_a.png",
+      "path": "CardBacks_Resized/USSR_skirmish.png",
       "type": "blob",
-      "size": 588993
+      "size": 596454
     },
     {
-      "path": "CardBacks_Resized/T_306_infantry_division_german_b.png",
+      "path": "CardBacks_Resized/USSR_skirmish2.png",
       "type": "blob",
-      "size": 576910
+      "size": 586547
     },
     {
-      "path": "CardBacks_Resized/T_306_infantry_division_german_c.png",
+      "path": "CardBacks_Resized/USSR_skirmish3.png",
       "type": "blob",
-      "size": 563952
+      "size": 588194
     },
     {
-      "path": "CardBacks_Resized/T_95th_infantry_usa_a.png",
+      "path": "CardBacks_Resized/UniqueMaterials/AlphaAnniversary/T_AlphaCardback_Roughness.png",
       "type": "blob",
-      "size": 614171
-    },
-    {
-      "path": "CardBacks_Resized/T_95th_infantry_usa_b.png",
-      "type": "blob",
-      "size": 610021
-    },
-    {
-      "path": "CardBacks_Resized/T_95th_infantry_usa_c.png",
-      "type": "blob",
-      "size": 677860
-    },
-    {
-      "path": "CardBacks_Resized/t_air-supremacy_cardback_A.png",
-      "type": "blob",
-      "size": 555322
-    },
-    {
-      "path": "CardBacks_Resized/t_air-supremacy_cardback_B.png",
-      "type": "blob",
-      "size": 525681
-    },
-    {
-      "path": "CardBacks_Resized/t_air-supremacy_cardback_C.png",
-      "type": "blob",
-      "size": 537504
-    },
-    {
-      "path": "CardBacks_Resized/T_Americal-Division_usa_a_512.png",
-      "type": "blob",
-      "size": 634914
-    },
-    {
-      "path": "CardBacks_Resized/T_Americal-Division_usa_b_512.png",
-      "type": "blob",
-      "size": 600615
-    },
-    {
-      "path": "CardBacks_Resized/T_Americal-Division_usa_c_512.png",
-      "type": "blob",
-      "size": 614281
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_3rd_tank_corps_a.png",
-      "type": "blob",
-      "size": 552377
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_3rd_tank_corps_b.png",
-      "type": "blob",
-      "size": 582221
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_3rd_tank_corps_c.png",
-      "type": "blob",
-      "size": 574160
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_6th-Wing_A_512.png",
-      "type": "blob",
-      "size": 424844
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_6th-Wing_B_512.png",
-      "type": "blob",
-      "size": 426125
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_6th-Wing_C_512.png",
-      "type": "blob",
-      "size": 423944
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_6th_infantry_division_a.png",
-      "type": "blob",
-      "size": 597856
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_6th_infantry_division_b.png",
-      "type": "blob",
-      "size": 593818
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_6th_infantry_division_c.png",
-      "type": "blob",
-      "size": 586469
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_air_service_a.png",
-      "type": "blob",
-      "size": 607369
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_air_service_c.png",
-      "type": "blob",
-      "size": 565070
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_early-war_1_A_512x512.png",
-      "type": "blob",
-      "size": 639659
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_early-war_1_B_512x512.png",
-      "type": "blob",
-      "size": 574607
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_early-war_1_C_512x512.png",
-      "type": "blob",
-      "size": 634060
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_early-war_2_A_512x512.png",
-      "type": "blob",
-      "size": 647239
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_early-war_2_B_512x512.png",
-      "type": "blob",
-      "size": 550795
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_early-war_2_C_512x512.png",
-      "type": "blob",
-      "size": 613162
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Ger_25th_Infanterie-Division_A.png",
-      "type": "blob",
-      "size": 515270
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Ger_25th_Infanterie-Division_B.png",
-      "type": "blob",
-      "size": 514071
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Ger_25th_Infanterie-Division_C.png",
-      "type": "blob",
-      "size": 524018
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Ghost-Army_A_512.png",
-      "type": "blob",
-      "size": 287938
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Ghost-Army_B_512.png",
-      "type": "blob",
-      "size": 306543
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Ghost-Army_C_512.png",
-      "type": "blob",
-      "size": 304523
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_JAP_25th-DC-Sqdn_A.png",
-      "type": "blob",
-      "size": 627892
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_JAP_25th-DC-Sqdn_B.png",
-      "type": "blob",
-      "size": 573745
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_JAP_25th-DC-Sqdn_C.png",
-      "type": "blob",
-      "size": 635364
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_JG20_A_512.png",
-      "type": "blob",
-      "size": 291497
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_JG20_B_512.png",
-      "type": "blob",
-      "size": 273836
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_JG20_C_512.png",
-      "type": "blob",
-      "size": 280120
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_mid-autumn-festival_a.png",
-      "type": "blob",
-      "size": 609025
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_mid-autumn-festival_b.png",
-      "type": "blob",
-      "size": 596402
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_mid-autumn-festival_c.png",
-      "type": "blob",
-      "size": 625317
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_mobilebeta_a.png",
-      "type": "blob",
-      "size": 599308
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_mobilebeta_b.png",
-      "type": "blob",
-      "size": 576163
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_mobilebeta_c.png",
-      "type": "blob",
-      "size": 597257
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_naval-jack_sov_a_512.png",
-      "type": "blob",
-      "size": 643980
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_naval-jack_sov_b_512.png",
-      "type": "blob",
-      "size": 464009
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_naval-jack_sov_c_512.png",
-      "type": "blob",
-      "size": 611493
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_1_A_512.png",
-      "type": "blob",
-      "size": 479365
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_1_B_512.png",
-      "type": "blob",
-      "size": 464037
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_1_C_512.png",
-      "type": "blob",
-      "size": 469973
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_2_A_512.png",
-      "type": "blob",
-      "size": 546679
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_2_B_512.png",
-      "type": "blob",
-      "size": 473132
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Naval-Warfare_2_C_512.png",
-      "type": "blob",
-      "size": 483302
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Soviet_Communication_A.png",
-      "type": "blob",
-      "size": 527643
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Soviet_Communication_B.png",
-      "type": "blob",
-      "size": 501585
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_Soviet_Communication_C.png",
-      "type": "blob",
-      "size": 472662
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_USA_44th-div_A.png",
-      "type": "blob",
-      "size": 556234
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_USA_44th-div_B.png",
-      "type": "blob",
-      "size": 557848
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback_USA_44th-div_C.png",
-      "type": "blob",
-      "size": 565045
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_z-flag_jap_a_512.png",
-      "type": "blob",
-      "size": 552378
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_z-flag_jap_b_512.png",
-      "type": "blob",
-      "size": 454776
-    },
-    {
-      "path": "CardBacks_Resized/t_cardback_z-flag_jap_c_512.png",
-      "type": "blob",
-      "size": 459765
-    },
-    {
-      "path": "CardBacks_Resized/T_cardback__air_service_b.png",
-      "type": "blob",
-      "size": 584576
-    },
-    {
-      "path": "CardBacks_Resized/T_commander_major_soviet_a.png",
-      "type": "blob",
-      "size": 557733
-    },
-    {
-      "path": "CardBacks_Resized/T_commander_major_soviet_b.png",
-      "type": "blob",
-      "size": 585202
-    },
-    {
-      "path": "CardBacks_Resized/T_commander_major_soviet_c.png",
-      "type": "blob",
-      "size": 623412
-    },
-    {
-      "path": "CardBacks_Resized/T_guards_armored_british_a.png",
-      "type": "blob",
-      "size": 521963
-    },
-    {
-      "path": "CardBacks_Resized/T_guards_armored_british_b.png",
-      "type": "blob",
-      "size": 521193
-    },
-    {
-      "path": "CardBacks_Resized/T_guards_armored_british_c.png",
-      "type": "blob",
-      "size": 568910
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_1st-cavalry-divison_A.png",
-      "type": "blob",
-      "size": 620325
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_1st-cavalry-divison_B.png",
-      "type": "blob",
-      "size": 584250
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_1st-cavalry-divison_C.png",
-      "type": "blob",
-      "size": 584458
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_alt_cardback_A.png",
-      "type": "blob",
-      "size": 679556
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_alt_cardback_B.png",
-      "type": "blob",
-      "size": 615671
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_alt_cardback_C.png",
-      "type": "blob",
-      "size": 654523
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_cardback_A.png",
-      "type": "blob",
-      "size": 648460
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_cardback_B.png",
-      "type": "blob",
-      "size": 648300
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_cardback_C.png",
-      "type": "blob",
-      "size": 653155
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_first-team_A.png",
-      "type": "blob",
-      "size": 588211
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_first-team_B.png",
-      "type": "blob",
-      "size": 574888
-    },
-    {
-      "path": "CardBacks_Resized/t_homefront_first-team_C.png",
-      "type": "blob",
-      "size": 579375
-    },
-    {
-      "path": "CardBacks_Resized/T_japanese_navy_a_512.png",
-      "type": "blob",
-      "size": 642516
-    },
-    {
-      "path": "CardBacks_Resized/T_japanese_navy_b_512.png",
-      "type": "blob",
-      "size": 569029
-    },
-    {
-      "path": "CardBacks_Resized/T_japanese_navy_c_512.png",
-      "type": "blob",
-      "size": 560573
-    },
-    {
-      "path": "CardBacks_Resized/t_KCP_cardback_A_512x512.png",
-      "type": "blob",
-      "size": 591840
-    },
-    {
-      "path": "CardBacks_Resized/t_KCP_cardback_B_512x512.png",
-      "type": "blob",
-      "size": 586689
-    },
-    {
-      "path": "CardBacks_Resized/t_KCP_cardback_C_512x512.png",
-      "type": "blob",
-      "size": 601402
-    },
-    {
-      "path": "CardBacks_Resized/T_MetalicBack.png",
-      "type": "blob",
-      "size": 553315
+      "size": 304463
     },
     {
       "path": "CardBacks_Resized/UniqueMaterials/AlphaAnniversary/T_AlphaCardback_color.png",
@@ -2146,9 +1566,14 @@
       "size": 28328
     },
     {
-      "path": "CardBacks_Resized/UniqueMaterials/AlphaAnniversary/T_AlphaCardback_Roughness.png",
+      "path": "CardBacks_Resized/UniqueMaterials/Bronze/T_Rank4_Normal.png",
       "type": "blob",
-      "size": 304463
+      "size": 122726
+    },
+    {
+      "path": "CardBacks_Resized/UniqueMaterials/Bronze/T_Rank4_Roughness.png",
+      "type": "blob",
+      "size": 381314
     },
     {
       "path": "CardBacks_Resized/UniqueMaterials/Bronze/T_Rank4_basecolor.png",
@@ -2159,16 +1584,6 @@
       "path": "CardBacks_Resized/UniqueMaterials/Bronze/T_Rank4_metallic.png",
       "type": "blob",
       "size": 531921
-    },
-    {
-      "path": "CardBacks_Resized/UniqueMaterials/Bronze/T_Rank4_Normal.png",
-      "type": "blob",
-      "size": 122726
-    },
-    {
-      "path": "CardBacks_Resized/UniqueMaterials/Bronze/T_Rank4_Roughness.png",
-      "type": "blob",
-      "size": 381314
     },
     {
       "path": "CardBacks_Resized/UniqueMaterials/Elite/T_rank1_bc.png",
@@ -2211,6 +1626,11 @@
       "size": 455766
     },
     {
+      "path": "CardBacks_Resized/UniqueMaterials/Iron/T_Rank5_Normal.png",
+      "type": "blob",
+      "size": 243914
+    },
+    {
       "path": "CardBacks_Resized/UniqueMaterials/Iron/T_Rank5_basecolor.png",
       "type": "blob",
       "size": 636730
@@ -2219,11 +1639,6 @@
       "path": "CardBacks_Resized/UniqueMaterials/Iron/T_Rank5_metallic.png",
       "type": "blob",
       "size": 549383
-    },
-    {
-      "path": "CardBacks_Resized/UniqueMaterials/Iron/T_Rank5_Normal.png",
-      "type": "blob",
-      "size": 243914
     },
     {
       "path": "CardBacks_Resized/UniqueMaterials/Iron/T_Rank5_roughness.png",
@@ -2256,11 +1671,6 @@
       "size": 606799
     },
     {
-      "path": "CardBacks_Resized/Uprising_a.png",
-      "type": "blob",
-      "size": 591498
-    },
-    {
       "path": "CardBacks_Resized/Uprising_b.png",
       "type": "blob",
       "size": 578659
@@ -2269,21 +1679,6 @@
       "path": "CardBacks_Resized/Uprising_c.png",
       "type": "blob",
       "size": 582977
-    },
-    {
-      "path": "CardBacks_Resized/usaaf_a.png",
-      "type": "blob",
-      "size": 616277
-    },
-    {
-      "path": "CardBacks_Resized/usaaf_b.png",
-      "type": "blob",
-      "size": 600765
-    },
-    {
-      "path": "CardBacks_Resized/usaaf_c.png",
-      "type": "blob",
-      "size": 612928
     },
     {
       "path": "CardBacks_Resized/UsaBasicA.png",
@@ -2314,46 +1709,6 @@
       "path": "CardBacks_Resized/UsaBasicExtraC.png",
       "type": "blob",
       "size": 606452
-    },
-    {
-      "path": "CardBacks_Resized/USA_skirmish.png",
-      "type": "blob",
-      "size": 632835
-    },
-    {
-      "path": "CardBacks_Resized/USA_skirmish2.png",
-      "type": "blob",
-      "size": 631322
-    },
-    {
-      "path": "CardBacks_Resized/USA_skirmish3.png",
-      "type": "blob",
-      "size": 634484
-    },
-    {
-      "path": "CardBacks_Resized/USSR_skirmish.png",
-      "type": "blob",
-      "size": 596454
-    },
-    {
-      "path": "CardBacks_Resized/USSR_skirmish2.png",
-      "type": "blob",
-      "size": 586547
-    },
-    {
-      "path": "CardBacks_Resized/USSR_skirmish3.png",
-      "type": "blob",
-      "size": 588194
-    },
-    {
-      "path": "CardBacks_Resized/wc22_premium_cardback_B1024.png",
-      "type": "blob",
-      "size": 642452
-    },
-    {
-      "path": "CardBacks_Resized/wc22_premium_cardback_C1024.png",
-      "type": "blob",
-      "size": 630296
     },
     {
       "path": "CardBacks_Resized/Wildcards/Wildcard_back_lighter_po2.png",
@@ -2496,21 +1851,6 @@
       "size": 501235
     },
     {
-      "path": "CardBacks_Resized/xxx_corps_cardback_a.png",
-      "type": "blob",
-      "size": 404788
-    },
-    {
-      "path": "CardBacks_Resized/xxx_corps_cardback_b.png",
-      "type": "blob",
-      "size": 383037
-    },
-    {
-      "path": "CardBacks_Resized/xxx_corps_cardback_c.png",
-      "type": "blob",
-      "size": 404685
-    },
-    {
       "path": "CardBacks_Resized/Yokoshiba_Flying_School_Ax512.png",
       "type": "blob",
       "size": 607386
@@ -2524,6 +1864,666 @@
       "path": "CardBacks_Resized/Yokoshiba_Flying_School_Cx512.png",
       "type": "blob",
       "size": 526853
+    },
+    {
+      "path": "CardBacks_Resized/artillery_soviet_final_A_green_x512__1_.png",
+      "type": "blob",
+      "size": 522725
+    },
+    {
+      "path": "CardBacks_Resized/artillery_soviet_final_B_green_x512__1_.png",
+      "type": "blob",
+      "size": 524962
+    },
+    {
+      "path": "CardBacks_Resized/artillery_soviet_final_C_green_x512__1_.png",
+      "type": "blob",
+      "size": 500149
+    },
+    {
+      "path": "CardBacks_Resized/blue_and_gray_a_512.png",
+      "type": "blob",
+      "size": 488246
+    },
+    {
+      "path": "CardBacks_Resized/blue_and_gray_b_512.png",
+      "type": "blob",
+      "size": 551253
+    },
+    {
+      "path": "CardBacks_Resized/blue_and_gray_c_512.png",
+      "type": "blob",
+      "size": 499527
+    },
+    {
+      "path": "CardBacks_Resized/britain_final_Ax512.png",
+      "type": "blob",
+      "size": 628948
+    },
+    {
+      "path": "CardBacks_Resized/britain_final_Bx512.png",
+      "type": "blob",
+      "size": 719945
+    },
+    {
+      "path": "CardBacks_Resized/britain_final_Cx512.png",
+      "type": "blob",
+      "size": 622035
+    },
+    {
+      "path": "CardBacks_Resized/cardback_42nd_divisionA.png",
+      "type": "blob",
+      "size": 475601
+    },
+    {
+      "path": "CardBacks_Resized/cardback_42nd_divisionB.png",
+      "type": "blob",
+      "size": 460957
+    },
+    {
+      "path": "CardBacks_Resized/cardback_42nd_divisionC.png",
+      "type": "blob",
+      "size": 577705
+    },
+    {
+      "path": "CardBacks_Resized/cardback_britain_airA.png",
+      "type": "blob",
+      "size": 578200
+    },
+    {
+      "path": "CardBacks_Resized/cardback_britain_airB.png",
+      "type": "blob",
+      "size": 575380
+    },
+    {
+      "path": "CardBacks_Resized/cardback_britain_airC.png",
+      "type": "blob",
+      "size": 576889
+    },
+    {
+      "path": "CardBacks_Resized/cardback_german_airA.png",
+      "type": "blob",
+      "size": 529778
+    },
+    {
+      "path": "CardBacks_Resized/cardback_german_airB.png",
+      "type": "blob",
+      "size": 528411
+    },
+    {
+      "path": "CardBacks_Resized/cardback_german_airC.png",
+      "type": "blob",
+      "size": 523967
+    },
+    {
+      "path": "CardBacks_Resized/cardback_jap_airA.png",
+      "type": "blob",
+      "size": 515344
+    },
+    {
+      "path": "CardBacks_Resized/cardback_jap_airB.png",
+      "type": "blob",
+      "size": 526400
+    },
+    {
+      "path": "CardBacks_Resized/cardback_jap_airC.png",
+      "type": "blob",
+      "size": 529157
+    },
+    {
+      "path": "CardBacks_Resized/cardback_soviet_airA.png",
+      "type": "blob",
+      "size": 547542
+    },
+    {
+      "path": "CardBacks_Resized/cardback_soviet_airB.png",
+      "type": "blob",
+      "size": 548698
+    },
+    {
+      "path": "CardBacks_Resized/cardback_soviet_airC.png",
+      "type": "blob",
+      "size": 545967
+    },
+    {
+      "path": "CardBacks_Resized/cardback_us_airA.png",
+      "type": "blob",
+      "size": 536631
+    },
+    {
+      "path": "CardBacks_Resized/cardback_us_airB.png",
+      "type": "blob",
+      "size": 539805
+    },
+    {
+      "path": "CardBacks_Resized/cardback_us_airC.png",
+      "type": "blob",
+      "size": 538435
+    },
+    {
+      "path": "CardBacks_Resized/championship_2021_a_po2.png",
+      "type": "blob",
+      "size": 415625
+    },
+    {
+      "path": "CardBacks_Resized/championship_2021_b_po2.png",
+      "type": "blob",
+      "size": 423292
+    },
+    {
+      "path": "CardBacks_Resized/championship_2021_c_po2.png",
+      "type": "blob",
+      "size": 425344
+    },
+    {
+      "path": "CardBacks_Resized/chinese_new_year_2025_a_po2.png",
+      "type": "blob",
+      "size": 584797
+    },
+    {
+      "path": "CardBacks_Resized/chinese_new_year_2025_b_po2.png",
+      "type": "blob",
+      "size": 566311
+    },
+    {
+      "path": "CardBacks_Resized/chinese_new_year_2025_c_po2.png",
+      "type": "blob",
+      "size": 598504
+    },
+    {
+      "path": "CardBacks_Resized/ddayA.png",
+      "type": "blob",
+      "size": 536793
+    },
+    {
+      "path": "CardBacks_Resized/ddayB.png",
+      "type": "blob",
+      "size": 505875
+    },
+    {
+      "path": "CardBacks_Resized/ddayC.png",
+      "type": "blob",
+      "size": 470713
+    },
+    {
+      "path": "CardBacks_Resized/desert_rats_desert_camo_a.png",
+      "type": "blob",
+      "size": 532438
+    },
+    {
+      "path": "CardBacks_Resized/desert_rats_desert_camo_b.png",
+      "type": "blob",
+      "size": 525551
+    },
+    {
+      "path": "CardBacks_Resized/desert_rats_desert_camo_c.png",
+      "type": "blob",
+      "size": 487724
+    },
+    {
+      "path": "CardBacks_Resized/finland_a.png",
+      "type": "blob",
+      "size": 530754
+    },
+    {
+      "path": "CardBacks_Resized/finland_b.png",
+      "type": "blob",
+      "size": 546045
+    },
+    {
+      "path": "CardBacks_Resized/finland_c.png",
+      "type": "blob",
+      "size": 530754
+    },
+    {
+      "path": "CardBacks_Resized/france_a.png",
+      "type": "blob",
+      "size": 569050
+    },
+    {
+      "path": "CardBacks_Resized/france_b.png",
+      "type": "blob",
+      "size": 587274
+    },
+    {
+      "path": "CardBacks_Resized/france_c.png",
+      "type": "blob",
+      "size": 550845
+    },
+    {
+      "path": "CardBacks_Resized/general_stars_a_po2.png",
+      "type": "blob",
+      "size": 549326
+    },
+    {
+      "path": "CardBacks_Resized/general_stars_b_po2.png",
+      "type": "blob",
+      "size": 543597
+    },
+    {
+      "path": "CardBacks_Resized/general_stars_c_po2.png",
+      "type": "blob",
+      "size": 526943
+    },
+    {
+      "path": "CardBacks_Resized/germany_final_Ax512.png",
+      "type": "blob",
+      "size": 520374
+    },
+    {
+      "path": "CardBacks_Resized/germany_final_Bx512.png",
+      "type": "blob",
+      "size": 501773
+    },
+    {
+      "path": "CardBacks_Resized/germany_final_Cx512.png",
+      "type": "blob",
+      "size": 512540
+    },
+    {
+      "path": "CardBacks_Resized/holiday_cardback_22_A512.png",
+      "type": "blob",
+      "size": 583273
+    },
+    {
+      "path": "CardBacks_Resized/holiday_cardback_22_B512.png",
+      "type": "blob",
+      "size": 633212
+    },
+    {
+      "path": "CardBacks_Resized/holiday_cardback_22_C512.png",
+      "type": "blob",
+      "size": 592535
+    },
+    {
+      "path": "CardBacks_Resized/italy_a.png",
+      "type": "blob",
+      "size": 517284
+    },
+    {
+      "path": "CardBacks_Resized/italy_b.png",
+      "type": "blob",
+      "size": 512938
+    },
+    {
+      "path": "CardBacks_Resized/italy_c.png",
+      "type": "blob",
+      "size": 533346
+    },
+    {
+      "path": "CardBacks_Resized/japan_final_Ax512.png",
+      "type": "blob",
+      "size": 575260
+    },
+    {
+      "path": "CardBacks_Resized/japan_final_Bx512.png",
+      "type": "blob",
+      "size": 477157
+    },
+    {
+      "path": "CardBacks_Resized/japan_final_Cx512.png",
+      "type": "blob",
+      "size": 639784
+    },
+    {
+      "path": "CardBacks_Resized/japan_tank_company_a.png",
+      "type": "blob",
+      "size": 433120
+    },
+    {
+      "path": "CardBacks_Resized/japan_tank_company_b.png",
+      "type": "blob",
+      "size": 478510
+    },
+    {
+      "path": "CardBacks_Resized/japan_tank_company_c.png",
+      "type": "blob",
+      "size": 459270
+    },
+    {
+      "path": "CardBacks_Resized/jg_27_a.png",
+      "type": "blob",
+      "size": 519766
+    },
+    {
+      "path": "CardBacks_Resized/jg_27_b.png",
+      "type": "blob",
+      "size": 489603
+    },
+    {
+      "path": "CardBacks_Resized/jg_27_c.png",
+      "type": "blob",
+      "size": 497927
+    },
+    {
+      "path": "CardBacks_Resized/kriegsmarine_germany_final_Ax512.png",
+      "type": "blob",
+      "size": 422870
+    },
+    {
+      "path": "CardBacks_Resized/kriegsmarine_germany_final_Bx512.png",
+      "type": "blob",
+      "size": 392770
+    },
+    {
+      "path": "CardBacks_Resized/kriegsmarine_germany_final_Cx512.png",
+      "type": "blob",
+      "size": 554324
+    },
+    {
+      "path": "CardBacks_Resized/kriegsmarine_pass_a_po2.png",
+      "type": "blob",
+      "size": 485458
+    },
+    {
+      "path": "CardBacks_Resized/kriegsmarine_pass_b_po2.png",
+      "type": "blob",
+      "size": 464883
+    },
+    {
+      "path": "CardBacks_Resized/kriegsmarine_pass_c_po2.png",
+      "type": "blob",
+      "size": 509457
+    },
+    {
+      "path": "CardBacks_Resized/poland_a.png",
+      "type": "blob",
+      "size": 437467
+    },
+    {
+      "path": "CardBacks_Resized/poland_b.png",
+      "type": "blob",
+      "size": 505338
+    },
+    {
+      "path": "CardBacks_Resized/poland_c.png",
+      "type": "blob",
+      "size": 498894
+    },
+    {
+      "path": "CardBacks_Resized/redesign_A.png",
+      "type": "blob",
+      "size": 544825
+    },
+    {
+      "path": "CardBacks_Resized/redesign_B.png",
+      "type": "blob",
+      "size": 619364
+    },
+    {
+      "path": "CardBacks_Resized/redesign_C.png",
+      "type": "blob",
+      "size": 578834
+    },
+    {
+      "path": "CardBacks_Resized/redesign_finalA.png",
+      "type": "blob",
+      "size": 628176
+    },
+    {
+      "path": "CardBacks_Resized/redesign_final_B.png",
+      "type": "blob",
+      "size": 619796
+    },
+    {
+      "path": "CardBacks_Resized/redesign_final_C.png",
+      "type": "blob",
+      "size": 605062
+    },
+    {
+      "path": "CardBacks_Resized/screaming_eagles_a_po2.png",
+      "type": "blob",
+      "size": 548248
+    },
+    {
+      "path": "CardBacks_Resized/screaming_eagles_c_po2.png",
+      "type": "blob",
+      "size": 564465
+    },
+    {
+      "path": "CardBacks_Resized/screaming_eagles_po2.png",
+      "type": "blob",
+      "size": 569525
+    },
+    {
+      "path": "CardBacks_Resized/soviet_final_Ax512.png",
+      "type": "blob",
+      "size": 577133
+    },
+    {
+      "path": "CardBacks_Resized/soviet_final_Bx512.png",
+      "type": "blob",
+      "size": 570252
+    },
+    {
+      "path": "CardBacks_Resized/soviet_final_Cx512.png",
+      "type": "blob",
+      "size": 553404
+    },
+    {
+      "path": "CardBacks_Resized/soviet_general_a_512.png",
+      "type": "blob",
+      "size": 567282
+    },
+    {
+      "path": "CardBacks_Resized/soviet_general_b_512.png",
+      "type": "blob",
+      "size": 576554
+    },
+    {
+      "path": "CardBacks_Resized/soviet_general_c_512.png",
+      "type": "blob",
+      "size": 536241
+    },
+    {
+      "path": "CardBacks_Resized/soviet_premium_winter_camouflage_2x512.png",
+      "type": "blob",
+      "size": 786613
+    },
+    {
+      "path": "CardBacks_Resized/soviet_premium_winter_camouflage_3x512.png",
+      "type": "blob",
+      "size": 766576
+    },
+    {
+      "path": "CardBacks_Resized/soviet_premium_winter_camouflagex512.png",
+      "type": "blob",
+      "size": 813508
+    },
+    {
+      "path": "CardBacks_Resized/t_KCP_cardback_A_512x512.png",
+      "type": "blob",
+      "size": 591840
+    },
+    {
+      "path": "CardBacks_Resized/t_KCP_cardback_B_512x512.png",
+      "type": "blob",
+      "size": 586689
+    },
+    {
+      "path": "CardBacks_Resized/t_KCP_cardback_C_512x512.png",
+      "type": "blob",
+      "size": 601402
+    },
+    {
+      "path": "CardBacks_Resized/t_air-supremacy_cardback_A.png",
+      "type": "blob",
+      "size": 555322
+    },
+    {
+      "path": "CardBacks_Resized/t_air-supremacy_cardback_B.png",
+      "type": "blob",
+      "size": 525681
+    },
+    {
+      "path": "CardBacks_Resized/t_air-supremacy_cardback_C.png",
+      "type": "blob",
+      "size": 537504
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_early-war_1_A_512x512.png",
+      "type": "blob",
+      "size": 639659
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_early-war_1_B_512x512.png",
+      "type": "blob",
+      "size": 574607
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_early-war_1_C_512x512.png",
+      "type": "blob",
+      "size": 634060
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_early-war_2_A_512x512.png",
+      "type": "blob",
+      "size": 647239
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_early-war_2_B_512x512.png",
+      "type": "blob",
+      "size": 550795
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_early-war_2_C_512x512.png",
+      "type": "blob",
+      "size": 613162
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_naval-jack_sov_a_512.png",
+      "type": "blob",
+      "size": 643980
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_naval-jack_sov_b_512.png",
+      "type": "blob",
+      "size": 464009
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_naval-jack_sov_c_512.png",
+      "type": "blob",
+      "size": 611493
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_z-flag_jap_a_512.png",
+      "type": "blob",
+      "size": 552378
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_z-flag_jap_b_512.png",
+      "type": "blob",
+      "size": 454776
+    },
+    {
+      "path": "CardBacks_Resized/t_cardback_z-flag_jap_c_512.png",
+      "type": "blob",
+      "size": 459765
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_1st-cavalry-divison_A.png",
+      "type": "blob",
+      "size": 620325
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_1st-cavalry-divison_B.png",
+      "type": "blob",
+      "size": 584250
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_1st-cavalry-divison_C.png",
+      "type": "blob",
+      "size": 584458
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_alt_cardback_A.png",
+      "type": "blob",
+      "size": 679556
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_alt_cardback_B.png",
+      "type": "blob",
+      "size": 615671
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_alt_cardback_C.png",
+      "type": "blob",
+      "size": 654523
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_cardback_A.png",
+      "type": "blob",
+      "size": 648460
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_cardback_B.png",
+      "type": "blob",
+      "size": 648300
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_cardback_C.png",
+      "type": "blob",
+      "size": 653155
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_first-team_A.png",
+      "type": "blob",
+      "size": 588211
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_first-team_B.png",
+      "type": "blob",
+      "size": 574888
+    },
+    {
+      "path": "CardBacks_Resized/t_homefront_first-team_C.png",
+      "type": "blob",
+      "size": 579375
+    },
+    {
+      "path": "CardBacks_Resized/uprising_a.png",
+      "type": "blob",
+      "size": 591498
+    },
+    {
+      "path": "CardBacks_Resized/usaaf_a.png",
+      "type": "blob",
+      "size": 616277
+    },
+    {
+      "path": "CardBacks_Resized/usaaf_b.png",
+      "type": "blob",
+      "size": 600765
+    },
+    {
+      "path": "CardBacks_Resized/usaaf_c.png",
+      "type": "blob",
+      "size": 612928
+    },
+    {
+      "path": "CardBacks_Resized/wc22_premium_cardback_B1024.png",
+      "type": "blob",
+      "size": 642452
+    },
+    {
+      "path": "CardBacks_Resized/wc22_premium_cardback_C1024.png",
+      "type": "blob",
+      "size": 630296
+    },
+    {
+      "path": "CardBacks_Resized/xxx_corps_cardback_a.png",
+      "type": "blob",
+      "size": 404788
+    },
+    {
+      "path": "CardBacks_Resized/xxx_corps_cardback_b.png",
+      "type": "blob",
+      "size": 383037
+    },
+    {
+      "path": "CardBacks_Resized/xxx_corps_cardback_c.png",
+      "type": "blob",
+      "size": 404685
     },
     {
       "path": "CardBacks_Thumbnails/11_infantry_division_a_512.webp",
@@ -2781,19 +2781,19 @@
       "size": 15376
     },
     {
-      "path": "CardBacks_Thumbnails/artillery_soviet_final_A_green_x512__1_.webp",
+      "path": "CardBacks_Thumbnails/BRITAIN_skirmish.webp",
       "type": "blob",
-      "size": 9268
+      "size": 9874
     },
     {
-      "path": "CardBacks_Thumbnails/artillery_soviet_final_B_green_x512__1_.webp",
+      "path": "CardBacks_Thumbnails/BRITAIN_skirmish2.webp",
       "type": "blob",
-      "size": 9842
+      "size": 9558
     },
     {
-      "path": "CardBacks_Thumbnails/artillery_soviet_final_C_green_x512__1_.webp",
+      "path": "CardBacks_Thumbnails/BRITAIN_skirmish3.webp",
       "type": "blob",
-      "size": 9118
+      "size": 9550
     },
     {
       "path": "CardBacks_Thumbnails/Base_set_card_back_a.webp",
@@ -2906,21 +2906,6 @@
       "size": 7416
     },
     {
-      "path": "CardBacks_Thumbnails/blue_and_gray_a_512.webp",
-      "type": "blob",
-      "size": 7892
-    },
-    {
-      "path": "CardBacks_Thumbnails/blue_and_gray_b_512.webp",
-      "type": "blob",
-      "size": 9538
-    },
-    {
-      "path": "CardBacks_Thumbnails/blue_and_gray_c_512.webp",
-      "type": "blob",
-      "size": 8476
-    },
-    {
       "path": "CardBacks_Thumbnails/Breakthrough_a_color_po2.webp",
       "type": "blob",
       "size": 9892
@@ -2934,36 +2919,6 @@
       "path": "CardBacks_Thumbnails/Breakthrough_c_color_po2.webp",
       "type": "blob",
       "size": 10464
-    },
-    {
-      "path": "CardBacks_Thumbnails/britain_final_Ax512.webp",
-      "type": "blob",
-      "size": 18268
-    },
-    {
-      "path": "CardBacks_Thumbnails/britain_final_Bx512.webp",
-      "type": "blob",
-      "size": 22058
-    },
-    {
-      "path": "CardBacks_Thumbnails/britain_final_Cx512.webp",
-      "type": "blob",
-      "size": 20400
-    },
-    {
-      "path": "CardBacks_Thumbnails/BRITAIN_skirmish.webp",
-      "type": "blob",
-      "size": 9874
-    },
-    {
-      "path": "CardBacks_Thumbnails/BRITAIN_skirmish2.webp",
-      "type": "blob",
-      "size": 9558
-    },
-    {
-      "path": "CardBacks_Thumbnails/BRITAIN_skirmish3.webp",
-      "type": "blob",
-      "size": 9550
     },
     {
       "path": "CardBacks_Thumbnails/BritBasicExtraA.webp",
@@ -3021,94 +2976,9 @@
       "size": 3426
     },
     {
-      "path": "CardBacks_Thumbnails/cardback_42nd_divisionA.webp",
+      "path": "CardBacks_Thumbnails/Catalys_b_po2.webp",
       "type": "blob",
-      "size": 9042
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_42nd_divisionB.webp",
-      "type": "blob",
-      "size": 8914
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_42nd_divisionC.webp",
-      "type": "blob",
-      "size": 12490
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_britain_airA.webp",
-      "type": "blob",
-      "size": 12070
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_britain_airB.webp",
-      "type": "blob",
-      "size": 12222
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_britain_airC.webp",
-      "type": "blob",
-      "size": 12416
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_german_airA.webp",
-      "type": "blob",
-      "size": 11456
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_german_airB.webp",
-      "type": "blob",
-      "size": 11446
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_german_airC.webp",
-      "type": "blob",
-      "size": 10998
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_jap_airA.webp",
-      "type": "blob",
-      "size": 10186
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_jap_airB.webp",
-      "type": "blob",
-      "size": 11026
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_jap_airC.webp",
-      "type": "blob",
-      "size": 11662
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_soviet_airA.webp",
-      "type": "blob",
-      "size": 15258
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_soviet_airB.webp",
-      "type": "blob",
-      "size": 15232
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_soviet_airC.webp",
-      "type": "blob",
-      "size": 15098
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_us_airA.webp",
-      "type": "blob",
-      "size": 11250
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_us_airB.webp",
-      "type": "blob",
-      "size": 11472
-    },
-    {
-      "path": "CardBacks_Thumbnails/cardback_us_airC.webp",
-      "type": "blob",
-      "size": 11390
+      "size": 7442
     },
     {
       "path": "CardBacks_Thumbnails/Catalyst_a_po2.webp",
@@ -3119,41 +2989,6 @@
       "path": "CardBacks_Thumbnails/Catalyst_c_po2.webp",
       "type": "blob",
       "size": 6614
-    },
-    {
-      "path": "CardBacks_Thumbnails/Catalys_b_po2.webp",
-      "type": "blob",
-      "size": 7442
-    },
-    {
-      "path": "CardBacks_Thumbnails/championship_2021_a_po2.webp",
-      "type": "blob",
-      "size": 10196
-    },
-    {
-      "path": "CardBacks_Thumbnails/championship_2021_b_po2.webp",
-      "type": "blob",
-      "size": 10632
-    },
-    {
-      "path": "CardBacks_Thumbnails/championship_2021_c_po2.webp",
-      "type": "blob",
-      "size": 10920
-    },
-    {
-      "path": "CardBacks_Thumbnails/chinese_new_year_2025_a_po2.webp",
-      "type": "blob",
-      "size": 11856
-    },
-    {
-      "path": "CardBacks_Thumbnails/chinese_new_year_2025_b_po2.webp",
-      "type": "blob",
-      "size": 10374
-    },
-    {
-      "path": "CardBacks_Thumbnails/chinese_new_year_2025_c_po2.webp",
-      "type": "blob",
-      "size": 13102
     },
     {
       "path": "CardBacks_Thumbnails/Covert_cardback_A_512x512.webp",
@@ -3186,64 +3021,19 @@
       "size": 15354
     },
     {
-      "path": "CardBacks_Thumbnails/ddayA.webp",
+      "path": "CardBacks_Thumbnails/GERMANY_skirmish.webp",
       "type": "blob",
-      "size": 9004
+      "size": 17414
     },
     {
-      "path": "CardBacks_Thumbnails/ddayB.webp",
+      "path": "CardBacks_Thumbnails/GERMANY_skirmish2.webp",
       "type": "blob",
-      "size": 8906
+      "size": 17328
     },
     {
-      "path": "CardBacks_Thumbnails/ddayC.webp",
+      "path": "CardBacks_Thumbnails/GERMANY_skirmish3.webp",
       "type": "blob",
-      "size": 8538
-    },
-    {
-      "path": "CardBacks_Thumbnails/desert_rats_desert_camo_a.webp",
-      "type": "blob",
-      "size": 8444
-    },
-    {
-      "path": "CardBacks_Thumbnails/desert_rats_desert_camo_b.webp",
-      "type": "blob",
-      "size": 7930
-    },
-    {
-      "path": "CardBacks_Thumbnails/desert_rats_desert_camo_c.webp",
-      "type": "blob",
-      "size": 6284
-    },
-    {
-      "path": "CardBacks_Thumbnails/finland_a.webp",
-      "type": "blob",
-      "size": 11436
-    },
-    {
-      "path": "CardBacks_Thumbnails/finland_b.webp",
-      "type": "blob",
-      "size": 12186
-    },
-    {
-      "path": "CardBacks_Thumbnails/finland_c.webp",
-      "type": "blob",
-      "size": 11436
-    },
-    {
-      "path": "CardBacks_Thumbnails/france_a.webp",
-      "type": "blob",
-      "size": 10898
-    },
-    {
-      "path": "CardBacks_Thumbnails/france_b.webp",
-      "type": "blob",
-      "size": 10440
-    },
-    {
-      "path": "CardBacks_Thumbnails/france_c.webp",
-      "type": "blob",
-      "size": 9950
+      "size": 17612
     },
     {
       "path": "CardBacks_Thumbnails/Gefreiter_Ax5122.webp",
@@ -3261,21 +3051,6 @@
       "size": 14280
     },
     {
-      "path": "CardBacks_Thumbnails/general_stars_a_po2.webp",
-      "type": "blob",
-      "size": 8990
-    },
-    {
-      "path": "CardBacks_Thumbnails/general_stars_b_po2.webp",
-      "type": "blob",
-      "size": 8568
-    },
-    {
-      "path": "CardBacks_Thumbnails/general_stars_c_po2.webp",
-      "type": "blob",
-      "size": 7372
-    },
-    {
       "path": "CardBacks_Thumbnails/GerBasicExtraA.webp",
       "type": "blob",
       "size": 9296
@@ -3289,36 +3064,6 @@
       "path": "CardBacks_Thumbnails/GerBasicExtraC.webp",
       "type": "blob",
       "size": 9510
-    },
-    {
-      "path": "CardBacks_Thumbnails/germany_final_Ax512.webp",
-      "type": "blob",
-      "size": 7808
-    },
-    {
-      "path": "CardBacks_Thumbnails/germany_final_Bx512.webp",
-      "type": "blob",
-      "size": 8122
-    },
-    {
-      "path": "CardBacks_Thumbnails/germany_final_Cx512.webp",
-      "type": "blob",
-      "size": 8438
-    },
-    {
-      "path": "CardBacks_Thumbnails/GERMANY_skirmish.webp",
-      "type": "blob",
-      "size": 17414
-    },
-    {
-      "path": "CardBacks_Thumbnails/GERMANY_skirmish2.webp",
-      "type": "blob",
-      "size": 17328
-    },
-    {
-      "path": "CardBacks_Thumbnails/GERMANY_skirmish3.webp",
-      "type": "blob",
-      "size": 17612
     },
     {
       "path": "CardBacks_Thumbnails/Holidays_cardback_-_flake_1.webp",
@@ -3336,21 +3081,6 @@
       "size": 20234
     },
     {
-      "path": "CardBacks_Thumbnails/holiday_cardback_22_A512.webp",
-      "type": "blob",
-      "size": 17682
-    },
-    {
-      "path": "CardBacks_Thumbnails/holiday_cardback_22_B512.webp",
-      "type": "blob",
-      "size": 20492
-    },
-    {
-      "path": "CardBacks_Thumbnails/holiday_cardback_22_C512.webp",
-      "type": "blob",
-      "size": 19098
-    },
-    {
       "path": "CardBacks_Thumbnails/Infantry_Emblem_Ax512.webp",
       "type": "blob",
       "size": 23272
@@ -3364,51 +3094,6 @@
       "path": "CardBacks_Thumbnails/Infantry_Emblem_Cx512.webp",
       "type": "blob",
       "size": 23640
-    },
-    {
-      "path": "CardBacks_Thumbnails/italy_a.webp",
-      "type": "blob",
-      "size": 7114
-    },
-    {
-      "path": "CardBacks_Thumbnails/italy_b.webp",
-      "type": "blob",
-      "size": 6694
-    },
-    {
-      "path": "CardBacks_Thumbnails/italy_c.webp",
-      "type": "blob",
-      "size": 8314
-    },
-    {
-      "path": "CardBacks_Thumbnails/JapanBasicA.webp",
-      "type": "blob",
-      "size": 8702
-    },
-    {
-      "path": "CardBacks_Thumbnails/JapanBasicB.webp",
-      "type": "blob",
-      "size": 10196
-    },
-    {
-      "path": "CardBacks_Thumbnails/JapanBasicC.webp",
-      "type": "blob",
-      "size": 8888
-    },
-    {
-      "path": "CardBacks_Thumbnails/japan_final_Ax512.webp",
-      "type": "blob",
-      "size": 13846
-    },
-    {
-      "path": "CardBacks_Thumbnails/japan_final_Bx512.webp",
-      "type": "blob",
-      "size": 13358
-    },
-    {
-      "path": "CardBacks_Thumbnails/japan_final_Cx512.webp",
-      "type": "blob",
-      "size": 16446
     },
     {
       "path": "CardBacks_Thumbnails/JAPAN_skirmish.webp",
@@ -3426,21 +3111,6 @@
       "size": 23882
     },
     {
-      "path": "CardBacks_Thumbnails/japan_tank_company_a.webp",
-      "type": "blob",
-      "size": 5902
-    },
-    {
-      "path": "CardBacks_Thumbnails/japan_tank_company_b.webp",
-      "type": "blob",
-      "size": 6824
-    },
-    {
-      "path": "CardBacks_Thumbnails/japan_tank_company_c.webp",
-      "type": "blob",
-      "size": 6012
-    },
-    {
       "path": "CardBacks_Thumbnails/JapBasicExtraA.webp",
       "type": "blob",
       "size": 5524
@@ -3456,19 +3126,19 @@
       "size": 5558
     },
     {
-      "path": "CardBacks_Thumbnails/jg_27_a.webp",
+      "path": "CardBacks_Thumbnails/JapanBasicA.webp",
       "type": "blob",
-      "size": 9562
+      "size": 8702
     },
     {
-      "path": "CardBacks_Thumbnails/jg_27_b.webp",
+      "path": "CardBacks_Thumbnails/JapanBasicB.webp",
       "type": "blob",
-      "size": 9098
+      "size": 10196
     },
     {
-      "path": "CardBacks_Thumbnails/jg_27_c.webp",
+      "path": "CardBacks_Thumbnails/JapanBasicC.webp",
       "type": "blob",
-      "size": 8512
+      "size": 8888
     },
     {
       "path": "CardBacks_Thumbnails/Kards-Set-1-GBR-A.webp",
@@ -3821,36 +3491,6 @@
       "size": 10956
     },
     {
-      "path": "CardBacks_Thumbnails/kriegsmarine_germany_final_Ax512.webp",
-      "type": "blob",
-      "size": 8826
-    },
-    {
-      "path": "CardBacks_Thumbnails/kriegsmarine_germany_final_Bx512.webp",
-      "type": "blob",
-      "size": 9848
-    },
-    {
-      "path": "CardBacks_Thumbnails/kriegsmarine_germany_final_Cx512.webp",
-      "type": "blob",
-      "size": 13490
-    },
-    {
-      "path": "CardBacks_Thumbnails/kriegsmarine_pass_a_po2.webp",
-      "type": "blob",
-      "size": 9260
-    },
-    {
-      "path": "CardBacks_Thumbnails/kriegsmarine_pass_b_po2.webp",
-      "type": "blob",
-      "size": 9118
-    },
-    {
-      "path": "CardBacks_Thumbnails/kriegsmarine_pass_c_po2.webp",
-      "type": "blob",
-      "size": 11038
-    },
-    {
       "path": "CardBacks_Thumbnails/Legions_a_po2.webp",
       "type": "blob",
       "size": 9588
@@ -3881,21 +3521,6 @@
       "size": 9876
     },
     {
-      "path": "CardBacks_Thumbnails/Oberstabsfeldwebel_Ax512.webp",
-      "type": "blob",
-      "size": 14402
-    },
-    {
-      "path": "CardBacks_Thumbnails/Oberstabsfeldwebel_Bx512.webp",
-      "type": "blob",
-      "size": 13134
-    },
-    {
-      "path": "CardBacks_Thumbnails/Oberstabsfeldwebel_Cx512.webp",
-      "type": "blob",
-      "size": 14566
-    },
-    {
       "path": "CardBacks_Thumbnails/OCC_gold_a.webp",
       "type": "blob",
       "size": 10498
@@ -3909,6 +3534,21 @@
       "path": "CardBacks_Thumbnails/OCC_gold_c.webp",
       "type": "blob",
       "size": 10076
+    },
+    {
+      "path": "CardBacks_Thumbnails/Oberstabsfeldwebel_Ax512.webp",
+      "type": "blob",
+      "size": 14402
+    },
+    {
+      "path": "CardBacks_Thumbnails/Oberstabsfeldwebel_Bx512.webp",
+      "type": "blob",
+      "size": 13134
+    },
+    {
+      "path": "CardBacks_Thumbnails/Oberstabsfeldwebel_Cx512.webp",
+      "type": "blob",
+      "size": 14566
     },
     {
       "path": "CardBacks_Thumbnails/PanzerDivisionA.webp",
@@ -3926,21 +3566,6 @@
       "size": 9352
     },
     {
-      "path": "CardBacks_Thumbnails/poland_a.webp",
-      "type": "blob",
-      "size": 9374
-    },
-    {
-      "path": "CardBacks_Thumbnails/poland_b.webp",
-      "type": "blob",
-      "size": 10440
-    },
-    {
-      "path": "CardBacks_Thumbnails/poland_c.webp",
-      "type": "blob",
-      "size": 10406
-    },
-    {
       "path": "CardBacks_Thumbnails/RAF_a.webp",
       "type": "blob",
       "size": 8472
@@ -3954,51 +3579,6 @@
       "path": "CardBacks_Thumbnails/RAF_c.webp",
       "type": "blob",
       "size": 8376
-    },
-    {
-      "path": "CardBacks_Thumbnails/redesign_A.webp",
-      "type": "blob",
-      "size": 9344
-    },
-    {
-      "path": "CardBacks_Thumbnails/redesign_B.webp",
-      "type": "blob",
-      "size": 13070
-    },
-    {
-      "path": "CardBacks_Thumbnails/redesign_C.webp",
-      "type": "blob",
-      "size": 10304
-    },
-    {
-      "path": "CardBacks_Thumbnails/redesign_finalA.webp",
-      "type": "blob",
-      "size": 15216
-    },
-    {
-      "path": "CardBacks_Thumbnails/redesign_final_B.webp",
-      "type": "blob",
-      "size": 15114
-    },
-    {
-      "path": "CardBacks_Thumbnails/redesign_final_C.webp",
-      "type": "blob",
-      "size": 13500
-    },
-    {
-      "path": "CardBacks_Thumbnails/screaming_eagles_a_po2.webp",
-      "type": "blob",
-      "size": 9376
-    },
-    {
-      "path": "CardBacks_Thumbnails/screaming_eagles_c_po2.webp",
-      "type": "blob",
-      "size": 10580
-    },
-    {
-      "path": "CardBacks_Thumbnails/screaming_eagles_po2.webp",
-      "type": "blob",
-      "size": 10512
     },
     {
       "path": "CardBacks_Thumbnails/SovietBasicA.webp",
@@ -4031,51 +3611,6 @@
       "size": 10776
     },
     {
-      "path": "CardBacks_Thumbnails/soviet_final_Ax512.webp",
-      "type": "blob",
-      "size": 12452
-    },
-    {
-      "path": "CardBacks_Thumbnails/soviet_final_Bx512.webp",
-      "type": "blob",
-      "size": 12598
-    },
-    {
-      "path": "CardBacks_Thumbnails/soviet_final_Cx512.webp",
-      "type": "blob",
-      "size": 12358
-    },
-    {
-      "path": "CardBacks_Thumbnails/soviet_general_a_512.webp",
-      "type": "blob",
-      "size": 14772
-    },
-    {
-      "path": "CardBacks_Thumbnails/soviet_general_b_512.webp",
-      "type": "blob",
-      "size": 14612
-    },
-    {
-      "path": "CardBacks_Thumbnails/soviet_general_c_512.webp",
-      "type": "blob",
-      "size": 13712
-    },
-    {
-      "path": "CardBacks_Thumbnails/soviet_premium_winter_camouflagex512.webp",
-      "type": "blob",
-      "size": 25760
-    },
-    {
-      "path": "CardBacks_Thumbnails/soviet_premium_winter_camouflage_2x512.webp",
-      "type": "blob",
-      "size": 25892
-    },
-    {
-      "path": "CardBacks_Thumbnails/soviet_premium_winter_camouflage_3x512.webp",
-      "type": "blob",
-      "size": 22330
-    },
-    {
       "path": "CardBacks_Thumbnails/SteamBackA.webp",
       "type": "blob",
       "size": 14390
@@ -4089,6 +3624,326 @@
       "path": "CardBacks_Thumbnails/SteamBackC.webp",
       "type": "blob",
       "size": 13980
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_18th-infantry-division_britain_a_512.webp",
+      "type": "blob",
+      "size": 9360
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_18th-infantry-division_britain_b_512.webp",
+      "type": "blob",
+      "size": 8496
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_18th-infantry-division_britain_c_512.webp",
+      "type": "blob",
+      "size": 10394
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_306_infantry_division_german_a.webp",
+      "type": "blob",
+      "size": 11192
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_306_infantry_division_german_b.webp",
+      "type": "blob",
+      "size": 10656
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_306_infantry_division_german_c.webp",
+      "type": "blob",
+      "size": 10658
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_95th_infantry_usa_a.webp",
+      "type": "blob",
+      "size": 14594
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_95th_infantry_usa_b.webp",
+      "type": "blob",
+      "size": 14920
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_95th_infantry_usa_c.webp",
+      "type": "blob",
+      "size": 18270
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_Americal-Division_usa_a_512.webp",
+      "type": "blob",
+      "size": 13982
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_Americal-Division_usa_b_512.webp",
+      "type": "blob",
+      "size": 11652
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_Americal-Division_usa_c_512.webp",
+      "type": "blob",
+      "size": 11900
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_MetalicBack.webp",
+      "type": "blob",
+      "size": 13390
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_3rd_tank_corps_a.webp",
+      "type": "blob",
+      "size": 9610
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_3rd_tank_corps_b.webp",
+      "type": "blob",
+      "size": 11684
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_3rd_tank_corps_c.webp",
+      "type": "blob",
+      "size": 10758
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_6th-Wing_A_512.webp",
+      "type": "blob",
+      "size": 9192
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_6th-Wing_B_512.webp",
+      "type": "blob",
+      "size": 9312
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_6th-Wing_C_512.webp",
+      "type": "blob",
+      "size": 9158
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_6th_infantry_division_a.webp",
+      "type": "blob",
+      "size": 12052
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_6th_infantry_division_b.webp",
+      "type": "blob",
+      "size": 11774
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_6th_infantry_division_c.webp",
+      "type": "blob",
+      "size": 12022
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Ger_25th_Infanterie-Division_A.webp",
+      "type": "blob",
+      "size": 11316
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Ger_25th_Infanterie-Division_B.webp",
+      "type": "blob",
+      "size": 11108
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Ger_25th_Infanterie-Division_C.webp",
+      "type": "blob",
+      "size": 11724
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Ghost-Army_A_512.webp",
+      "type": "blob",
+      "size": 5180
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Ghost-Army_B_512.webp",
+      "type": "blob",
+      "size": 6102
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Ghost-Army_C_512.webp",
+      "type": "blob",
+      "size": 5460
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_JAP_25th-DC-Sqdn_A.webp",
+      "type": "blob",
+      "size": 16454
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_JAP_25th-DC-Sqdn_B.webp",
+      "type": "blob",
+      "size": 14654
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_JAP_25th-DC-Sqdn_C.webp",
+      "type": "blob",
+      "size": 16838
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_JG20_A_512.webp",
+      "type": "blob",
+      "size": 7724
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_JG20_B_512.webp",
+      "type": "blob",
+      "size": 6960
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_JG20_C_512.webp",
+      "type": "blob",
+      "size": 7194
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_1_A_512.webp",
+      "type": "blob",
+      "size": 10024
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_1_B_512.webp",
+      "type": "blob",
+      "size": 9422
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_1_C_512.webp",
+      "type": "blob",
+      "size": 9656
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_2_A_512.webp",
+      "type": "blob",
+      "size": 9358
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_2_B_512.webp",
+      "type": "blob",
+      "size": 9392
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_2_C_512.webp",
+      "type": "blob",
+      "size": 9532
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Soviet_Communication_A.webp",
+      "type": "blob",
+      "size": 10898
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Soviet_Communication_B.webp",
+      "type": "blob",
+      "size": 9810
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_Soviet_Communication_C.webp",
+      "type": "blob",
+      "size": 9410
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_USA_44th-div_A.webp",
+      "type": "blob",
+      "size": 8308
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_USA_44th-div_B.webp",
+      "type": "blob",
+      "size": 8732
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_USA_44th-div_C.webp",
+      "type": "blob",
+      "size": 9352
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback__air_service_b.webp",
+      "type": "blob",
+      "size": 9938
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_air_service_a.webp",
+      "type": "blob",
+      "size": 10798
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_air_service_c.webp",
+      "type": "blob",
+      "size": 9126
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_mid-autumn-festival_a.webp",
+      "type": "blob",
+      "size": 15240
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_mid-autumn-festival_b.webp",
+      "type": "blob",
+      "size": 13378
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_mid-autumn-festival_c.webp",
+      "type": "blob",
+      "size": 14626
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_mobilebeta_a.webp",
+      "type": "blob",
+      "size": 7902
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_mobilebeta_b.webp",
+      "type": "blob",
+      "size": 7640
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_cardback_mobilebeta_c.webp",
+      "type": "blob",
+      "size": 7888
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_commander_major_soviet_a.webp",
+      "type": "blob",
+      "size": 11080
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_commander_major_soviet_b.webp",
+      "type": "blob",
+      "size": 12520
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_commander_major_soviet_c.webp",
+      "type": "blob",
+      "size": 14306
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_guards_armored_british_a.webp",
+      "type": "blob",
+      "size": 9502
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_guards_armored_british_b.webp",
+      "type": "blob",
+      "size": 9636
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_guards_armored_british_c.webp",
+      "type": "blob",
+      "size": 10358
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_japanese_navy_a_512.webp",
+      "type": "blob",
+      "size": 15162
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_japanese_navy_b_512.webp",
+      "type": "blob",
+      "size": 12804
+    },
+    {
+      "path": "CardBacks_Thumbnails/T_japanese_navy_c_512.webp",
+      "type": "blob",
+      "size": 13140
     },
     {
       "path": "CardBacks_Thumbnails/ToW_set_card_back_-_British_a.webp",
@@ -4181,474 +4036,39 @@
       "size": 8440
     },
     {
-      "path": "CardBacks_Thumbnails/T_18th-infantry-division_britain_a_512.webp",
+      "path": "CardBacks_Thumbnails/USA_skirmish.webp",
       "type": "blob",
-      "size": 9360
+      "size": 14566
     },
     {
-      "path": "CardBacks_Thumbnails/T_18th-infantry-division_britain_b_512.webp",
+      "path": "CardBacks_Thumbnails/USA_skirmish2.webp",
       "type": "blob",
-      "size": 8496
+      "size": 14524
     },
     {
-      "path": "CardBacks_Thumbnails/T_18th-infantry-division_britain_c_512.webp",
+      "path": "CardBacks_Thumbnails/USA_skirmish3.webp",
       "type": "blob",
-      "size": 10394
+      "size": 14582
     },
     {
-      "path": "CardBacks_Thumbnails/T_306_infantry_division_german_a.webp",
+      "path": "CardBacks_Thumbnails/USSR_skirmish.webp",
       "type": "blob",
-      "size": 11192
+      "size": 15380
     },
     {
-      "path": "CardBacks_Thumbnails/T_306_infantry_division_german_b.webp",
-      "type": "blob",
-      "size": 10656
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_306_infantry_division_german_c.webp",
-      "type": "blob",
-      "size": 10658
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_95th_infantry_usa_a.webp",
-      "type": "blob",
-      "size": 14594
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_95th_infantry_usa_b.webp",
-      "type": "blob",
-      "size": 14920
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_95th_infantry_usa_c.webp",
-      "type": "blob",
-      "size": 18270
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_air-supremacy_cardback_A.webp",
-      "type": "blob",
-      "size": 7758
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_air-supremacy_cardback_B.webp",
-      "type": "blob",
-      "size": 6516
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_air-supremacy_cardback_C.webp",
-      "type": "blob",
-      "size": 6976
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_Americal-Division_usa_a_512.webp",
-      "type": "blob",
-      "size": 13982
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_Americal-Division_usa_b_512.webp",
-      "type": "blob",
-      "size": 11652
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_Americal-Division_usa_c_512.webp",
-      "type": "blob",
-      "size": 11900
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_3rd_tank_corps_a.webp",
-      "type": "blob",
-      "size": 9610
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_3rd_tank_corps_b.webp",
-      "type": "blob",
-      "size": 11684
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_3rd_tank_corps_c.webp",
-      "type": "blob",
-      "size": 10758
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_6th-Wing_A_512.webp",
-      "type": "blob",
-      "size": 9192
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_6th-Wing_B_512.webp",
-      "type": "blob",
-      "size": 9312
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_6th-Wing_C_512.webp",
-      "type": "blob",
-      "size": 9158
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_6th_infantry_division_a.webp",
-      "type": "blob",
-      "size": 12052
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_6th_infantry_division_b.webp",
-      "type": "blob",
-      "size": 11774
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_6th_infantry_division_c.webp",
-      "type": "blob",
-      "size": 12022
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_air_service_a.webp",
-      "type": "blob",
-      "size": 10798
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_air_service_c.webp",
-      "type": "blob",
-      "size": 9126
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_early-war_1_A_512x512.webp",
-      "type": "blob",
-      "size": 11840
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_early-war_1_B_512x512.webp",
-      "type": "blob",
-      "size": 8340
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_early-war_1_C_512x512.webp",
-      "type": "blob",
-      "size": 11750
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_early-war_2_A_512x512.webp",
-      "type": "blob",
-      "size": 14048
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_early-war_2_B_512x512.webp",
-      "type": "blob",
-      "size": 11028
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_early-war_2_C_512x512.webp",
-      "type": "blob",
-      "size": 13114
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Ger_25th_Infanterie-Division_A.webp",
-      "type": "blob",
-      "size": 11316
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Ger_25th_Infanterie-Division_B.webp",
-      "type": "blob",
-      "size": 11108
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Ger_25th_Infanterie-Division_C.webp",
-      "type": "blob",
-      "size": 11724
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Ghost-Army_A_512.webp",
-      "type": "blob",
-      "size": 5180
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Ghost-Army_B_512.webp",
-      "type": "blob",
-      "size": 6102
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Ghost-Army_C_512.webp",
-      "type": "blob",
-      "size": 5460
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_JAP_25th-DC-Sqdn_A.webp",
-      "type": "blob",
-      "size": 16454
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_JAP_25th-DC-Sqdn_B.webp",
-      "type": "blob",
-      "size": 14654
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_JAP_25th-DC-Sqdn_C.webp",
-      "type": "blob",
-      "size": 16838
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_JG20_A_512.webp",
-      "type": "blob",
-      "size": 7724
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_JG20_B_512.webp",
-      "type": "blob",
-      "size": 6960
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_JG20_C_512.webp",
-      "type": "blob",
-      "size": 7194
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_mid-autumn-festival_a.webp",
-      "type": "blob",
-      "size": 15240
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_mid-autumn-festival_b.webp",
-      "type": "blob",
-      "size": 13378
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_mid-autumn-festival_c.webp",
-      "type": "blob",
-      "size": 14626
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_mobilebeta_a.webp",
-      "type": "blob",
-      "size": 7902
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_mobilebeta_b.webp",
-      "type": "blob",
-      "size": 7640
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_mobilebeta_c.webp",
-      "type": "blob",
-      "size": 7888
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_naval-jack_sov_a_512.webp",
-      "type": "blob",
-      "size": 15292
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_naval-jack_sov_b_512.webp",
-      "type": "blob",
-      "size": 9930
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_naval-jack_sov_c_512.webp",
-      "type": "blob",
-      "size": 13022
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_1_A_512.webp",
-      "type": "blob",
-      "size": 10024
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_1_B_512.webp",
-      "type": "blob",
-      "size": 9422
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_1_C_512.webp",
-      "type": "blob",
-      "size": 9656
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_2_A_512.webp",
-      "type": "blob",
-      "size": 9358
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_2_B_512.webp",
-      "type": "blob",
-      "size": 9392
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Naval-Warfare_2_C_512.webp",
-      "type": "blob",
-      "size": 9532
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Soviet_Communication_A.webp",
-      "type": "blob",
-      "size": 10898
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Soviet_Communication_B.webp",
-      "type": "blob",
-      "size": 9810
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_Soviet_Communication_C.webp",
-      "type": "blob",
-      "size": 9410
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_USA_44th-div_A.webp",
-      "type": "blob",
-      "size": 8308
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_USA_44th-div_B.webp",
-      "type": "blob",
-      "size": 8732
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback_USA_44th-div_C.webp",
-      "type": "blob",
-      "size": 9352
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_z-flag_jap_a_512.webp",
-      "type": "blob",
-      "size": 8368
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_z-flag_jap_b_512.webp",
-      "type": "blob",
-      "size": 6836
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_cardback_z-flag_jap_c_512.webp",
-      "type": "blob",
-      "size": 6424
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_cardback__air_service_b.webp",
-      "type": "blob",
-      "size": 9938
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_commander_major_soviet_a.webp",
-      "type": "blob",
-      "size": 11080
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_commander_major_soviet_b.webp",
-      "type": "blob",
-      "size": 12520
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_commander_major_soviet_c.webp",
+      "path": "CardBacks_Thumbnails/USSR_skirmish2.webp",
       "type": "blob",
       "size": 14306
     },
     {
-      "path": "CardBacks_Thumbnails/T_guards_armored_british_a.webp",
+      "path": "CardBacks_Thumbnails/USSR_skirmish3.webp",
       "type": "blob",
-      "size": 9502
+      "size": 14398
     },
     {
-      "path": "CardBacks_Thumbnails/T_guards_armored_british_b.webp",
+      "path": "CardBacks_Thumbnails/UniqueMaterials/AlphaAnniversary/T_AlphaCardback_Roughness.webp",
       "type": "blob",
-      "size": 9636
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_guards_armored_british_c.webp",
-      "type": "blob",
-      "size": 10358
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_1st-cavalry-divison_A.webp",
-      "type": "blob",
-      "size": 10706
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_1st-cavalry-divison_B.webp",
-      "type": "blob",
-      "size": 8874
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_1st-cavalry-divison_C.webp",
-      "type": "blob",
-      "size": 9198
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_alt_cardback_A.webp",
-      "type": "blob",
-      "size": 15360
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_alt_cardback_B.webp",
-      "type": "blob",
-      "size": 11590
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_alt_cardback_C.webp",
-      "type": "blob",
-      "size": 15108
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_cardback_A.webp",
-      "type": "blob",
-      "size": 12984
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_cardback_B.webp",
-      "type": "blob",
-      "size": 12780
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_cardback_C.webp",
-      "type": "blob",
-      "size": 13244
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_first-team_A.webp",
-      "type": "blob",
-      "size": 10068
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_first-team_B.webp",
-      "type": "blob",
-      "size": 9016
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_homefront_first-team_C.webp",
-      "type": "blob",
-      "size": 9314
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_japanese_navy_a_512.webp",
-      "type": "blob",
-      "size": 15162
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_japanese_navy_b_512.webp",
-      "type": "blob",
-      "size": 12804
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_japanese_navy_c_512.webp",
-      "type": "blob",
-      "size": 13140
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_KCP_cardback_A_512x512.webp",
-      "type": "blob",
-      "size": 13104
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_KCP_cardback_B_512x512.webp",
-      "type": "blob",
-      "size": 12958
-    },
-    {
-      "path": "CardBacks_Thumbnails/t_KCP_cardback_C_512x512.webp",
-      "type": "blob",
-      "size": 13990
-    },
-    {
-      "path": "CardBacks_Thumbnails/T_MetalicBack.webp",
-      "type": "blob",
-      "size": 13390
+      "size": 1366
     },
     {
       "path": "CardBacks_Thumbnails/UniqueMaterials/AlphaAnniversary/T_AlphaCardback_color.webp",
@@ -4671,9 +4091,14 @@
       "size": 1744
     },
     {
-      "path": "CardBacks_Thumbnails/UniqueMaterials/AlphaAnniversary/T_AlphaCardback_Roughness.webp",
+      "path": "CardBacks_Thumbnails/UniqueMaterials/Bronze/T_Rank4_Normal.webp",
       "type": "blob",
-      "size": 1366
+      "size": 5096
+    },
+    {
+      "path": "CardBacks_Thumbnails/UniqueMaterials/Bronze/T_Rank4_Roughness.webp",
+      "type": "blob",
+      "size": 6428
     },
     {
       "path": "CardBacks_Thumbnails/UniqueMaterials/Bronze/T_Rank4_basecolor.webp",
@@ -4684,16 +4109,6 @@
       "path": "CardBacks_Thumbnails/UniqueMaterials/Bronze/T_Rank4_metallic.webp",
       "type": "blob",
       "size": 10970
-    },
-    {
-      "path": "CardBacks_Thumbnails/UniqueMaterials/Bronze/T_Rank4_Normal.webp",
-      "type": "blob",
-      "size": 5096
-    },
-    {
-      "path": "CardBacks_Thumbnails/UniqueMaterials/Bronze/T_Rank4_Roughness.webp",
-      "type": "blob",
-      "size": 6428
     },
     {
       "path": "CardBacks_Thumbnails/UniqueMaterials/Elite/T_rank1_bc.webp",
@@ -4736,6 +4151,11 @@
       "size": 3388
     },
     {
+      "path": "CardBacks_Thumbnails/UniqueMaterials/Iron/T_Rank5_Normal.webp",
+      "type": "blob",
+      "size": 5042
+    },
+    {
       "path": "CardBacks_Thumbnails/UniqueMaterials/Iron/T_Rank5_basecolor.webp",
       "type": "blob",
       "size": 15036
@@ -4744,11 +4164,6 @@
       "path": "CardBacks_Thumbnails/UniqueMaterials/Iron/T_Rank5_metallic.webp",
       "type": "blob",
       "size": 13160
-    },
-    {
-      "path": "CardBacks_Thumbnails/UniqueMaterials/Iron/T_Rank5_Normal.webp",
-      "type": "blob",
-      "size": 5042
     },
     {
       "path": "CardBacks_Thumbnails/UniqueMaterials/Iron/T_Rank5_roughness.webp",
@@ -4796,21 +4211,6 @@
       "size": 8580
     },
     {
-      "path": "CardBacks_Thumbnails/usaaf_a.webp",
-      "type": "blob",
-      "size": 13128
-    },
-    {
-      "path": "CardBacks_Thumbnails/usaaf_b.webp",
-      "type": "blob",
-      "size": 12730
-    },
-    {
-      "path": "CardBacks_Thumbnails/usaaf_c.webp",
-      "type": "blob",
-      "size": 12610
-    },
-    {
       "path": "CardBacks_Thumbnails/UsaBasicA.webp",
       "type": "blob",
       "size": 12500
@@ -4839,46 +4239,6 @@
       "path": "CardBacks_Thumbnails/UsaBasicExtraC.webp",
       "type": "blob",
       "size": 10440
-    },
-    {
-      "path": "CardBacks_Thumbnails/USA_skirmish.webp",
-      "type": "blob",
-      "size": 14566
-    },
-    {
-      "path": "CardBacks_Thumbnails/USA_skirmish2.webp",
-      "type": "blob",
-      "size": 14524
-    },
-    {
-      "path": "CardBacks_Thumbnails/USA_skirmish3.webp",
-      "type": "blob",
-      "size": 14582
-    },
-    {
-      "path": "CardBacks_Thumbnails/USSR_skirmish.webp",
-      "type": "blob",
-      "size": 15380
-    },
-    {
-      "path": "CardBacks_Thumbnails/USSR_skirmish2.webp",
-      "type": "blob",
-      "size": 14306
-    },
-    {
-      "path": "CardBacks_Thumbnails/USSR_skirmish3.webp",
-      "type": "blob",
-      "size": 14398
-    },
-    {
-      "path": "CardBacks_Thumbnails/wc22_premium_cardback_B1024.webp",
-      "type": "blob",
-      "size": 12772
-    },
-    {
-      "path": "CardBacks_Thumbnails/wc22_premium_cardback_C1024.webp",
-      "type": "blob",
-      "size": 12506
     },
     {
       "path": "CardBacks_Thumbnails/Wildcards/Wildcard_back_lighter_po2.webp",
@@ -5021,21 +4381,6 @@
       "size": 12044
     },
     {
-      "path": "CardBacks_Thumbnails/xxx_corps_cardback_a.webp",
-      "type": "blob",
-      "size": 11040
-    },
-    {
-      "path": "CardBacks_Thumbnails/xxx_corps_cardback_b.webp",
-      "type": "blob",
-      "size": 9828
-    },
-    {
-      "path": "CardBacks_Thumbnails/xxx_corps_cardback_c.webp",
-      "type": "blob",
-      "size": 11418
-    },
-    {
       "path": "CardBacks_Thumbnails/Yokoshiba_Flying_School_Ax512.webp",
       "type": "blob",
       "size": 13784
@@ -5051,169 +4396,819 @@
       "size": 12296
     },
     {
-      "path": "generate.js",
+      "path": "CardBacks_Thumbnails/artillery_soviet_final_A_green_x512__1_.webp",
       "type": "blob",
-      "size": 828
+      "size": 9268
     },
     {
-      "path": "generate.ps1",
+      "path": "CardBacks_Thumbnails/artillery_soviet_final_B_green_x512__1_.webp",
       "type": "blob",
-      "size": 549
+      "size": 9842
     },
     {
-      "path": "HQ2_unknown-id_Resized/Alam_Halfa.png",
+      "path": "CardBacks_Thumbnails/artillery_soviet_final_C_green_x512__1_.webp",
       "type": "blob",
       "size": 476787
     },
     {
-      "path": "HQ2_unknown-id_Resized/Alexandria.png",
+      "path": "CardBacks_Thumbnails/blue_and_gray_a_512.webp",
       "type": "blob",
       "size": 582668
     },
     {
-      "path": "HQ2_unknown-id_Resized/Ardennes.png",
+      "path": "CardBacks_Thumbnails/blue_and_gray_b_512.webp",
       "type": "blob",
       "size": 608421
     },
     {
-      "path": "HQ2_unknown-id_Resized/Arnhem.png",
+      "path": "CardBacks_Thumbnails/blue_and_gray_c_512.webp",
       "type": "blob",
       "size": 654899
     },
     {
-      "path": "HQ2_unknown-id_Resized/Arracourt.png",
+      "path": "CardBacks_Thumbnails/britain_final_Ax512.webp",
       "type": "blob",
       "size": 633717
     },
     {
-      "path": "HQ2_unknown-id_Resized/Baguio.png",
+      "path": "CardBacks_Thumbnails/britain_final_Bx512.webp",
       "type": "blob",
       "size": 534902
     },
     {
-      "path": "HQ2_unknown-id_Resized/Bastogne.png",
+      "path": "CardBacks_Thumbnails/britain_final_Cx512.webp",
       "type": "blob",
       "size": 609169
     },
     {
-      "path": "HQ2_unknown-id_Resized/Bryansk.png",
+      "path": "CardBacks_Thumbnails/cardback_42nd_divisionA.webp",
       "type": "blob",
       "size": 730795
     },
     {
-      "path": "HQ2_unknown-id_Resized/Bunker_Blank.png",
+      "path": "CardBacks_Thumbnails/cardback_42nd_divisionB.webp",
       "type": "blob",
       "size": 538401
     },
     {
-      "path": "HQ2_unknown-id_Resized/Bunker_Britain.png",
+      "path": "CardBacks_Thumbnails/cardback_42nd_divisionC.webp",
       "type": "blob",
       "size": 541205
     },
     {
-      "path": "HQ2_unknown-id_Resized/Bunker_Germany.png",
+      "path": "CardBacks_Thumbnails/cardback_britain_airA.webp",
       "type": "blob",
       "size": 546854
     },
     {
-      "path": "HQ2_unknown-id_Resized/Bunker_Japan.png",
+      "path": "CardBacks_Thumbnails/cardback_britain_airB.webp",
       "type": "blob",
       "size": 540620
     },
     {
-      "path": "HQ2_unknown-id_Resized/Bunker_Soviet.png",
+      "path": "CardBacks_Thumbnails/cardback_britain_airC.webp",
       "type": "blob",
       "size": 543243
     },
     {
-      "path": "HQ2_unknown-id_Resized/Bunker_USA.png",
+      "path": "CardBacks_Thumbnails/cardback_german_airA.webp",
       "type": "blob",
       "size": 554840
     },
     {
-      "path": "HQ2_unknown-id_Resized/Cherbourg.png",
+      "path": "CardBacks_Thumbnails/cardback_german_airB.webp",
       "type": "blob",
       "size": 652659
     },
     {
-      "path": "HQ2_unknown-id_Resized/Danzig.png",
+      "path": "CardBacks_Thumbnails/cardback_german_airC.webp",
       "type": "blob",
       "size": 697051
     },
     {
-      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Blank.png",
+      "path": "CardBacks_Thumbnails/cardback_jap_airA.webp",
       "type": "blob",
       "size": 554504
     },
     {
-      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Britain.png",
+      "path": "CardBacks_Thumbnails/cardback_jap_airB.webp",
       "type": "blob",
       "size": 558303
     },
     {
-      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Germany.png",
+      "path": "CardBacks_Thumbnails/cardback_jap_airC.webp",
       "type": "blob",
       "size": 560937
     },
     {
-      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Japan.png",
+      "path": "CardBacks_Thumbnails/cardback_soviet_airA.webp",
       "type": "blob",
       "size": 555692
     },
     {
-      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Soviet.png",
+      "path": "CardBacks_Thumbnails/cardback_soviet_airB.webp",
       "type": "blob",
       "size": 560548
     },
     {
-      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_USA.png",
+      "path": "CardBacks_Thumbnails/cardback_soviet_airC.webp",
       "type": "blob",
       "size": 571682
     },
     {
-      "path": "HQ2_unknown-id_Resized/El_Alamein.png",
+      "path": "CardBacks_Thumbnails/cardback_us_airA.webp",
       "type": "blob",
       "size": 626197
     },
     {
-      "path": "HQ2_unknown-id_Resized/Fleet_Blank.png",
+      "path": "CardBacks_Thumbnails/cardback_us_airB.webp",
       "type": "blob",
       "size": 505329
     },
     {
-      "path": "HQ2_unknown-id_Resized/Fleet_Britain.png",
+      "path": "CardBacks_Thumbnails/cardback_us_airC.webp",
       "type": "blob",
       "size": 506833
     },
     {
-      "path": "HQ2_unknown-id_Resized/Fleet_Germany.png",
+      "path": "CardBacks_Thumbnails/championship_2021_a_po2.webp",
       "type": "blob",
       "size": 508530
     },
     {
-      "path": "HQ2_unknown-id_Resized/Fleet_Japan.png",
+      "path": "CardBacks_Thumbnails/championship_2021_b_po2.webp",
       "type": "blob",
       "size": 503764
     },
     {
-      "path": "HQ2_unknown-id_Resized/Fleet_Soviet.png",
+      "path": "CardBacks_Thumbnails/championship_2021_c_po2.webp",
       "type": "blob",
       "size": 509821
     },
     {
-      "path": "HQ2_unknown-id_Resized/Fleet_USA.png",
+      "path": "CardBacks_Thumbnails/chinese_new_year_2025_a_po2.webp",
       "type": "blob",
       "size": 527126
     },
     {
-      "path": "HQ2_unknown-id_Resized/Guadalcanal.png",
+      "path": "CardBacks_Thumbnails/chinese_new_year_2025_b_po2.webp",
       "type": "blob",
       "size": 625480
     },
     {
-      "path": "HQ2_unknown-id_Resized/hq_names.json",
+      "path": "CardBacks_Thumbnails/chinese_new_year_2025_c_po2.webp",
       "type": "blob",
-      "size": 2120
+      "size": 13102
+    },
+    {
+      "path": "CardBacks_Thumbnails/ddayA.webp",
+      "type": "blob",
+      "size": 9004
+    },
+    {
+      "path": "CardBacks_Thumbnails/ddayB.webp",
+      "type": "blob",
+      "size": 8906
+    },
+    {
+      "path": "CardBacks_Thumbnails/ddayC.webp",
+      "type": "blob",
+      "size": 8538
+    },
+    {
+      "path": "CardBacks_Thumbnails/desert_rats_desert_camo_a.webp",
+      "type": "blob",
+      "size": 8444
+    },
+    {
+      "path": "CardBacks_Thumbnails/desert_rats_desert_camo_b.webp",
+      "type": "blob",
+      "size": 7930
+    },
+    {
+      "path": "CardBacks_Thumbnails/desert_rats_desert_camo_c.webp",
+      "type": "blob",
+      "size": 6284
+    },
+    {
+      "path": "CardBacks_Thumbnails/finland_a.webp",
+      "type": "blob",
+      "size": 465006
+    },
+    {
+      "path": "CardBacks_Thumbnails/finland_b.webp",
+      "type": "blob",
+      "size": 693471
+    },
+    {
+      "path": "CardBacks_Thumbnails/finland_c.webp",
+      "type": "blob",
+      "size": 635805
+    },
+    {
+      "path": "CardBacks_Thumbnails/france_a.webp",
+      "type": "blob",
+      "size": 626828
+    },
+    {
+      "path": "CardBacks_Thumbnails/france_b.webp",
+      "type": "blob",
+      "size": 360780
+    },
+    {
+      "path": "CardBacks_Thumbnails/france_c.webp",
+      "type": "blob",
+      "size": 652708
+    },
+    {
+      "path": "CardBacks_Thumbnails/general_stars_a_po2.webp",
+      "type": "blob",
+      "size": 603709
+    },
+    {
+      "path": "CardBacks_Thumbnails/general_stars_b_po2.webp",
+      "type": "blob",
+      "size": 584677
+    },
+    {
+      "path": "CardBacks_Thumbnails/general_stars_c_po2.webp",
+      "type": "blob",
+      "size": 588791
+    },
+    {
+      "path": "CardBacks_Thumbnails/germany_final_Ax512.webp",
+      "type": "blob",
+      "size": 582844
+    },
+    {
+      "path": "CardBacks_Thumbnails/germany_final_Bx512.webp",
+      "type": "blob",
+      "size": 589089
+    },
+    {
+      "path": "CardBacks_Thumbnails/germany_final_Cx512.webp",
+      "type": "blob",
+      "size": 599610
+    },
+    {
+      "path": "CardBacks_Thumbnails/holiday_cardback_22_A512.webp",
+      "type": "blob",
+      "size": 496725
+    },
+    {
+      "path": "CardBacks_Thumbnails/holiday_cardback_22_B512.webp",
+      "type": "blob",
+      "size": 713540
+    },
+    {
+      "path": "CardBacks_Thumbnails/holiday_cardback_22_C512.webp",
+      "type": "blob",
+      "size": 485776
+    },
+    {
+      "path": "CardBacks_Thumbnails/italy_a.webp",
+      "type": "blob",
+      "size": 642469
+    },
+    {
+      "path": "CardBacks_Thumbnails/italy_b.webp",
+      "type": "blob",
+      "size": 17626
+    },
+    {
+      "path": "CardBacks_Thumbnails/italy_c.webp",
+      "type": "blob",
+      "size": 20388
+    },
+    {
+      "path": "CardBacks_Thumbnails/japan_final_Ax512.webp",
+      "type": "blob",
+      "size": 19892
+    },
+    {
+      "path": "CardBacks_Thumbnails/japan_final_Bx512.webp",
+      "type": "blob",
+      "size": 22280
+    },
+    {
+      "path": "CardBacks_Thumbnails/japan_final_Cx512.webp",
+      "type": "blob",
+      "size": 20342
+    },
+    {
+      "path": "CardBacks_Thumbnails/japan_tank_company_a.webp",
+      "type": "blob",
+      "size": 16360
+    },
+    {
+      "path": "CardBacks_Thumbnails/japan_tank_company_b.webp",
+      "type": "blob",
+      "size": 18576
+    },
+    {
+      "path": "CardBacks_Thumbnails/japan_tank_company_c.webp",
+      "type": "blob",
+      "size": 23714
+    },
+    {
+      "path": "CardBacks_Thumbnails/jg_27_a.webp",
+      "type": "blob",
+      "size": 12764
+    },
+    {
+      "path": "CardBacks_Thumbnails/jg_27_b.webp",
+      "type": "blob",
+      "size": 13438
+    },
+    {
+      "path": "CardBacks_Thumbnails/jg_27_c.webp",
+      "type": "blob",
+      "size": 14330
+    },
+    {
+      "path": "CardBacks_Thumbnails/kriegsmarine_germany_final_Ax512.webp",
+      "type": "blob",
+      "size": 12996
+    },
+    {
+      "path": "CardBacks_Thumbnails/kriegsmarine_germany_final_Bx512.webp",
+      "type": "blob",
+      "size": 14154
+    },
+    {
+      "path": "CardBacks_Thumbnails/kriegsmarine_germany_final_Cx512.webp",
+      "type": "blob",
+      "size": 14594
+    },
+    {
+      "path": "CardBacks_Thumbnails/kriegsmarine_pass_a_po2.webp",
+      "type": "blob",
+      "size": 22948
+    },
+    {
+      "path": "CardBacks_Thumbnails/kriegsmarine_pass_b_po2.webp",
+      "type": "blob",
+      "size": 25520
+    },
+    {
+      "path": "CardBacks_Thumbnails/kriegsmarine_pass_c_po2.webp",
+      "type": "blob",
+      "size": 15018
+    },
+    {
+      "path": "CardBacks_Thumbnails/poland_a.webp",
+      "type": "blob",
+      "size": 15352
+    },
+    {
+      "path": "CardBacks_Thumbnails/poland_b.webp",
+      "type": "blob",
+      "size": 15218
+    },
+    {
+      "path": "CardBacks_Thumbnails/poland_c.webp",
+      "type": "blob",
+      "size": 15138
+    },
+    {
+      "path": "CardBacks_Thumbnails/redesign_A.webp",
+      "type": "blob",
+      "size": 15286
+    },
+    {
+      "path": "CardBacks_Thumbnails/redesign_B.webp",
+      "type": "blob",
+      "size": 15958
+    },
+    {
+      "path": "CardBacks_Thumbnails/redesign_C.webp",
+      "type": "blob",
+      "size": 19614
+    },
+    {
+      "path": "CardBacks_Thumbnails/redesign_finalA.webp",
+      "type": "blob",
+      "size": 13924
+    },
+    {
+      "path": "CardBacks_Thumbnails/redesign_final_B.webp",
+      "type": "blob",
+      "size": 14134
+    },
+    {
+      "path": "CardBacks_Thumbnails/redesign_final_C.webp",
+      "type": "blob",
+      "size": 14160
+    },
+    {
+      "path": "CardBacks_Thumbnails/screaming_eagles_a_po2.webp",
+      "type": "blob",
+      "size": 13432
+    },
+    {
+      "path": "CardBacks_Thumbnails/screaming_eagles_c_po2.webp",
+      "type": "blob",
+      "size": 14466
+    },
+    {
+      "path": "CardBacks_Thumbnails/screaming_eagles_po2.webp",
+      "type": "blob",
+      "size": 15700
+    },
+    {
+      "path": "CardBacks_Thumbnails/soviet_final_Ax512.webp",
+      "type": "blob",
+      "size": 20178
+    },
+    {
+      "path": "CardBacks_Thumbnails/soviet_final_Bx512.webp",
+      "type": "blob",
+      "size": 12598
+    },
+    {
+      "path": "CardBacks_Thumbnails/soviet_final_Cx512.webp",
+      "type": "blob",
+      "size": 12358
+    },
+    {
+      "path": "CardBacks_Thumbnails/soviet_general_a_512.webp",
+      "type": "blob",
+      "size": 14772
+    },
+    {
+      "path": "CardBacks_Thumbnails/soviet_general_b_512.webp",
+      "type": "blob",
+      "size": 14612
+    },
+    {
+      "path": "HQ2_unknown-id_Thumbnails/Iwo_Jima_Soviet.webp",
+      "type": "blob",
+      "size": 19494
+    },
+    {
+      "path": "HQ2_unknown-id_Thumbnails/Iwo_Jima_USA.webp",
+      "type": "blob",
+      "size": 19418
+    },
+    {
+      "path": "HQ2_unknown-id_Thumbnails/Kursk.webp",
+      "type": "blob",
+      "size": 13686
+    },
+    {
+      "path": "CardBacks_Thumbnails/soviet_premium_winter_camouflage_2x512.webp",
+      "type": "blob",
+      "size": 21682
+    },
+    {
+      "path": "CardBacks_Thumbnails/soviet_premium_winter_camouflage_3x512.webp",
+      "type": "blob",
+      "size": 20820
+    },
+    {
+      "path": "CardBacks_Thumbnails/soviet_premium_winter_camouflagex512.webp",
+      "type": "blob",
+      "size": 20642
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_KCP_cardback_A_512x512.webp",
+      "type": "blob",
+      "size": 15750
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_KCP_cardback_B_512x512.webp",
+      "type": "blob",
+      "size": 22482
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_KCP_cardback_C_512x512.webp",
+      "type": "blob",
+      "size": 17440
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_air-supremacy_cardback_A.webp",
+      "type": "blob",
+      "size": 16374
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_air-supremacy_cardback_B.webp",
+      "type": "blob",
+      "size": 15890
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_air-supremacy_cardback_C.webp",
+      "type": "blob",
+      "size": 16256
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_early-war_1_A_512x512.webp",
+      "type": "blob",
+      "size": 16116
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_early-war_1_B_512x512.webp",
+      "type": "blob",
+      "size": 16752
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_early-war_1_C_512x512.webp",
+      "type": "blob",
+      "size": 18090
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_early-war_2_A_512x512.webp",
+      "type": "blob",
+      "size": 25640
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_early-war_2_B_512x512.webp",
+      "type": "blob",
+      "size": 14040
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_early-war_2_C_512x512.webp",
+      "type": "blob",
+      "size": 21136
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_naval-jack_sov_a_512.webp",
+      "type": "blob",
+      "size": 15292
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_naval-jack_sov_b_512.webp",
+      "type": "blob",
+      "size": 9930
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_naval-jack_sov_c_512.webp",
+      "type": "blob",
+      "size": 13022
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_z-flag_jap_a_512.webp",
+      "type": "blob",
+      "size": 8368
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_z-flag_jap_b_512.webp",
+      "type": "blob",
+      "size": 6836
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_cardback_z-flag_jap_c_512.webp",
+      "type": "blob",
+      "size": 6424
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_1st-cavalry-divison_A.webp",
+      "type": "blob",
+      "size": 10706
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_1st-cavalry-divison_B.webp",
+      "type": "blob",
+      "size": 8874
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_1st-cavalry-divison_C.webp",
+      "type": "blob",
+      "size": 9198
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_alt_cardback_A.webp",
+      "type": "blob",
+      "size": 15360
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_alt_cardback_B.webp",
+      "type": "blob",
+      "size": 11590
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_alt_cardback_C.webp",
+      "type": "blob",
+      "size": 15108
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_cardback_A.webp",
+      "type": "blob",
+      "size": 12984
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_cardback_B.webp",
+      "type": "blob",
+      "size": 12780
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_cardback_C.webp",
+      "type": "blob",
+      "size": 13244
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_first-team_A.webp",
+      "type": "blob",
+      "size": 10068
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_first-team_B.webp",
+      "type": "blob",
+      "size": 9016
+    },
+    {
+      "path": "CardBacks_Thumbnails/t_homefront_first-team_C.webp",
+      "type": "blob",
+      "size": 9314
+    },
+    {
+      "path": "CardBacks_Thumbnails/usaaf_a.webp",
+      "type": "blob",
+      "size": 13128
+    },
+    {
+      "path": "CardBacks_Thumbnails/usaaf_b.webp",
+      "type": "blob",
+      "size": 12730
+    },
+    {
+      "path": "CardBacks_Thumbnails/usaaf_c.webp",
+      "type": "blob",
+      "size": 12610
+    },
+    {
+      "path": "CardBacks_Thumbnails/wc22_premium_cardback_B1024.webp",
+      "type": "blob",
+      "size": 12772
+    },
+    {
+      "path": "CardBacks_Thumbnails/wc22_premium_cardback_C1024.webp",
+      "type": "blob",
+      "size": 12506
+    },
+    {
+      "path": "CardBacks_Thumbnails/xxx_corps_cardback_a.webp",
+      "type": "blob",
+      "size": 11040
+    },
+    {
+      "path": "CardBacks_Thumbnails/xxx_corps_cardback_b.webp",
+      "type": "blob",
+      "size": 9828
+    },
+    {
+      "path": "CardBacks_Thumbnails/xxx_corps_cardback_c.webp",
+      "type": "blob",
+      "size": 11418
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Alam_Halfa.png",
+      "type": "blob",
+      "size": 464304
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Alexandria.png",
+      "type": "blob",
+      "size": 568597
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Ardennes.png",
+      "type": "blob",
+      "size": 593181
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Arnhem.png",
+      "type": "blob",
+      "size": 640135
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Arracourt.png",
+      "type": "blob",
+      "size": 623103
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Baguio.png",
+      "type": "blob",
+      "size": 522775
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bastogne.png",
+      "type": "blob",
+      "size": 595758
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bryansk.png",
+      "type": "blob",
+      "size": 722883
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_Blank.png",
+      "type": "blob",
+      "size": 529221
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_Britain.png",
+      "type": "blob",
+      "size": 532259
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_Germany.png",
+      "type": "blob",
+      "size": 537647
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_Japan.png",
+      "type": "blob",
+      "size": 530286
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_Soviet.png",
+      "type": "blob",
+      "size": 535570
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Bunker_USA.png",
+      "type": "blob",
+      "size": 545399
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Cherbourg.png",
+      "type": "blob",
+      "size": 643112
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Danzig.png",
+      "type": "blob",
+      "size": 687306
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Blank.png",
+      "type": "blob",
+      "size": 541846
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Britain.png",
+      "type": "blob",
+      "size": 547224
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Germany.png",
+      "type": "blob",
+      "size": 549265
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Japan.png",
+      "type": "blob",
+      "size": 543664
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_Soviet.png",
+      "type": "blob",
+      "size": 549209
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Darwin_Fortress_USA.png",
+      "type": "blob",
+      "size": 559199
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/El_Alamein.png",
+      "type": "blob",
+      "size": 615592
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_Blank.png",
+      "type": "blob",
+      "size": 496877
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_Britain.png",
+      "type": "blob",
+      "size": 496310
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_Germany.png",
+      "type": "blob",
+      "size": 499892
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_Japan.png",
+      "type": "blob",
+      "size": 494161
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_Soviet.png",
+      "type": "blob",
+      "size": 499585
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Fleet_USA.png",
+      "type": "blob",
+      "size": 517795
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/Guadalcanal.png",
+      "type": "blob",
+      "size": 614356
     },
     {
       "path": "HQ2_unknown-id_Resized/Iwo_Jima_Blank.png",
@@ -5248,232 +5243,237 @@
     {
       "path": "HQ2_unknown-id_Resized/Kursk.png",
       "type": "blob",
-      "size": 465006
+      "size": 452877
     },
     {
       "path": "HQ2_unknown-id_Resized/London.png",
       "type": "blob",
-      "size": 693471
+      "size": 685579
     },
     {
       "path": "HQ2_unknown-id_Resized/Manila.png",
       "type": "blob",
-      "size": 635805
+      "size": 625696
     },
     {
       "path": "HQ2_unknown-id_Resized/Moscow.png",
       "type": "blob",
-      "size": 626828
+      "size": 617468
     },
     {
       "path": "HQ2_unknown-id_Resized/Rangoon.png",
       "type": "blob",
-      "size": 360780
+      "size": 344711
     },
     {
       "path": "HQ2_unknown-id_Resized/Stalingrad.png",
       "type": "blob",
-      "size": 652708
+      "size": 640461
     },
     {
       "path": "HQ2_unknown-id_Resized/Supply_Train_Blank.png",
       "type": "blob",
-      "size": 603709
+      "size": 593231
     },
     {
       "path": "HQ2_unknown-id_Resized/Supply_Train_Britain.png",
       "type": "blob",
-      "size": 584677
+      "size": 573496
     },
     {
       "path": "HQ2_unknown-id_Resized/Supply_Train_Germany.png",
       "type": "blob",
-      "size": 588791
+      "size": 579146
     },
     {
       "path": "HQ2_unknown-id_Resized/Supply_Train_Japan.png",
       "type": "blob",
-      "size": 582844
+      "size": 572642
     },
     {
       "path": "HQ2_unknown-id_Resized/Supply_Train_Soviet.png",
       "type": "blob",
-      "size": 589089
+      "size": 578094
     },
     {
       "path": "HQ2_unknown-id_Resized/Supply_Train_USA.png",
       "type": "blob",
-      "size": 599610
+      "size": 589127
     },
     {
       "path": "HQ2_unknown-id_Resized/Truk.png",
       "type": "blob",
-      "size": 496725
+      "size": 484212
     },
     {
       "path": "HQ2_unknown-id_Resized/Tunis.png",
       "type": "blob",
-      "size": 713540
+      "size": 702133
     },
     {
       "path": "HQ2_unknown-id_Resized/Villers_Bocage.png",
       "type": "blob",
-      "size": 485776
+      "size": 471499
     },
     {
       "path": "HQ2_unknown-id_Resized/Washington.png",
       "type": "blob",
-      "size": 642469
+      "size": 632803
+    },
+    {
+      "path": "HQ2_unknown-id_Resized/hq_names.json",
+      "type": "blob",
+      "size": 2066
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Alam_Halfa.webp",
       "type": "blob",
-      "size": 17626
+      "size": 17464
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Alexandria.webp",
       "type": "blob",
-      "size": 20388
+      "size": 20236
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Ardennes.webp",
       "type": "blob",
-      "size": 19892
+      "size": 20084
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Arnhem.webp",
       "type": "blob",
-      "size": 22280
+      "size": 22064
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Arracourt.webp",
       "type": "blob",
-      "size": 20342
+      "size": 20264
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Baguio.webp",
       "type": "blob",
-      "size": 16360
+      "size": 16178
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Bastogne.webp",
       "type": "blob",
-      "size": 18576
+      "size": 18360
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Bryansk.webp",
       "type": "blob",
-      "size": 23714
+      "size": 23518
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Bunker_Blank.webp",
       "type": "blob",
-      "size": 12764
+      "size": 12856
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Bunker_Britain.webp",
       "type": "blob",
-      "size": 13438
+      "size": 13412
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Bunker_Germany.webp",
       "type": "blob",
-      "size": 14330
+      "size": 14060
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Bunker_Japan.webp",
       "type": "blob",
-      "size": 12996
+      "size": 13160
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Bunker_Soviet.webp",
       "type": "blob",
-      "size": 14154
+      "size": 13872
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Bunker_USA.webp",
       "type": "blob",
-      "size": 14594
+      "size": 14892
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Cherbourg.webp",
       "type": "blob",
-      "size": 22948
+      "size": 22462
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Danzig.webp",
       "type": "blob",
-      "size": 25520
+      "size": 25456
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Darwin_Fortress_Blank.webp",
       "type": "blob",
-      "size": 15018
+      "size": 14770
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Darwin_Fortress_Britain.webp",
       "type": "blob",
-      "size": 15352
+      "size": 15050
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Darwin_Fortress_Germany.webp",
       "type": "blob",
-      "size": 15218
+      "size": 15146
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Darwin_Fortress_Japan.webp",
       "type": "blob",
-      "size": 15138
+      "size": 14874
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Darwin_Fortress_Soviet.webp",
       "type": "blob",
-      "size": 15286
+      "size": 15154
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Darwin_Fortress_USA.webp",
       "type": "blob",
-      "size": 15958
+      "size": 15686
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/El_Alamein.webp",
       "type": "blob",
-      "size": 19614
+      "size": 19564
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Fleet_Blank.webp",
       "type": "blob",
-      "size": 13924
+      "size": 13942
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Fleet_Britain.webp",
       "type": "blob",
-      "size": 14134
+      "size": 13886
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Fleet_Germany.webp",
       "type": "blob",
-      "size": 14160
+      "size": 13972
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Fleet_Japan.webp",
       "type": "blob",
-      "size": 13432
+      "size": 13462
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Fleet_Soviet.webp",
       "type": "blob",
-      "size": 14466
+      "size": 14546
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Fleet_USA.webp",
       "type": "blob",
-      "size": 15700
+      "size": 15536
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Guadalcanal.webp",
       "type": "blob",
-      "size": 20178
+      "size": 20336
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Iwo_Jima_Blank.webp",
@@ -5508,747 +5508,82 @@
     {
       "path": "HQ2_unknown-id_Thumbnails/Kursk.webp",
       "type": "blob",
-      "size": 13686
+      "size": 13712
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/London.webp",
       "type": "blob",
-      "size": 21682
+      "size": 21710
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Manila.webp",
       "type": "blob",
-      "size": 20820
+      "size": 20242
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Moscow.webp",
       "type": "blob",
-      "size": 20642
+      "size": 20204
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Rangoon.webp",
       "type": "blob",
-      "size": 15750
+      "size": 15706
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Stalingrad.webp",
       "type": "blob",
-      "size": 22482
+      "size": 22346
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Supply_Train_Blank.webp",
       "type": "blob",
-      "size": 17440
+      "size": 17402
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Supply_Train_Britain.webp",
       "type": "blob",
-      "size": 16374
+      "size": 15920
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Supply_Train_Germany.webp",
       "type": "blob",
-      "size": 15890
+      "size": 16184
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Supply_Train_Japan.webp",
       "type": "blob",
-      "size": 16256
+      "size": 15830
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Supply_Train_Soviet.webp",
       "type": "blob",
-      "size": 16116
+      "size": 15786
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Supply_Train_USA.webp",
       "type": "blob",
-      "size": 16752
+      "size": 16760
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Truk.webp",
       "type": "blob",
-      "size": 18090
+      "size": 17710
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Tunis.webp",
       "type": "blob",
-      "size": 25640
+      "size": 25272
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Villers_Bocage.webp",
       "type": "blob",
-      "size": 14040
+      "size": 13618
     },
     {
       "path": "HQ2_unknown-id_Thumbnails/Washington.webp",
       "type": "blob",
-      "size": 21136
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/avatar-catalog.csv",
-      "type": "blob",
-      "size": 18778
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/avatar-catalog.json",
-      "type": "blob",
-      "size": 35025
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Elite_Tex.png",
-      "type": "blob",
-      "size": 212685
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Special_Pound.png",
-      "type": "blob",
-      "size": 309052
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Special_Salamander.png",
-      "type": "blob",
-      "size": 251641
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Standard_Flight-to-oblivion.png",
-      "type": "blob",
-      "size": 234216
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Standard_Glide-bombing.png",
-      "type": "blob",
-      "size": 228160
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Air-Supremacy/T_Portrait_Standard_Tech.png",
-      "type": "blob",
-      "size": 145762
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Early-War/T_Portrait_Special_55th-rifles.png",
-      "type": "blob",
-      "size": 224482
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Early-War/T_Portrait_Special_Stars-and-Stripes.png",
-      "type": "blob",
-      "size": 220607
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Early-War/T_Portrait_Standard_Way-of-subjects.png",
-      "type": "blob",
-      "size": 141504
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Elite_Uncle-Sam.png",
-      "type": "blob",
-      "size": 273227
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Special_845th-Rifles.png",
-      "type": "blob",
-      "size": 172810
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Special_Penicillin.png",
-      "type": "blob",
-      "size": 253156
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Standard_Bletchley.png",
-      "type": "blob",
-      "size": 200085
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Standard_Field-Hospital.png",
-      "type": "blob",
-      "size": 251453
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Standard_land-girls.png",
-      "type": "blob",
-      "size": 200539
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Standard_red-bull.png",
-      "type": "blob",
-      "size": 241877
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Homefront/T_Portrait_Standard_volunteer.png",
-      "type": "blob",
-      "size": 215522
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_elite_samurai.png",
-      "type": "blob",
-      "size": 303457
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_elite_seabees.png",
-      "type": "blob",
-      "size": 215212
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_Portrait_Special_frontier-force.png",
-      "type": "blob",
-      "size": 191414
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_special_joe_.png",
-      "type": "blob",
-      "size": 237743
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_Portrait_Special_Paratrooper.png",
-      "type": "blob",
-      "size": 235106
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_special_spars.png",
-      "type": "blob",
-      "size": 234758
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_airman.png",
-      "type": "blob",
-      "size": 285212
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_grey-wolf.png",
-      "type": "blob",
-      "size": 168005
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_happy-comrade.png",
-      "type": "blob",
-      "size": 244656
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_hunter.png",
-      "type": "blob",
-      "size": 169434
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_iron-comrade.png",
-      "type": "blob",
-      "size": 224723
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Naval-Warfare/T_portrait_standard_shellmaker.png",
-      "type": "blob",
-      "size": 217671
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Oceania-Storm/T_Portrait_Elite_kiwi.png",
-      "type": "blob",
-      "size": 281026
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Oceania-Storm/T_Portrait_Standard_6th-infantry-brigade.png",
-      "type": "blob",
-      "size": 158156
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Oceania-Storm/T_Portrait_Standard_digger.png",
-      "type": "blob",
-      "size": 193345
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Oceania-Storm/t_Portrait_Standard_NZANS.png",
-      "type": "blob",
-      "size": 239545
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/Oceania-Storm/T_Portrait_Standard_Roger.png",
-      "type": "blob",
-      "size": 249502
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_119-Grenadier.png",
-      "type": "blob",
-      "size": 217411
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_2e-brigade.png",
-      "type": "blob",
-      "size": 263625
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_Folgore.png",
-      "type": "blob",
-      "size": 261308
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_In-The-Navy.png",
-      "type": "blob",
-      "size": 179854
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_Monty.png",
-      "type": "blob",
-      "size": 257233
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_Uprising.png",
-      "type": "blob",
-      "size": 241720
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_White-Death.png",
-      "type": "blob",
-      "size": 254169
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Elite_Worker.png",
-      "type": "blob",
-      "size": 252847
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_48e-Regiment.png",
-      "type": "blob",
-      "size": 221312
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_97th-Rifles.png",
-      "type": "blob",
-      "size": 237692
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Black-Beret.png",
-      "type": "blob",
-      "size": 243929
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Blitzfunker.png",
-      "type": "blob",
-      "size": 189965
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Cadet-Nurse-corps.png",
-      "type": "blob",
-      "size": 209285
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Commander.png",
-      "type": "blob",
-      "size": 212936
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_For-Prosperity.png",
-      "type": "blob",
-      "size": 189892
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Regia-Marina.png",
-      "type": "blob",
-      "size": 212259
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Sailor.png",
-      "type": "blob",
-      "size": 140662
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Suomi.png",
-      "type": "blob",
-      "size": 192438
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_To-Arms.png",
-      "type": "blob",
-      "size": 209185
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Special_Ultra.png",
-      "type": "blob",
-      "size": 160270
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_57th-Rifles.png",
-      "type": "blob",
-      "size": 213109
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_91st-Astrakhan.png",
-      "type": "blob",
-      "size": 220146
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_ATS.png",
-      "type": "blob",
-      "size": 218528
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Baker-Street.png",
-      "type": "blob",
-      "size": 228991
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Blitzkrieg.png",
-      "type": "blob",
-      "size": 219310
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Blitzmädel.png",
-      "type": "blob",
-      "size": 173230
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Deadly-Duty.png",
-      "type": "blob",
-      "size": 214989
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Feldgrau.png",
-      "type": "blob",
-      "size": 165027
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Flyboys.png",
-      "type": "blob",
-      "size": 186219
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Glamour-Boys.png",
-      "type": "blob",
-      "size": 194181
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Imperial-Strength.png",
-      "type": "blob",
-      "size": 170070
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Kurmark.png",
-      "type": "blob",
-      "size": 187392
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_NFS.png",
-      "type": "blob",
-      "size": 227227
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_No-Surrender.png",
-      "type": "blob",
-      "size": 217332
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Rosie-the-Riveter.png",
-      "type": "blob",
-      "size": 181274
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Shadow.png",
-      "type": "blob",
-      "size": 120537
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Sturm-Brigade.png",
-      "type": "blob",
-      "size": 196134
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Unity-is-Strength.png",
-      "type": "blob",
-      "size": 226817
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_War-Machine.png",
-      "type": "blob",
-      "size": 181413
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Warrior-of-the-Sky.png",
-      "type": "blob",
-      "size": 195903
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/avatars/images/T_Portrait_Standard_Wingman.png",
-      "type": "blob",
-      "size": 238631
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/hall-of-fame/hall-of-fame-catalog.json",
-      "type": "blob",
-      "size": 55865
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/headquarters-catalog.csv",
-      "type": "blob",
-      "size": 39553
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/headquarters-catalog.json",
-      "type": "blob",
-      "size": 46037
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/starter.jpg",
-      "type": "blob",
-      "size": 110788
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_Concrete_bunker_square-2048.png",
-      "type": "blob",
-      "size": 1200012
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_Fortress_Darwin_square-2048.png",
-      "type": "blob",
-      "size": 1365819
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_Iwo_Jima_square-2048.png",
-      "type": "blob",
-      "size": 1126273
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_submarine_square.png",
-      "type": "blob",
-      "size": 1279580
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_Supply_Train_square-2048.png",
-      "type": "blob",
-      "size": 1131465
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_tank_square_british.png",
-      "type": "blob",
-      "size": 1018248
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_tank_square_german.png",
-      "type": "blob",
-      "size": 787066
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_tank_square_japan.png",
-      "type": "blob",
-      "size": 767750
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_tank_square_soviet.png",
-      "type": "blob",
-      "size": 1089269
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_Battlefield_tank_square_US.png",
-      "type": "blob",
-      "size": 1444873
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-ardennes-2048.png",
-      "type": "blob",
-      "size": 1139829
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-bryansk-2048.png",
-      "type": "blob",
-      "size": 1500177
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-elalamein-2048.png",
-      "type": "blob",
-      "size": 1115555
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-guadalcanal-2048.png",
-      "type": "blob",
-      "size": 1253372
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-london-2048.png",
-      "type": "blob",
-      "size": 1293693
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-manila-2048.png",
-      "type": "blob",
-      "size": 1198192
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-moscow-2048.png",
-      "type": "blob",
-      "size": 1264467
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-rangoon-2048.png",
-      "type": "blob",
-      "size": 1145363
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-tunis-2048.png",
-      "type": "blob",
-      "size": 1198432
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/headquarters/images/T_nui-board-render-washington-2048.png",
-      "type": "blob",
-      "size": 1061738
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/README.txt",
-      "type": "blob",
-      "size": 1077
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/ardennes.png",
-      "type": "blob",
-      "size": 8153293
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/blueprint.png",
-      "type": "blob",
-      "size": 3776038
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/bryansk.png",
-      "type": "blob",
-      "size": 6686998
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/colonial.png",
-      "type": "blob",
-      "size": 7303374
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/concrete_bunker.png",
-      "type": "blob",
-      "size": 19596970
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/default.png",
-      "type": "blob",
-      "size": 6171752
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/desert.png",
-      "type": "blob",
-      "size": 5425905
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/desert2.png",
-      "type": "blob",
-      "size": 6387995
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/fabric.png",
-      "type": "blob",
-      "size": 7480981
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/fabricDark.png",
-      "type": "blob",
-      "size": 7480981
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/fortress_darwin.png",
-      "type": "blob",
-      "size": 32014079
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/iwo_jima.png",
-      "type": "blob",
-      "size": 1126273
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/london.png",
-      "type": "blob",
-      "size": 4581160
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/metal.png",
-      "type": "blob",
-      "size": 4102345
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/metal2.png",
-      "type": "blob",
-      "size": 6400696
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/moscow.png",
-      "type": "blob",
-      "size": 7661414
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/poland.png",
-      "type": "blob",
-      "size": 7763191
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/reset.png",
-      "type": "blob",
-      "size": 6171752
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/starter.jpg",
-      "type": "blob",
-      "size": 110788
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/submarine.png",
-      "type": "blob",
-      "size": 14327237
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/supply_train.png",
-      "type": "blob",
-      "size": 29516721
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_britain.png",
-      "type": "blob",
-      "size": 26454187
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_germany.png",
-      "type": "blob",
-      "size": 19532970
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_japan.png",
-      "type": "blob",
-      "size": 14512565
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_soviet.png",
-      "type": "blob",
-      "size": 28716588
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_us.png",
-      "type": "blob",
-      "size": 29090249
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tropical.png",
-      "type": "blob",
-      "size": 6723951
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tropical2.png",
-      "type": "blob",
-      "size": 6341093
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/washington.png",
-      "type": "blob",
-      "size": 5191480
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/tablecloths-catalog.csv",
-      "type": "blob",
-      "size": 7453
-    },
-    {
-      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/tablecloths-catalog.json",
-      "type": "blob",
-      "size": 15355
+      "size": 21056
     },
     {
       "path": "KD_Main_Poster/Anzac/BR_17th_infantry_brigade.jpg",
@@ -6274,11 +5609,6 @@
       "path": "KD_Main_Poster/Anzac/BR_z_special_unit.jpg",
       "type": "blob",
       "size": 217344
-    },
-    {
-      "path": "KD_Main_Poster/authors.json",
-      "type": "blob",
-      "size": 5443
     },
     {
       "path": "KD_Main_Poster/Britain/RL_finest_hour.png",
@@ -6336,26 +5666,6 @@
       "size": 1293100
     },
     {
-      "path": "KD_Main_Poster/Germany/germany_reserved/RL_43_infantry_regiment.jpg",
-      "type": "blob",
-      "size": 580796
-    },
-    {
-      "path": "KD_Main_Poster/Germany/germany_reserved/RL_989_infantry_regiment.png",
-      "type": "blob",
-      "size": 2760685
-    },
-    {
-      "path": "KD_Main_Poster/Germany/germany_reserved/RL_blitz_doctrine.png",
-      "type": "blob",
-      "size": 2988433
-    },
-    {
-      "path": "KD_Main_Poster/Germany/germany_reserved/RL_capitulation.png",
-      "type": "blob",
-      "size": 3127034
-    },
-    {
       "path": "KD_Main_Poster/Germany/RL_119_grenadier.png",
       "type": "blob",
       "size": 3671637
@@ -6404,6 +5714,26 @@
       "path": "KD_Main_Poster/Germany/SLE_combined_arms_alt.jpg",
       "type": "blob",
       "size": 330161
+    },
+    {
+      "path": "KD_Main_Poster/Germany/germany_reserved/RL_43_infantry_regiment.jpg",
+      "type": "blob",
+      "size": 580796
+    },
+    {
+      "path": "KD_Main_Poster/Germany/germany_reserved/RL_989_infantry_regiment.png",
+      "type": "blob",
+      "size": 2760685
+    },
+    {
+      "path": "KD_Main_Poster/Germany/germany_reserved/RL_blitz_doctrine.png",
+      "type": "blob",
+      "size": 2988433
+    },
+    {
+      "path": "KD_Main_Poster/Germany/germany_reserved/RL_capitulation.png",
+      "type": "blob",
+      "size": 3127034
     },
     {
       "path": "KD_Main_Poster/Italy/BR_trento_division.png",
@@ -6486,11 +5816,6 @@
       "size": 3411616
     },
     {
-      "path": "KD_Main_Poster/style_notes.txt",
-      "type": "blob",
-      "size": 66
-    },
-    {
       "path": "KD_Main_Poster/USA/BR_133rd_ironman.png",
       "type": "blob",
       "size": 2044627
@@ -6526,9 +5851,54 @@
       "size": 2370858
     },
     {
-      "path": "README.md",
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_britain.png",
       "type": "blob",
-      "size": 5408
+      "size": 26454187
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_germany.png",
+      "type": "blob",
+      "size": 19532970
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_japan.png",
+      "type": "blob",
+      "size": 14512565
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_soviet.png",
+      "type": "blob",
+      "size": 28716588
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tank_us.png",
+      "type": "blob",
+      "size": 29090249
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tropical.png",
+      "type": "blob",
+      "size": 6723951
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/tropical2.png",
+      "type": "blob",
+      "size": 6341093
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/images/washington.png",
+      "type": "blob",
+      "size": 5191480
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/tablecloths-catalog.csv",
+      "type": "blob",
+      "size": 7453
+    },
+    {
+      "path": "kards-profile-cosmetics-zh-Hans/tablecloths/tablecloths-catalog.json",
+      "type": "blob",
+      "size": 15005
     }
   ]
 }
